@@ -2,6 +2,11 @@
 
 **Stack:** Python + R + SQL • **Dashboard:** Streamlit • **Data:** IBM Telco Customer Churn, 7,043 customers × 21 columns
 
+**Live dashboard:** <https://customer-churn-retention-platform-eusx5jhkbcd5eztcurbyam.streamlit.app/>
+Deep-linkable, so `?page=survival` or `?page=fairness` opens that page directly. It reads the
+committed `outputs/` files in this repo and never retrains, which is why the hosted numbers and
+the numbers below are the same numbers.
+
 A telecom client loses subscribers, but retention offers go to everyone equally.
 This pipeline answers: who will churn, why, when, and who is worth the spend.
 Everything on screen is a committed artefact — the dashboard and the API read what
@@ -45,7 +50,8 @@ cross-check) → fairness by segment → retention actions → DuckDB + SQL mirr
 
 ## Dashboard — Streamlit, seven pages
 
-`streamlit run dashboard/app.py`, deep-linkable via `?page=`. Sidebar filters on risk tier and contract
+Live at <https://customer-churn-retention-platform-eusx5jhkbcd5eztcurbyam.streamlit.app/>, or run it
+with `streamlit run dashboard/app.py`; both are deep-linkable via `?page=`. Sidebar filters on risk tier and contract
 apply to every page. Screenshots are in `docs/screenshots/` and regenerate with
 `python dashboard/capture_screenshots.py` (headless Chrome over the DevTools protocol — a plain
 `chrome --screenshot` writes a blank page because Streamlit streams over a websocket).
