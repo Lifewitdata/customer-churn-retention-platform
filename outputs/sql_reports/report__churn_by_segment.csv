@@ -1,0 +1,25 @@
+dimension,segment,customers,churn_rate,index_vs_base,mean_monthly_charge,lost_monthly_revenue
+Contract,Month-to-month,3875,0.4271,1.6,66.4,120847.0
+Contract,One year,1473,0.1127,0.4,65.05,14118.0
+Contract,Two year,1695,0.0283,0.1,60.77,4165.0
+InternetService,Fiber optic,3096,0.4189,1.6,91.5,114300.0
+InternetService,DSL,2421,0.1896,0.7,58.1,22529.0
+InternetService,No,1526,0.074,0.3,21.08,2302.0
+OnlineSecurity,No,3498,0.4177,1.6,75.69,112763.0
+OnlineSecurity,Yes,2019,0.1461,0.6,78.84,24067.0
+OnlineSecurity,No internet service,1526,0.074,0.3,21.08,2302.0
+PaperlessBilling,Yes,4171,0.3357,1.3,73.55,109510.0
+PaperlessBilling,No,2872,0.1633,0.6,51.99,29621.0
+PaymentMethod,Electronic check,2365,0.4529,1.7,76.26,84289.0
+PaymentMethod,Mailed check,1612,0.1911,0.7,43.92,16804.0
+PaymentMethod,Bank transfer (automatic),1544,0.1671,0.6,67.19,20092.0
+PaymentMethod,Credit card (automatic),1522,0.1524,0.6,66.51,17947.0
+SeniorCitizen,senior,1142,0.4168,1.6,79.82,38420.0
+SeniorCitizen,non-senior,5901,0.2361,0.9,61.85,100711.0
+TechSupport,No,3473,0.4164,1.6,74.59,110710.0
+TechSupport,Yes,2044,0.1517,0.6,80.68,26119.0
+TechSupport,No internet service,1526,0.074,0.3,21.08,2302.0
+tenure_band,0-12,2186,0.4744,1.8,56.1,68954.0
+tenure_band,13-24,1024,0.2871,1.1,61.36,23082.0
+tenure_band,25-48,1594,0.2039,0.8,65.93,27463.0
+tenure_band,49-72,2239,0.0951,0.4,73.95,19632.0

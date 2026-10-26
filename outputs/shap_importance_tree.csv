@@ -1,0 +1,62 @@
+feature,mean_abs_shap,shap_sign
+cat__Contract_Month-to-month,0.6358053249597755,1.0
+num__tenure,0.27844222776438243,-1.0
+cat__OnlineSecurity_No,0.22264525008282934,1.0
+cat__TechSupport_No,0.14575603463360473,-1.0
+cat__InternetService_Fiber optic,0.14430009615393322,-1.0
+cat__Contract_Two year,0.12069917326373154,1.0
+num__contract_risk,0.11631048768988787,1.0
+num__MonthlyCharges,0.11295247844289075,-1.0
+cat__PaymentMethod_Electronic check,0.09459781059874181,-1.0
+num__avg_monthly_spend,0.08947339087912323,-1.0
+cat__PaperlessBilling_No,0.08411557822423323,-1.0
+num__contract_remaining_proxy,0.07360391923123155,1.0
+cat__Contract_One year,0.06947768656575187,-1.0
+num__bill_shock_pct,0.04751471736648505,1.0
+cat__StreamingMovies_Yes,0.04601111866600658,-1.0
+num__TotalCharges,0.04319688131609849,1.0
+num__charges_per_service,0.040193308591604054,-1.0
+cat__OnlineBackup_No,0.03129631853750055,-1.0
+cat__MultipleLines_No,0.029933443233632596,1.0
+cat__InternetService_DSL,0.026593319054160992,1.0
+num__no_security_flag,0.024352638117083842,1.0
+num__log_total_charges,0.022207466361302896,-1.0
+num__SeniorCitizen,0.020295350875170252,1.0
+num__electronic_check_flag,0.019392208635869365,-1.0
+cat__StreamingMovies_No,0.01733122708648459,1.0
+cat__tenure_band_0-12,0.013289635741000715,-1.0
+cat__PaymentMethod_Mailed check,0.012444522732197743,1.0
+num__no_support_flag,0.01013487924488071,-1.0
+cat__Dependents_No,0.009929254307314533,-1.0
+cat__MultipleLines_Yes,0.00976280402031167,-1.0
+cat__PaperlessBilling_Yes,0.007615953400556518,-1.0
+cat__PhoneService_No,0.007102030638448644,-1.0
+cat__StreamingTV_No,0.00585144368115861,1.0
+cat__PaymentMethod_Bank transfer (automatic),0.00497580778090428,-1.0
+cat__gender_Female,0.00476358850072867,-1.0
+num__service_count,0.0038833540280744164,-1.0
+cat__PhoneService_Yes,0.0028850460054184535,-1.0
+cat__PaymentMethod_Credit card (automatic),0.0027423461029901443,1.0
+cat__tenure_band_49-72,0.002730467417929771,-1.0
+cat__DeviceProtection_No,0.002615683107044685,-1.0
+cat__StreamingTV_Yes,0.002317410290872745,-1.0
+num__is_new,0.0023112796478213524,-1.0
+cat__Dependents_Yes,0.0022490545522689917,1.0
+cat__TechSupport_Yes,0.0021716041072347442,-1.0
+cat__tenure_band_13-24,0.001537397685305432,-1.0
+cat__DeviceProtection_Yes,0.0014293024759728511,1.0
+cat__gender_Male,0.0010863449949709938,1.0
+cat__OnlineBackup_Yes,0.000959173512480557,1.0
+cat__Partner_Yes,0.0006439859894508377,-1.0
+cat__OnlineSecurity_Yes,0.00026215587796920236,1.0
+cat__InternetService_No,0.0,0.0
+cat__Partner_No,0.0,0.0
+cat__MultipleLines_No phone service,0.0,0.0
+cat__StreamingTV_No internet service,0.0,0.0
+cat__TechSupport_No internet service,0.0,0.0
+cat__DeviceProtection_No internet service,0.0,0.0
+cat__OnlineBackup_No internet service,0.0,0.0
+cat__OnlineSecurity_No internet service,0.0,0.0
+cat__StreamingMovies_No internet service,0.0,0.0
+cat__tenure_band_25-48,0.0,0.0
+num__bill_shock_flag,0.0,0.0

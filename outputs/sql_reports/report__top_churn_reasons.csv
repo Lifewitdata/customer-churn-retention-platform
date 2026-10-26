@@ -1,0 +1,16 @@
+Churn Reason,Churn Category,churned_customers,pct_of_churners,mean_cltv,mean_satisfaction
+Competitor had better devices,Competitor,313,16.7,4147.0,1.04
+Competitor made better offer,Competitor,311,16.6,4244.0,1.86
+Attitude of support person,Attitude,220,11.8,4146.0,2.01
+Don't know,Other,130,7.0,3991.0,1.82
+Competitor offered more data,Competitor,117,6.3,4217.0,1.91
+Competitor offered higher download speeds,Competitor,100,5.4,4021.0,1.75
+Attitude of service provider,Attitude,94,5.0,4199.0,2.11
+Price too high,Price,78,4.2,4305.0,1.85
+Product dissatisfaction,Dissatisfaction,77,4.1,4233.0,1.09
+Network reliability,Dissatisfaction,72,3.9,4045.0,1.96
+Long distance charges,Price,64,3.4,4218.0,1.78
+Service dissatisfaction,Dissatisfaction,63,3.4,4197.0,1.78
+Moved,Other,46,2.5,3796.0,2.17
+Extra data charges,Price,39,2.1,3756.0,1.82
+Limited range of services,Dissatisfaction,37,2.0,4238.0,2.03

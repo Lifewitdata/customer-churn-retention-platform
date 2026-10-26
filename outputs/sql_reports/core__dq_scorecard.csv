@@ -1,0 +1,43 @@
+check,layer,passed,detail
+column_set_matches_21,business,True,21 columns landed in stg.telco_customer
+row_count_gt_0,business,True,7043
+duplicate_customerID_0,business,True,0 duplicate ids
+duplicate_rows_0,business,True,0 fully duplicated rows
+domain_Partner,business,True,2 allowed values
+domain_Dependents,business,True,2 allowed values
+domain_gender,business,True,2 allowed values
+domain_PhoneService,business,True,2 allowed values
+domain_StreamingTV,business,True,3 allowed values
+domain_OnlineBackup,business,True,3 allowed values
+domain_DeviceProtection,business,True,3 allowed values
+domain_Contract,business,True,3 allowed values
+domain_PaymentMethod,business,True,4 allowed values
+domain_MultipleLines,business,True,3 allowed values
+domain_OnlineSecurity,business,True,3 allowed values
+domain_TechSupport,business,True,3 allowed values
+domain_PaperlessBilling,business,True,2 allowed values
+domain_Churn,business,True,2 allowed values
+domain_SeniorCitizen,business,True,2 allowed values
+domain_InternetService,business,True,3 allowed values
+domain_StreamingMovies,business,True,3 allowed values
+numeric_parse_SeniorCitizen,business,True,0 unparseable
+numeric_parse_tenure,business,True,0 unparseable
+numeric_parse_MonthlyCharges,business,True,0 unparseable
+numeric_parse_TotalCharges,business,True,11 blank
+blank_TotalCharges_only_tenure_0,business,True,11 blanks
+null_rate_TotalCharges_lt_1pct,business,True,0.0016
+customerID_pattern,business,True,0 non-conforming
+customerID_pattern_q3,business,True,0 non-conforming
+tenure_range_0_72,business,True,0-72
+MonthlyCharges_positive,business,True,min 18.25
+TotalCharges_never_negative,business,True,18.8
+churn_rate_not_degenerate,business,True,churn rate 26.54%
+phone_addon_consistency,business,True,"682 no-phone rows, 0 inconsistent"
+internet_addon_consistency,business,True,0 inconsistent (col x row)
+TotalCharges_within_25pct_of_monthly_x_tenure,business,True,0.38% of billed rows deviate >25%
+q3_row_count_matches_primary,sql_only,True,7043 q3 rows
+q3_no_unseen_payment_categories,sql_only,True,0 payment methods outside the primary domain
+q3_contract_domain_still_valid,sql_only,True,0 contract values outside the primary domain
+q3_labels_align_with_primary,sql_only,True,0 label disagreements
+q3_ids_all_present_in_primary,sql_only,True,0 q3 ids not in primary
+zip_population_covers_all_locations,sql_only,True,0 zips with no population row

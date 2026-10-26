@@ -1,0 +1,8 @@
+{
+  "monthly_x_12_mean": 777.14,
+  "ibm_cltv_mean": 4400.3,
+  "pearson_r_monthly_x_12_vs_cltv": 0.0987,
+  "high_risk_value_at_risk_monthly_x_12": 941190.6,
+  "high_risk_value_at_risk_ibm_cltv": 3942726.0,
+  "note": "CLTV is an IBM-supplied field on the secondary release, used for sizing only, never a feature"
+}

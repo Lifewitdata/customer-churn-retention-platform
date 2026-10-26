@@ -1,0 +1,4 @@
+risk_tier,action_guidance,customers,pct_base,mean_predicted,observed_churn_rate,calibration_ratio,monthly_revenue,revenue_at_risk_12m,campaign_cost,scenario_net_profit
+High,Save now: cost of contact is well below retained CLV,981,13.9,0.731,0.7329,1.003,78433.0,941191.0,39240.0,243117.0
+Medium,"Watchlist: cheap touches only (content, usage nudges)",1281,18.2,0.4684,0.4746,1.013,98256.0,0.0,0.0,0.0
+Low,No intervention - contacting these customers is pure cost,4781,67.9,0.1145,0.1134,0.99,279428.0,0.0,0.0,0.0

@@ -1,0 +1,13 @@
+tenure_band,Contract,customers,retention_rate,churned,mean_predicted_churn
+0-12,Month-to-month,1994,0.4865,1024.0,0.5122
+0-12,One year,124,0.8952,13.0,0.1253
+0-12,Two year,68,1.0,0.0,0.0639
+13-24,Month-to-month,737,0.6228,278.0,0.3577
+13-24,One year,197,0.9188,16.0,0.0859
+13-24,Two year,90,1.0,0.0,0.0223
+25-48,Month-to-month,802,0.6708,264.0,0.3182
+25-48,One year,518,0.8938,55.0,0.1066
+25-48,Two year,274,0.9781,6.0,0.0241
+49-72,Month-to-month,342,0.7398,89.0,0.3071
+49-72,One year,634,0.8707,82.0,0.1264
+49-72,Two year,1263,0.9667,42.0,0.0305

@@ -1,0 +1,7 @@
+run_at_utc: 2026-10-26T03:40:25Z
+R_version: R version 4.6.0 (2026-04-24 ucrt)
+survival: 3.8.6
+dplyr: 1.2.1
+ggplot2: 4.0.3
+script: r/survival_analysis.R
+note: KM by contract is descriptive; contract is observed at snapshot, not at signup.

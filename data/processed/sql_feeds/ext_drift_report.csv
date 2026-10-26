@@ -1,0 +1,82 @@
+batch,measurement,value,verdict,detail
+ibm_q3_rerelease,score_psi,0.0201,STABLE,"IBM 11.1.3 Q3 re-release mapped to the 21-column schema. Same 7,043 customers and same labels as the reference; categories re-coded (Electronic check removed, DSL split into DSL/Cable, 265 contracts moved to term). Measures upstream re-coding drift, NOT temporal drift."
+ibm_q3_rerelease,feature_psi_numeric:contract_remaining_proxy,0.0056,STABLE,"{'ref_mean': 4.3075, 'batch_mean': 4.7302, 'mean_shift_pct': 9.81}"
+ibm_q3_rerelease,feature_psi_numeric:contract_risk,0.0038,STABLE,"{'ref_mean': 1.3095, 'batch_mean': 1.2452, 'mean_shift_pct': -4.91}"
+ibm_q3_rerelease,feature_psi_numeric:tenure,0.0001,STABLE,"{'ref_mean': 32.3711, 'batch_mean': 32.3868, 'mean_shift_pct': 0.05}"
+ibm_q3_rerelease,feature_psi_numeric:SeniorCitizen,0.0,STABLE,"{'ref_mean': 0.1621, 'batch_mean': 0.1621, 'mean_shift_pct': 0.0}"
+ibm_q3_rerelease,feature_psi_numeric:service_count,0.0,STABLE,"{'ref_mean': 3.3629, 'batch_mean': 3.3629, 'mean_shift_pct': 0.0}"
+ibm_q3_rerelease,feature_psi_numeric:avg_monthly_spend,0.0,STABLE,"{'ref_mean': 64.7629, 'batch_mean': 64.7629, 'mean_shift_pct': 0.0}"
+ibm_q3_rerelease,feature_psi_numeric:MonthlyCharges,0.0,STABLE,"{'ref_mean': 64.7617, 'batch_mean': 64.7617, 'mean_shift_pct': 0.0}"
+ibm_q3_rerelease,feature_psi_numeric:TotalCharges,0.0,STABLE,"{'ref_mean': 2279.7343, 'batch_mean': 2280.3813, 'mean_shift_pct': 0.03}"
+ibm_q3_rerelease,feature_psi_numeric:bill_shock_flag,0.0,STABLE,"{'ref_mean': 0.0071, 'batch_mean': 0.0071, 'mean_shift_pct': 0.0}"
+ibm_q3_rerelease,feature_psi_numeric:bill_shock_pct,0.0,STABLE,"{'ref_mean': 0.0023, 'batch_mean': 0.0023, 'mean_shift_pct': -0.02}"
+ibm_q3_rerelease,feature_psi_numeric:no_security_flag,0.0,STABLE,"{'ref_mean': 0.4967, 'batch_mean': 0.4967, 'mean_shift_pct': 0.0}"
+ibm_q3_rerelease,feature_psi_numeric:no_support_flag,0.0,STABLE,"{'ref_mean': 0.4931, 'batch_mean': 0.4931, 'mean_shift_pct': 0.0}"
+ibm_q3_rerelease,feature_psi_numeric:electronic_check_flag,0.0,STABLE,"{'ref_mean': 0.3358, 'batch_mean': 0.0, 'mean_shift_pct': -100.0}"
+ibm_q3_rerelease,feature_psi_numeric:is_new,0.0,STABLE,"{'ref_mean': 0.3104, 'batch_mean': 0.3104, 'mean_shift_pct': 0.0}"
+ibm_q3_rerelease,feature_psi_numeric:charges_per_service,0.0,STABLE,"{'ref_mean': 22.51, 'batch_mean': 22.51, 'mean_shift_pct': 0.0}"
+ibm_q3_rerelease,feature_psi_numeric:log_total_charges,0.0,STABLE,"{'ref_mean': 6.9325, 'batch_mean': 6.9417, 'mean_shift_pct': 0.13}"
+ibm_q3_rerelease,feature_psi_categorical:PaymentMethod,3.3899,RETRAIN / INVESTIGATE,"{'worst_category': 'Bank transfer (automatic)', 'ref_share': 0.2192, 'batch_share': 0.555}"
+ibm_q3_rerelease,feature_psi_categorical:Dependents,0.0242,STABLE,"{'worst_category': 'No', 'ref_share': 0.7004, 'batch_share': 0.769}"
+ibm_q3_rerelease,feature_psi_categorical:Contract,0.006,STABLE,"{'worst_category': 'Month-to-month', 'ref_share': 0.5502, 'batch_share': 0.5126}"
+ibm_q3_rerelease,feature_psi_categorical:InternetService,0.0004,STABLE,"{'worst_category': 'Fiber optic', 'ref_share': 0.4396, 'batch_share': 0.4309}"
+ibm_q3_rerelease,feature_psi_categorical:PhoneService,0.0,STABLE,"{'worst_category': 'Yes', 'ref_share': 0.9032, 'batch_share': 0.9032}"
+ibm_q3_rerelease,feature_psi_categorical:MultipleLines,0.0,STABLE,"{'worst_category': 'No', 'ref_share': 0.4813, 'batch_share': 0.4813}"
+ibm_q3_rerelease,feature_psi_categorical:Partner,0.0,STABLE,"{'worst_category': 'No', 'ref_share': 0.517, 'batch_share': 0.517}"
+ibm_q3_rerelease,feature_psi_categorical:gender,0.0,STABLE,"{'worst_category': 'Male', 'ref_share': 0.5048, 'batch_share': 0.5048}"
+ibm_q3_rerelease,feature_psi_categorical:OnlineBackup,0.0,STABLE,"{'worst_category': 'No', 'ref_share': 0.4384, 'batch_share': 0.4384}"
+ibm_q3_rerelease,feature_psi_categorical:OnlineSecurity,0.0,STABLE,"{'worst_category': 'No', 'ref_share': 0.4967, 'batch_share': 0.4967}"
+ibm_q3_rerelease,feature_psi_categorical:DeviceProtection,0.0,STABLE,"{'worst_category': 'No', 'ref_share': 0.4394, 'batch_share': 0.4394}"
+ibm_q3_rerelease,feature_psi_categorical:TechSupport,0.0,STABLE,"{'worst_category': 'No', 'ref_share': 0.4931, 'batch_share': 0.4931}"
+ibm_q3_rerelease,feature_psi_categorical:StreamingMovies,0.0,STABLE,"{'worst_category': 'No', 'ref_share': 0.3954, 'batch_share': 0.3954}"
+ibm_q3_rerelease,feature_psi_categorical:StreamingTV,0.0,STABLE,"{'worst_category': 'No', 'ref_share': 0.399, 'batch_share': 0.399}"
+ibm_q3_rerelease,feature_psi_categorical:PaperlessBilling,0.0,STABLE,"{'worst_category': 'Yes', 'ref_share': 0.5922, 'batch_share': 0.5922}"
+ibm_q3_rerelease,feature_psi_categorical:tenure_band,0.0,STABLE,"{'worst_category': '49-72', 'ref_share': 0.3179, 'batch_share': 0.3179}"
+ibm_q3_rerelease,category_change:PaymentMethod,0.0,SCHEMA CHANGE,unseen=- dropped=Electronic check coverage=1.0
+ibm_q3_rerelease,batch_rows,7043.0,,labels observed on batch
+ibm_q3_rerelease,batch_churn_rate,0.2654,,labels observed on batch
+ibm_q3_rerelease,realised_roc_auc,0.8645,,labels observed on batch
+ibm_q3_rerelease,realised_pr_auc,0.7022,,labels observed on batch
+ibm_q3_rerelease,realised_f1_at_0.60,0.4318,,labels observed on batch
+ibm_q3_rerelease,high_tier_precision_at_0.60,0.8067,,labels observed on batch
+ibm_q3_rerelease,high_tier_share_flagged,0.097,,labels observed on batch
+held_out_test_split,score_psi,0.0038,STABLE,"Stratified test split, never used for training or calibration. Same period as the reference by construction, so a near-zero PSI here is a control, not evidence of stability over time."
+held_out_test_split,feature_psi_numeric:MonthlyCharges,0.0089,STABLE,"{'ref_mean': 64.7617, 'batch_mean': 64.4769, 'mean_shift_pct': -0.44}"
+held_out_test_split,feature_psi_numeric:avg_monthly_spend,0.0049,STABLE,"{'ref_mean': 64.7629, 'batch_mean': 64.4374, 'mean_shift_pct': -0.5}"
+held_out_test_split,feature_psi_numeric:TotalCharges,0.0047,STABLE,"{'ref_mean': 2279.7343, 'batch_mean': 2242.6936, 'mean_shift_pct': -1.62}"
+held_out_test_split,feature_psi_numeric:log_total_charges,0.0047,STABLE,"{'ref_mean': 6.9325, 'batch_mean': 6.9351, 'mean_shift_pct': 0.04}"
+held_out_test_split,feature_psi_numeric:charges_per_service,0.004,STABLE,"{'ref_mean': 22.51, 'batch_mean': 22.6095, 'mean_shift_pct': 0.44}"
+held_out_test_split,feature_psi_numeric:service_count,0.0021,STABLE,"{'ref_mean': 3.3629, 'batch_mean': 3.3089, 'mean_shift_pct': -1.61}"
+held_out_test_split,feature_psi_numeric:bill_shock_pct,0.002,STABLE,"{'ref_mean': 0.0023, 'batch_mean': 0.0032, 'mean_shift_pct': 39.85}"
+held_out_test_split,feature_psi_numeric:tenure,0.0017,STABLE,"{'ref_mean': 32.3711, 'batch_mean': 32.3958, 'mean_shift_pct': 0.08}"
+held_out_test_split,feature_psi_numeric:contract_remaining_proxy,0.0008,STABLE,"{'ref_mean': 4.3075, 'batch_mean': 4.4009, 'mean_shift_pct': 2.17}"
+held_out_test_split,feature_psi_numeric:SeniorCitizen,0.0,STABLE,"{'ref_mean': 0.1621, 'batch_mean': 0.1624, 'mean_shift_pct': 0.16}"
+held_out_test_split,feature_psi_numeric:bill_shock_flag,0.0,STABLE,"{'ref_mean': 0.0071, 'batch_mean': 0.0068, 'mean_shift_pct': -4.01}"
+held_out_test_split,feature_psi_numeric:no_support_flag,0.0,STABLE,"{'ref_mean': 0.4931, 'batch_mean': 0.5043, 'mean_shift_pct': 2.26}"
+held_out_test_split,feature_psi_numeric:electronic_check_flag,0.0,STABLE,"{'ref_mean': 0.3358, 'batch_mean': 0.3367, 'mean_shift_pct': 0.28}"
+held_out_test_split,feature_psi_numeric:contract_risk,0.0,STABLE,"{'ref_mean': 1.3095, 'batch_mean': 1.3072, 'mean_shift_pct': -0.18}"
+held_out_test_split,feature_psi_numeric:no_security_flag,0.0,STABLE,"{'ref_mean': 0.4967, 'batch_mean': 0.4997, 'mean_shift_pct': 0.61}"
+held_out_test_split,feature_psi_numeric:is_new,0.0,STABLE,"{'ref_mean': 0.3104, 'batch_mean': 0.3032, 'mean_shift_pct': -2.3}"
+held_out_test_split,feature_psi_categorical:StreamingTV,0.0017,STABLE,"{'worst_category': 'Yes', 'ref_share': 0.3844, 'batch_share': 0.3657}"
+held_out_test_split,feature_psi_categorical:MultipleLines,0.0016,STABLE,"{'worst_category': 'No', 'ref_share': 0.4813, 'batch_share': 0.4946}"
+held_out_test_split,feature_psi_categorical:PhoneService,0.0013,STABLE,"{'worst_category': 'Yes', 'ref_share': 0.9032, 'batch_share': 0.9137}"
+held_out_test_split,feature_psi_categorical:tenure_band,0.001,STABLE,"{'worst_category': '13-24', 'ref_share': 0.1454, 'batch_share': 0.1545}"
+held_out_test_split,feature_psi_categorical:TechSupport,0.0008,STABLE,"{'worst_category': 'Yes', 'ref_share': 0.2902, 'batch_share': 0.2783}"
+held_out_test_split,feature_psi_categorical:DeviceProtection,0.0005,STABLE,"{'worst_category': 'Yes', 'ref_share': 0.3439, 'batch_share': 0.3339}"
+held_out_test_split,feature_psi_categorical:OnlineBackup,0.0005,STABLE,"{'worst_category': 'Yes', 'ref_share': 0.3449, 'batch_share': 0.335}"
+held_out_test_split,feature_psi_categorical:Partner,0.0004,STABLE,"{'worst_category': 'No', 'ref_share': 0.517, 'batch_share': 0.5065}"
+held_out_test_split,feature_psi_categorical:PaymentMethod,0.0004,STABLE,"{'worst_category': 'Bank transfer (automatic)', 'ref_share': 0.2192, 'batch_share': 0.2118}"
+held_out_test_split,feature_psi_categorical:StreamingMovies,0.0003,STABLE,"{'worst_category': 'Yes', 'ref_share': 0.3879, 'batch_share': 0.3805}"
+held_out_test_split,feature_psi_categorical:Dependents,0.0003,STABLE,"{'worst_category': 'Yes', 'ref_share': 0.2996, 'batch_share': 0.3072}"
+held_out_test_split,feature_psi_categorical:gender,0.0001,STABLE,"{'worst_category': 'Female', 'ref_share': 0.4952, 'batch_share': 0.4901}"
+held_out_test_split,feature_psi_categorical:OnlineSecurity,0.0001,STABLE,"{'worst_category': 'Yes', 'ref_share': 0.2867, 'batch_share': 0.2828}"
+held_out_test_split,feature_psi_categorical:InternetService,0.0,STABLE,"{'worst_category': 'No', 'ref_share': 0.2167, 'batch_share': 0.2175}"
+held_out_test_split,feature_psi_categorical:PaperlessBilling,0.0,STABLE,"{'worst_category': 'Yes', 'ref_share': 0.5922, 'batch_share': 0.59}"
+held_out_test_split,feature_psi_categorical:Contract,0.0,STABLE,"{'worst_category': 'Two year', 'ref_share': 0.2407, 'batch_share': 0.2425}"
+held_out_test_split,batch_rows,1761.0,,labels observed on batch
+held_out_test_split,batch_churn_rate,0.2652,,labels observed on batch
+held_out_test_split,realised_roc_auc,0.8495,,labels observed on batch
+held_out_test_split,realised_pr_auc,0.6637,,labels observed on batch
+held_out_test_split,realised_f1_at_0.60,0.4793,,labels observed on batch
+held_out_test_split,high_tier_precision_at_0.60,0.7179,,labels observed on batch
+held_out_test_split,high_tier_share_flagged,0.1329,,labels observed on batch

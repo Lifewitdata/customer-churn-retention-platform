@@ -1,0 +1,982 @@
+customerID,risk_tier,churn_probability,Contract,PaymentMethod,MonthlyCharges,tenure,service_count,no_support_flag,bill_shock_flag,annual_revenue,expected_net_value,recommended_action
+1583-IHQZE,High,0.6052,Month-to-month,Mailed check,112.95,12,7,0,0,1355.0,367.0,Product education + onboarding check-in
+3292-PBZEJ,High,0.6859,Month-to-month,Electronic check,111.4,11,7,0,0,1337.0,361.0,Proactive support call + contract upgrade offer
+0115-TFERT,High,0.6017,Month-to-month,Electronic check,111.2,21,7,0,0,1334.0,360.0,Proactive support call + contract upgrade offer
+3992-YWPKO,High,0.6867,Month-to-month,Credit card (automatic),109.9,6,7,0,0,1319.0,356.0,Product education + onboarding check-in
+2081-VEYEH,High,0.7971,Month-to-month,Electronic check,107.95,3,6,0,0,1295.0,349.0,Proactive support call + contract upgrade offer
+5760-IFJOZ,High,0.7499,Month-to-month,Mailed check,107.95,3,6,1,0,1295.0,349.0,Proactive support call + tech-support bundle
+3606-TWKGI,High,0.7491,Month-to-month,Electronic check,106.9,13,6,1,0,1283.0,345.0,Proactive support call + contract upgrade offer
+2027-FECZV,High,0.6824,Month-to-month,Electronic check,106.7,12,6,1,0,1280.0,344.0,Proactive support call + contract upgrade offer
+8118-LSUEL,High,0.6272,Month-to-month,Electronic check,106.4,23,6,1,0,1277.0,343.0,Proactive support call + contract upgrade offer
+3957-LXOLK,High,0.6188,Month-to-month,Electronic check,106.15,28,6,1,0,1274.0,342.0,Proactive support call + contract upgrade offer
+1309-BXVOQ,High,0.6052,Month-to-month,Electronic check,106.1,21,6,0,0,1273.0,342.0,Proactive support call + contract upgrade offer
+8868-WOZGU,High,0.6017,Month-to-month,Electronic check,105.7,28,6,1,0,1268.0,341.0,Proactive support call + contract upgrade offer
+1400-MMYXY,High,0.9434,Month-to-month,Electronic check,105.9,3,6,1,0,1271.0,341.0,Proactive support call + contract upgrade offer
+8111-SLLHI,High,0.6017,Month-to-month,Electronic check,105.65,39,6,1,0,1268.0,340.0,Proactive support call + contract upgrade offer
+3389-YGYAI,High,0.8729,Month-to-month,Electronic check,105.5,8,6,1,0,1266.0,340.0,Proactive support call + contract upgrade offer
+7145-FEJWU,High,0.6371,Month-to-month,Electronic check,105.3,12,6,1,0,1264.0,339.0,Proactive support call + contract upgrade offer
+4587-VVTOX,High,0.8729,Month-to-month,Electronic check,105.3,6,6,1,0,1264.0,339.0,Proactive support call + contract upgrade offer
+6734-GMPVK,High,0.7911,Month-to-month,Electronic check,105.3,5,6,1,0,1264.0,339.0,Proactive support call + contract upgrade offer
+5052-PNLOS,High,0.8729,Month-to-month,Bank transfer (automatic),105.35,3,6,1,0,1264.0,339.0,Proactive support call + tech-support bundle
+3001-CBHLQ,High,0.6017,Month-to-month,Electronic check,104.9,32,6,0,0,1259.0,338.0,Proactive support call + contract upgrade offer
+6496-SLWHQ,High,0.9434,Month-to-month,Electronic check,105.0,3,6,1,0,1260.0,338.0,Proactive support call + contract upgrade offer
+8625-AZYZY,High,0.6052,Month-to-month,Electronic check,104.65,24,6,1,0,1256.0,337.0,Proactive support call + contract upgrade offer
+9221-OTIVJ,High,0.7051,Month-to-month,Electronic check,104.85,14,6,1,0,1258.0,337.0,Proactive support call + contract upgrade offer
+5956-YHHRX,High,0.6272,Month-to-month,Electronic check,104.35,21,6,1,0,1252.0,336.0,Proactive support call + contract upgrade offer
+5923-GXUOC,High,0.6017,Month-to-month,Electronic check,104.4,10,6,1,0,1253.0,336.0,Proactive support call + contract upgrade offer
+1875-QIVME,High,0.9117,Month-to-month,Electronic check,104.4,2,6,0,0,1253.0,336.0,Proactive support call + contract upgrade offer
+5995-SNNEW,High,0.6272,Month-to-month,Electronic check,104.45,23,6,1,0,1253.0,336.0,Proactive support call + contract upgrade offer
+9874-QLCLH,High,0.6017,Month-to-month,Electronic check,104.2,17,6,1,0,1250.0,335.0,Proactive support call + contract upgrade offer
+2107-FBPTK,High,0.6052,Month-to-month,Electronic check,104.1,30,6,1,0,1249.0,335.0,Proactive support call + contract upgrade offer
+5293-WXJAK,High,0.6824,Month-to-month,Bank transfer (automatic),104.05,11,6,0,0,1249.0,335.0,Product education + onboarding check-in
+6892-XPFPU,High,0.6272,Month-to-month,Electronic check,104.25,24,6,1,0,1251.0,335.0,Proactive support call + contract upgrade offer
+2369-UAPKZ,High,0.6505,Month-to-month,Mailed check,104.1,5,6,1,0,1249.0,335.0,Proactive support call + tech-support bundle
+8313-NDOIA,High,0.6052,Month-to-month,Electronic check,104.15,24,6,1,0,1250.0,335.0,Proactive support call + contract upgrade offer
+5519-YLDGW,High,0.6052,Month-to-month,Electronic check,103.9,21,6,1,0,1247.0,334.0,Proactive support call + contract upgrade offer
+3001-UNBTL,High,0.6017,Month-to-month,Electronic check,103.95,29,5,1,0,1247.0,334.0,Proactive support call + contract upgrade offer
+4298-OYIFC,High,0.6052,Month-to-month,Electronic check,103.45,15,6,0,0,1241.0,332.0,Proactive support call + contract upgrade offer
+2357-COQEK,High,0.6052,Month-to-month,Electronic check,103.3,28,6,0,0,1240.0,332.0,Proactive support call + contract upgrade offer
+7142-HVGBG,High,0.6017,Month-to-month,Electronic check,103.0,43,6,1,0,1236.0,331.0,Proactive support call + contract upgrade offer
+2034-CGRHZ,High,0.6052,Month-to-month,Credit card (automatic),102.95,24,6,1,0,1235.0,331.0,Proactive support call + tech-support bundle
+2439-LYPMQ,High,0.6017,Month-to-month,Electronic check,102.6,38,6,1,0,1231.0,329.0,Proactive support call + contract upgrade offer
+9547-ITEFG,High,0.6272,Month-to-month,Credit card (automatic),102.6,9,6,1,0,1231.0,329.0,Proactive support call + tech-support bundle
+7181-BQYBV,High,0.9155,Month-to-month,Electronic check,102.45,1,6,1,0,1229.0,329.0,Proactive support call + contract upgrade offer
+0365-BZUWY,High,0.6052,Month-to-month,Electronic check,102.55,17,6,1,0,1231.0,329.0,Proactive support call + contract upgrade offer
+0871-URUWO,High,0.6052,Month-to-month,Credit card (automatic),102.25,13,5,1,0,1227.0,328.0,Proactive support call + tech-support bundle
+1465-VINDH,High,0.6272,Month-to-month,Credit card (automatic),102.1,10,6,1,0,1225.0,328.0,Proactive support call + tech-support bundle
+8884-ADFVN,High,0.8729,Month-to-month,Electronic check,101.95,7,5,1,0,1223.0,327.0,Proactive support call + contract upgrade offer
+6688-UZPWD,High,0.7,Month-to-month,Electronic check,102.0,11,5,1,0,1224.0,327.0,Proactive support call + contract upgrade offer
+3629-ZNKXA,High,0.6017,Month-to-month,Electronic check,101.8,17,5,1,0,1222.0,326.0,Proactive support call + contract upgrade offer
+5299-SJCZT,High,0.8729,Month-to-month,Bank transfer (automatic),101.55,3,5,1,0,1219.0,326.0,Proactive support call + tech-support bundle
+0702-PGIBZ,High,0.8729,Month-to-month,Electronic check,101.7,4,5,1,0,1220.0,326.0,Proactive support call + contract upgrade offer
+4597-NUCQV,High,0.6272,Month-to-month,Electronic check,101.25,24,5,1,0,1215.0,325.0,Proactive support call + contract upgrade offer
+0125-LZQXK,High,0.6017,Month-to-month,Electronic check,101.35,15,5,0,0,1216.0,325.0,Proactive support call + contract upgrade offer
+7234-FECYN,High,0.8076,Month-to-month,Electronic check,101.35,8,5,1,0,1216.0,325.0,Proactive support call + contract upgrade offer
+3663-MITLP,High,0.6017,Month-to-month,Electronic check,101.25,15,5,1,0,1215.0,325.0,Proactive support call + contract upgrade offer
+5419-JPRRN,High,1.0,Month-to-month,Electronic check,101.45,1,5,1,0,1217.0,325.0,Proactive support call + contract upgrade offer
+4958-XCBDQ,High,0.6052,Month-to-month,Electronic check,101.4,35,5,1,0,1217.0,325.0,Proactive support call + contract upgrade offer
+3902-FOIGH,High,0.8111,Month-to-month,Electronic check,101.35,12,5,1,0,1216.0,325.0,Proactive support call + contract upgrade offer
+1028-FFNJK,High,0.6017,Month-to-month,Electronic check,101.5,30,5,0,0,1218.0,325.0,Proactive support call + contract upgrade offer
+4433-JCGCG,High,0.6017,Month-to-month,Electronic check,101.0,46,5,1,0,1212.0,324.0,Proactive support call + contract upgrade offer
+2430-USGXP,High,0.6052,Month-to-month,Electronic check,101.05,24,5,1,0,1213.0,324.0,Proactive support call + contract upgrade offer
+0880-TKATG,High,0.8285,Month-to-month,Electronic check,101.15,4,5,1,0,1214.0,324.0,Proactive support call + contract upgrade offer
+0680-DFNNY,High,0.7392,Month-to-month,Electronic check,101.1,15,5,1,0,1213.0,324.0,Proactive support call + contract upgrade offer
+0302-JOIVN,High,0.6052,Month-to-month,Electronic check,101.15,8,5,1,0,1214.0,324.0,Proactive support call + contract upgrade offer
+6029-WTIPC,High,0.6052,Month-to-month,Electronic check,101.1,37,5,1,0,1213.0,324.0,Proactive support call + contract upgrade offer
+7216-EWTRS,High,1.0,Month-to-month,Electronic check,100.8,1,5,1,0,1210.0,323.0,Proactive support call + contract upgrade offer
+6326-MTTXK,High,0.6725,Month-to-month,Electronic check,100.85,8,5,1,0,1210.0,323.0,Proactive support call + contract upgrade offer
+4132-KALRO,High,0.7245,Month-to-month,Mailed check,100.85,4,5,0,0,1210.0,323.0,Product education + onboarding check-in
+4078-SAYYN,High,0.8076,Month-to-month,Electronic check,100.75,11,5,1,0,1209.0,323.0,Proactive support call + contract upgrade offer
+8510-AWCXC,High,0.6272,Month-to-month,Electronic check,100.8,13,5,1,0,1210.0,323.0,Proactive support call + contract upgrade offer
+6023-YEBUP,High,0.9186,Month-to-month,Electronic check,100.95,3,5,1,0,1211.0,323.0,Proactive support call + contract upgrade offer
+6851-WEFYX,High,0.6052,Month-to-month,Electronic check,100.8,35,5,1,0,1210.0,323.0,Proactive support call + contract upgrade offer
+5590-BYNII,High,0.6017,Month-to-month,Electronic check,100.75,22,5,1,0,1209.0,323.0,Proactive support call + contract upgrade offer
+7315-WYOAW,High,0.6017,Month-to-month,Electronic check,100.75,13,5,0,0,1209.0,323.0,Proactive support call + contract upgrade offer
+0781-LKXBR,High,0.8729,Month-to-month,Electronic check,100.5,9,5,1,0,1206.0,322.0,Proactive support call + contract upgrade offer
+2968-SSGAA,High,0.839,Month-to-month,Electronic check,100.6,10,5,1,0,1207.0,322.0,Proactive support call + contract upgrade offer
+7029-RPUAV,High,0.6052,Month-to-month,Credit card (automatic),100.45,17,5,1,0,1205.0,322.0,Proactive support call + tech-support bundle
+4822-RVYBB,High,0.8729,Month-to-month,Electronic check,100.6,8,5,1,0,1207.0,322.0,Proactive support call + contract upgrade offer
+7392-YYPYJ,High,0.6052,Month-to-month,Electronic check,100.65,22,5,1,0,1208.0,322.0,Proactive support call + contract upgrade offer
+9681-OXGVC,High,0.8729,Month-to-month,Electronic check,100.5,5,5,1,0,1206.0,322.0,Proactive support call + contract upgrade offer
+6615-NGGZJ,High,0.6272,Month-to-month,Electronic check,100.55,14,5,1,0,1207.0,322.0,Proactive support call + contract upgrade offer
+2656-TABEH,High,0.8729,Month-to-month,Electronic check,100.2,4,5,1,0,1202.0,321.0,Proactive support call + contract upgrade offer
+5299-RULOA,High,0.6272,Month-to-month,Electronic check,100.25,10,5,1,0,1203.0,321.0,Proactive support call + contract upgrade offer
+9094-AZPHK,High,0.6725,Month-to-month,Electronic check,100.15,15,5,1,0,1202.0,321.0,Proactive support call + contract upgrade offer
+7379-FNIUJ,High,0.6858,Month-to-month,Electronic check,100.2,2,5,1,0,1202.0,321.0,Proactive support call + contract upgrade offer
+2612-RANWT,High,0.6824,Month-to-month,Bank transfer (automatic),100.15,12,5,1,0,1202.0,321.0,Proactive support call + tech-support bundle
+3178-FESZO,High,0.9434,Month-to-month,Credit card (automatic),100.25,1,5,1,0,1203.0,321.0,Proactive support call + tech-support bundle
+3621-CEOVK,High,0.6859,Month-to-month,Electronic check,100.2,14,5,1,0,1202.0,321.0,Proactive support call + contract upgrade offer
+2754-SDJRD,High,0.7,Month-to-month,Credit card (automatic),100.15,8,5,0,0,1202.0,321.0,Product education + onboarding check-in
+9330-IJWIO,High,0.6052,Month-to-month,Electronic check,100.35,13,5,1,0,1204.0,321.0,Proactive support call + contract upgrade offer
+0722-SVSFK,High,0.6272,Month-to-month,Electronic check,100.4,7,5,0,0,1205.0,321.0,Proactive support call + contract upgrade offer
+8397-MVTAZ,High,0.6052,Month-to-month,Electronic check,100.05,34,5,1,0,1201.0,320.0,Proactive support call + contract upgrade offer
+3473-XIIIT,High,0.67,Month-to-month,Electronic check,100.0,16,5,1,0,1200.0,320.0,Proactive support call + contract upgrade offer
+8634-MPHTR,High,0.6017,Month-to-month,Electronic check,100.05,47,5,1,0,1201.0,320.0,Proactive support call + contract upgrade offer
+1254-IZEYF,High,0.61,Month-to-month,Electronic check,99.95,31,5,1,0,1199.0,320.0,Proactive support call + contract upgrade offer
+5883-GTGVD,High,0.6052,Month-to-month,Electronic check,99.95,19,5,1,0,1199.0,320.0,Proactive support call + contract upgrade offer
+3440-JPSCL,High,0.6052,Month-to-month,Mailed check,99.95,6,5,0,0,1199.0,320.0,Product education + onboarding check-in
+1571-SAVHK,High,0.6052,Month-to-month,Mailed check,99.95,12,5,0,0,1199.0,320.0,Product education + onboarding check-in
+0420-HLGXF,High,0.6052,Month-to-month,Electronic check,99.75,39,5,1,0,1197.0,319.0,Proactive support call + contract upgrade offer
+6215-NQCPY,High,0.6052,Month-to-month,Electronic check,99.7,15,5,1,0,1196.0,319.0,Proactive support call + contract upgrade offer
+0107-YHINA,High,1.0,Month-to-month,Electronic check,99.75,1,5,1,0,1197.0,319.0,Proactive support call + contract upgrade offer
+2845-AFFTX,High,0.6052,Month-to-month,Electronic check,99.8,41,5,1,0,1198.0,319.0,Proactive support call + contract upgrade offer
+6543-XRMYR,High,0.61,Month-to-month,Electronic check,99.7,30,5,1,0,1196.0,319.0,Proactive support call + contract upgrade offer
+9305-CDSKC,High,0.8729,Month-to-month,Electronic check,99.65,8,5,1,0,1196.0,319.0,Proactive support call + contract upgrade offer
+2265-CYWIV,High,0.8729,Month-to-month,Electronic check,99.6,4,5,1,0,1195.0,319.0,Proactive support call + contract upgrade offer
+8443-WVPSS,High,0.6017,Month-to-month,Electronic check,99.85,10,5,0,0,1198.0,319.0,Proactive support call + contract upgrade offer
+5419-CONWX,High,0.8076,Month-to-month,Credit card (automatic),99.8,4,5,1,0,1198.0,319.0,Proactive support call + tech-support bundle
+3811-VBYBZ,High,0.839,Month-to-month,Electronic check,99.8,7,5,1,0,1198.0,319.0,Proactive support call + contract upgrade offer
+6210-KBBPI,High,0.7444,Month-to-month,Credit card (automatic),99.45,9,5,1,0,1193.0,318.0,Proactive support call + tech-support bundle
+0897-FEGMU,High,0.839,Month-to-month,Electronic check,99.5,11,5,1,0,1194.0,318.0,Proactive support call + contract upgrade offer
+2012-NWRPA,High,0.8729,Month-to-month,Electronic check,99.55,11,5,1,0,1195.0,318.0,Proactive support call + contract upgrade offer
+7450-NWRTR,High,0.8729,Month-to-month,Electronic check,99.45,12,5,1,0,1193.0,318.0,Proactive support call + contract upgrade offer
+7780-OTDSO,High,0.6052,Month-to-month,Electronic check,99.4,18,5,1,0,1193.0,318.0,Proactive support call + contract upgrade offer
+7028-DVOIQ,High,0.6052,Month-to-month,Electronic check,99.05,35,5,1,0,1189.0,317.0,Proactive support call + contract upgrade offer
+6861-XWTWQ,High,0.8729,Month-to-month,Electronic check,99.25,7,5,1,0,1191.0,317.0,Proactive support call + contract upgrade offer
+4445-ZJNMU,High,0.6824,Month-to-month,Credit card (automatic),99.3,9,5,1,0,1192.0,317.0,Proactive support call + tech-support bundle
+2025-JKFWI,High,0.6052,Month-to-month,Mailed check,99.0,13,5,0,0,1188.0,316.0,Loyalty reward offer
+1751-NCDLI,High,0.6017,Month-to-month,Electronic check,98.85,46,5,1,0,1186.0,316.0,Proactive support call + contract upgrade offer
+1075-BGWOH,High,0.783,Month-to-month,Electronic check,98.75,16,5,1,0,1185.0,316.0,Proactive support call + contract upgrade offer
+7079-QRCBC,High,0.6052,Month-to-month,Electronic check,98.75,24,5,1,0,1185.0,316.0,Proactive support call + contract upgrade offer
+6956-SMUCM,High,0.6725,Month-to-month,Credit card (automatic),99.0,3,5,1,0,1188.0,316.0,Proactive support call + tech-support bundle
+4021-RQSNY,High,0.6272,Month-to-month,Electronic check,98.5,29,5,1,0,1182.0,315.0,Proactive support call + contract upgrade offer
+7938-OUHIO,High,0.8729,Month-to-month,Electronic check,98.7,3,5,0,0,1184.0,315.0,Proactive support call + contract upgrade offer
+5138-WVKYJ,High,0.6052,Month-to-month,Electronic check,98.55,10,5,1,0,1183.0,315.0,Proactive support call + contract upgrade offer
+1450-GALXR,High,0.6859,Month-to-month,Electronic check,98.5,10,5,0,0,1182.0,315.0,Proactive support call + contract upgrade offer
+1455-UGQVH,High,0.8729,Month-to-month,Electronic check,98.5,10,5,1,0,1182.0,315.0,Proactive support call + contract upgrade offer
+6683-VLCTZ,High,0.7177,Month-to-month,Electronic check,98.55,20,5,1,0,1183.0,315.0,Proactive support call + contract upgrade offer
+9172-ANCRX,High,0.6725,Month-to-month,Electronic check,98.7,10,5,1,0,1184.0,315.0,Proactive support call + contract upgrade offer
+0946-CLJTI,High,0.6017,Month-to-month,Electronic check,98.7,58,5,1,0,1184.0,315.0,Proactive support call + contract upgrade offer
+4735-ASGMA,High,0.6052,Month-to-month,Electronic check,98.35,26,5,1,0,1180.0,314.0,Proactive support call + contract upgrade offer
+2446-BEGGB,High,0.9046,Month-to-month,Electronic check,98.25,6,5,1,0,1179.0,314.0,Proactive support call + contract upgrade offer
+1866-RZZQS,High,0.6052,Month-to-month,Electronic check,98.4,41,5,1,0,1181.0,314.0,Proactive support call + contract upgrade offer
+9734-YWGEX,High,0.6505,Month-to-month,Credit card (automatic),98.3,9,5,1,0,1180.0,314.0,Proactive support call + tech-support bundle
+0655-RBDUG,High,0.7946,Month-to-month,Bank transfer (automatic),98.05,7,5,1,0,1177.0,313.0,Proactive support call + tech-support bundle
+0011-IGKFF,High,0.6272,Month-to-month,Electronic check,98.0,13,5,1,0,1176.0,313.0,Proactive support call + contract upgrade offer
+6108-OQZDQ,High,0.839,Month-to-month,Electronic check,97.95,4,5,1,0,1175.0,313.0,Proactive support call + contract upgrade offer
+2454-RPBRZ,High,0.6371,Month-to-month,Electronic check,98.1,12,5,1,0,1177.0,313.0,Proactive support call + contract upgrade offer
+7295-JOMMD,High,0.6272,Month-to-month,Bank transfer (automatic),98.1,4,5,0,0,1177.0,313.0,Product education + onboarding check-in
+2665-NPTGL,High,0.6052,Month-to-month,Bank transfer (automatic),98.1,26,5,1,0,1177.0,313.0,Proactive support call + tech-support bundle
+0329-GTIAJ,High,0.8076,Month-to-month,Electronic check,97.9,3,5,0,0,1175.0,312.0,Proactive support call + contract upgrade offer
+8276-MQBYC,High,0.6017,Month-to-month,Electronic check,97.8,51,5,1,0,1174.0,312.0,Proactive support call + contract upgrade offer
+8168-UQWWF,High,0.6824,Month-to-month,Bank transfer (automatic),97.85,11,5,1,0,1174.0,312.0,Proactive support call + tech-support bundle
+7969-AULMZ,High,0.6272,Month-to-month,Electronic check,97.35,21,4,1,0,1168.0,310.0,Proactive support call + contract upgrade offer
+6645-MXQJT,High,0.6405,Month-to-month,Electronic check,97.1,2,4,1,0,1165.0,310.0,Proactive support call + contract upgrade offer
+9290-SHCMB,High,0.6272,Month-to-month,Electronic check,96.85,13,4,1,0,1162.0,309.0,Proactive support call + contract upgrade offer
+6899-PPEEA,High,0.61,Month-to-month,Electronic check,96.55,37,4,1,0,1159.0,308.0,Proactive support call + contract upgrade offer
+9057-SIHCH,High,0.9434,Month-to-month,Electronic check,96.6,3,4,1,0,1159.0,308.0,Proactive support call + contract upgrade offer
+0480-BIXDE,High,0.6017,Month-to-month,Electronic check,96.8,19,4,1,0,1162.0,308.0,Proactive support call + contract upgrade offer
+4566-NECEV,High,0.6052,Month-to-month,Electronic check,96.55,5,5,1,0,1159.0,308.0,Proactive support call + contract upgrade offer
+9809-IMGCQ,High,0.6371,Month-to-month,Electronic check,96.7,22,4,1,0,1160.0,308.0,Proactive support call + contract upgrade offer
+4039-HEUNW,High,0.6017,Month-to-month,Electronic check,96.5,36,5,1,0,1158.0,307.0,Proactive support call + contract upgrade offer
+5937-EORGB,High,0.6017,Month-to-month,Electronic check,96.5,15,5,1,0,1158.0,307.0,Proactive support call + contract upgrade offer
+8245-UMPYT,High,0.6859,Month-to-month,Electronic check,96.4,16,4,1,0,1157.0,307.0,Proactive support call + contract upgrade offer
+7548-SEPYI,High,0.7444,Month-to-month,Electronic check,96.25,5,4,1,0,1155.0,307.0,Proactive support call + contract upgrade offer
+1010-DIAUQ,High,0.6052,Month-to-month,Bank transfer (automatic),96.5,5,4,1,0,1158.0,307.0,Proactive support call + tech-support bundle
+5565-FILXA,High,0.7303,Month-to-month,Electronic check,96.15,16,4,1,0,1154.0,306.0,Proactive support call + contract upgrade offer
+0306-JAELE,High,0.6824,Month-to-month,Electronic check,96.1,5,4,0,0,1153.0,306.0,Proactive support call + contract upgrade offer
+2180-DXNEG,High,0.6335,Month-to-month,Electronic check,96.0,12,4,1,0,1152.0,306.0,Proactive support call + contract upgrade offer
+4060-LDNLU,High,0.6966,Month-to-month,Electronic check,96.2,7,4,1,0,1154.0,306.0,Proactive support call + contract upgrade offer
+3158-MOERK,High,0.9663,Month-to-month,Electronic check,96.0,2,4,1,0,1152.0,306.0,Proactive support call + contract upgrade offer
+7526-BEZQB,High,0.7797,Month-to-month,Electronic check,96.05,12,4,1,0,1153.0,306.0,Proactive support call + contract upgrade offer
+3319-DWOEP,High,0.8729,Month-to-month,Electronic check,95.75,6,4,1,0,1149.0,305.0,Proactive support call + contract upgrade offer
+0754-UKWQP,High,0.8729,Month-to-month,Electronic check,95.85,2,4,1,0,1150.0,305.0,Proactive support call + contract upgrade offer
+0916-QOFDP,High,0.6833,Month-to-month,Electronic check,95.8,14,4,1,0,1150.0,305.0,Proactive support call + contract upgrade offer
+1393-IMKZG,High,0.9046,Month-to-month,Electronic check,95.85,1,4,0,0,1150.0,305.0,Proactive support call + contract upgrade offer
+1658-BYGOY,High,0.7081,Month-to-month,Electronic check,95.45,18,4,1,0,1145.0,304.0,Proactive support call + contract upgrade offer
+0564-JJHGS,High,0.839,Month-to-month,Electronic check,95.5,9,4,1,0,1146.0,304.0,Proactive support call + contract upgrade offer
+3320-VEOYC,High,0.797,Month-to-month,Electronic check,95.6,14,4,1,0,1147.0,304.0,Proactive support call + contract upgrade offer
+3585-ISXZP,High,0.6191,Month-to-month,Bank transfer (automatic),95.65,8,4,1,0,1148.0,304.0,Proactive support call + tech-support bundle
+0576-WNXXC,High,0.6017,Month-to-month,Electronic check,95.55,27,5,1,0,1147.0,304.0,Proactive support call + contract upgrade offer
+3318-OSATS,High,0.6272,Month-to-month,Electronic check,95.45,35,4,1,0,1145.0,304.0,Proactive support call + contract upgrade offer
+6857-VWJDT,High,0.9117,Month-to-month,Mailed check,95.65,1,4,1,0,1148.0,304.0,Proactive support call + tech-support bundle
+8098-LLAZX,High,0.9259,Month-to-month,Electronic check,95.45,4,4,1,0,1145.0,304.0,Proactive support call + contract upgrade offer
+3643-AHCFP,High,0.839,Month-to-month,Bank transfer (automatic),95.6,7,4,1,0,1147.0,304.0,Proactive support call + tech-support bundle
+8413-VONUO,High,0.7946,Month-to-month,Electronic check,95.65,2,4,1,0,1148.0,304.0,Proactive support call + contract upgrade offer
+6356-ELRKD,High,0.8729,Month-to-month,Electronic check,95.6,1,4,1,0,1147.0,304.0,Proactive support call + contract upgrade offer
+4929-XIHVW,High,0.8729,Month-to-month,Credit card (automatic),95.5,2,4,1,0,1146.0,304.0,Proactive support call + tech-support bundle
+0295-PPHDO,High,1.0,Month-to-month,Electronic check,95.45,1,4,1,0,1145.0,304.0,Proactive support call + contract upgrade offer
+8357-EQXFO,High,0.7553,Month-to-month,Electronic check,95.35,7,4,1,0,1144.0,303.0,Proactive support call + contract upgrade offer
+6328-ZPBGN,High,0.7444,Month-to-month,Bank transfer (automatic),95.15,11,4,1,0,1142.0,303.0,Proactive support call + tech-support bundle
+1960-UYCNN,High,0.6272,Month-to-month,Electronic check,95.25,10,5,1,0,1143.0,303.0,Proactive support call + contract upgrade offer
+2754-VDLTR,High,0.6272,Month-to-month,Electronic check,95.2,10,4,1,0,1142.0,303.0,Proactive support call + contract upgrade offer
+3049-SOLAY,High,0.9434,Month-to-month,Electronic check,95.2,3,4,1,0,1142.0,303.0,Proactive support call + contract upgrade offer
+0396-YCHWO,High,0.6017,Month-to-month,Electronic check,95.4,36,4,1,0,1145.0,303.0,Proactive support call + contract upgrade offer
+9061-TIHDA,High,0.845,Month-to-month,Electronic check,95.25,13,4,1,0,1143.0,303.0,Proactive support call + contract upgrade offer
+7851-WZEKY,High,0.9672,Month-to-month,Electronic check,95.15,2,4,1,0,1142.0,303.0,Proactive support call + contract upgrade offer
+2660-EMUBI,High,0.8729,Month-to-month,Electronic check,95.35,10,4,1,0,1144.0,303.0,Proactive support call + contract upgrade offer
+9279-CJEOJ,High,0.61,Month-to-month,Bank transfer (automatic),95.4,21,4,1,0,1145.0,303.0,Proactive support call + tech-support bundle
+2984-AFWNC,High,0.6966,Month-to-month,Electronic check,95.4,3,4,1,0,1145.0,303.0,Proactive support call + contract upgrade offer
+0094-OIFMO,High,0.685,Month-to-month,Electronic check,95.0,11,4,1,0,1140.0,302.0,Proactive support call + contract upgrade offer
+3452-GWUIN,High,0.6824,Month-to-month,Electronic check,94.95,19,4,1,0,1139.0,302.0,Proactive support call + contract upgrade offer
+3793-MMFUH,High,0.8076,Month-to-month,Electronic check,95.05,13,4,1,0,1141.0,302.0,Proactive support call + contract upgrade offer
+5349-IECLD,High,0.8729,Month-to-month,Electronic check,94.95,2,4,1,0,1139.0,302.0,Proactive support call + contract upgrade offer
+5178-LMXOP,High,1.0,Month-to-month,Electronic check,95.1,1,4,1,0,1141.0,302.0,Proactive support call + contract upgrade offer
+5649-ANRML,High,0.7177,Month-to-month,Credit card (automatic),95.1,2,5,0,0,1141.0,302.0,Product education + onboarding check-in
+3874-EQOEP,High,0.6505,Month-to-month,Mailed check,95.0,7,4,1,0,1140.0,302.0,Proactive support call + tech-support bundle
+9944-HKVVB,High,0.8729,Month-to-month,Electronic check,95.1,3,4,1,0,1141.0,302.0,Proactive support call + contract upgrade offer
+7398-SKNQZ,High,0.8729,Month-to-month,Electronic check,94.9,3,4,1,0,1139.0,302.0,Proactive support call + contract upgrade offer
+0684-AOSIH,High,0.8729,Month-to-month,Electronic check,95.0,1,4,1,0,1140.0,302.0,Proactive support call + contract upgrade offer
+5382-SOYZL,High,0.6052,Month-to-month,Electronic check,95.1,22,4,1,0,1141.0,302.0,Proactive support call + contract upgrade offer
+7209-JCUDS,High,0.6593,Month-to-month,Electronic check,94.9,10,4,1,0,1139.0,302.0,Proactive support call + contract upgrade offer
+4910-GMJOT,High,1.0,Month-to-month,Electronic check,94.6,1,4,1,0,1135.0,301.0,Proactive support call + contract upgrade offer
+7225-CBZPL,High,0.7212,Month-to-month,Electronic check,94.8,17,4,1,0,1138.0,301.0,Proactive support call + contract upgrade offer
+6502-HCJTI,High,0.6052,Month-to-month,Credit card (automatic),94.7,7,5,1,0,1136.0,301.0,Proactive support call + tech-support bundle
+3045-XETSH,High,0.6371,Month-to-month,Electronic check,94.85,10,5,1,0,1138.0,301.0,Proactive support call + contract upgrade offer
+6350-XFYGW,High,0.8729,Month-to-month,Electronic check,94.75,4,4,1,0,1137.0,301.0,Proactive support call + contract upgrade offer
+0325-XBFAC,High,0.7212,Month-to-month,Electronic check,94.7,8,4,1,0,1136.0,301.0,Proactive support call + contract upgrade offer
+5567-WSELE,High,0.9672,Month-to-month,Electronic check,94.6,3,4,1,0,1135.0,301.0,Proactive support call + contract upgrade offer
+5150-ITWWB,High,0.9672,Month-to-month,Electronic check,94.85,3,4,1,0,1138.0,301.0,Proactive support call + contract upgrade offer
+5955-ERIHD,High,0.6272,Month-to-month,Electronic check,94.7,18,4,1,0,1136.0,301.0,Proactive support call + contract upgrade offer
+6583-KQJLK,High,0.6272,Month-to-month,Electronic check,94.65,15,4,1,0,1136.0,301.0,Proactive support call + contract upgrade offer
+7943-RQCHR,High,0.8076,Month-to-month,Electronic check,94.75,9,4,1,0,1137.0,301.0,Proactive support call + contract upgrade offer
+5168-MSWXT,High,0.6371,Month-to-month,Electronic check,94.75,8,4,1,0,1137.0,301.0,Proactive support call + contract upgrade offer
+3096-GKWEB,High,0.6272,Month-to-month,Electronic check,94.75,18,4,1,0,1137.0,301.0,Proactive support call + contract upgrade offer
+3387-VATUS,High,0.839,Month-to-month,Bank transfer (automatic),94.85,5,4,1,0,1138.0,301.0,Proactive support call + tech-support bundle
+5244-IRFIH,High,0.6272,Month-to-month,Electronic check,94.5,33,4,1,0,1134.0,300.0,Proactive support call + contract upgrade offer
+3338-CVVEH,High,0.6272,Month-to-month,Electronic check,94.55,12,4,1,0,1135.0,300.0,Proactive support call + contract upgrade offer
+9253-QXKBE,High,0.6272,Month-to-month,Electronic check,94.45,29,4,1,0,1133.0,300.0,Proactive support call + contract upgrade offer
+3217-FZDMN,High,0.6859,Month-to-month,Credit card (automatic),94.45,8,4,1,0,1133.0,300.0,Proactive support call + tech-support bundle
+1626-ERCMM,High,0.7152,Month-to-month,Electronic check,94.55,20,4,1,0,1135.0,300.0,Proactive support call + contract upgrade offer
+9223-UCPVT,High,0.8729,Month-to-month,Electronic check,94.4,1,4,1,0,1133.0,300.0,Proactive support call + contract upgrade offer
+4192-GORJT,High,0.8729,Month-to-month,Electronic check,94.45,5,4,1,0,1133.0,300.0,Proactive support call + contract upgrade offer
+5698-BQJOH,High,0.6824,Month-to-month,Electronic check,94.4,9,4,1,0,1133.0,300.0,Proactive support call + contract upgrade offer
+5609-CEBID,High,0.6017,Month-to-month,Electronic check,94.1,20,5,1,0,1129.0,299.0,Proactive support call + contract upgrade offer
+5935-FCCNB,High,0.6859,Month-to-month,Electronic check,94.2,17,4,1,0,1130.0,299.0,Proactive support call + contract upgrade offer
+3006-XIMLN,High,0.8729,Month-to-month,Bank transfer (automatic),94.2,2,4,1,0,1130.0,299.0,Proactive support call + tech-support bundle
+8087-LGYHQ,High,0.6824,Month-to-month,Electronic check,94.05,9,4,1,0,1129.0,299.0,Proactive support call + contract upgrade offer
+9360-OMDZZ,High,0.6052,Month-to-month,Electronic check,94.1,24,4,1,0,1129.0,299.0,Proactive support call + contract upgrade offer
+8161-QYMTT,High,0.8729,Month-to-month,Electronic check,94.1,7,4,1,0,1129.0,299.0,Proactive support call + contract upgrade offer
+4094-NSEDU,High,0.6824,Month-to-month,Electronic check,94.25,21,4,1,0,1131.0,299.0,Proactive support call + contract upgrade offer
+5519-NPHVG,High,0.7724,Month-to-month,Electronic check,94.2,12,4,1,0,1130.0,299.0,Proactive support call + contract upgrade offer
+9919-KNPOO,High,0.6272,Month-to-month,Electronic check,94.3,21,4,1,0,1132.0,299.0,Proactive support call + contract upgrade offer
+7218-HKQFK,High,0.8729,Month-to-month,Electronic check,94.2,2,4,0,0,1130.0,299.0,Proactive support call + contract upgrade offer
+2929-ERCFZ,High,0.6371,Month-to-month,Electronic check,94.2,8,4,1,0,1130.0,299.0,Proactive support call + contract upgrade offer
+2645-QTLMB,High,0.6859,Month-to-month,Electronic check,94.25,7,4,1,0,1131.0,299.0,Proactive support call + contract upgrade offer
+1374-DMZUI,High,0.9285,Month-to-month,Electronic check,94.3,4,4,1,0,1132.0,299.0,Proactive support call + contract upgrade offer
+5380-AFSSK,High,0.8076,Month-to-month,Mailed check,93.9,5,4,1,0,1127.0,298.0,Proactive support call + tech-support bundle
+1567-DSCIC,High,0.6457,Month-to-month,Electronic check,94.0,8,5,1,0,1128.0,298.0,Proactive support call + contract upgrade offer
+9300-AGZNL,High,1.0,Month-to-month,Electronic check,94.0,1,4,1,0,1128.0,298.0,Proactive support call + contract upgrade offer
+2720-WGKHP,High,1.0,Month-to-month,Electronic check,94.0,2,4,1,0,1128.0,298.0,Proactive support call + contract upgrade offer
+4626-GYCZP,High,0.8729,Month-to-month,Electronic check,93.85,7,4,1,0,1126.0,298.0,Proactive support call + contract upgrade offer
+9912-GVSEQ,High,0.6017,Month-to-month,Electronic check,93.85,26,5,1,0,1126.0,298.0,Proactive support call + contract upgrade offer
+4424-TKOPW,High,1.0,Month-to-month,Electronic check,93.85,2,4,1,0,1126.0,298.0,Proactive support call + contract upgrade offer
+7024-OHCCK,High,0.9672,Month-to-month,Electronic check,93.85,2,4,1,0,1126.0,298.0,Proactive support call + contract upgrade offer
+8149-RSOUN,High,1.0,Month-to-month,Electronic check,93.85,1,4,1,0,1126.0,298.0,Proactive support call + contract upgrade offer
+2982-VPSGI,High,0.8076,Month-to-month,Electronic check,94.0,11,4,1,0,1128.0,298.0,Proactive support call + contract upgrade offer
+9189-JWSHV,High,0.6799,Month-to-month,Electronic check,93.55,24,4,1,0,1123.0,297.0,Proactive support call + contract upgrade offer
+2985-FMWYF,High,0.6272,Month-to-month,Electronic check,93.5,23,4,1,0,1122.0,297.0,Proactive support call + contract upgrade offer
+9025-AOMKI,High,0.7724,Month-to-month,Bank transfer (automatic),93.55,6,4,1,0,1123.0,297.0,Proactive support call + tech-support bundle
+9497-QCMMS,High,1.0,Month-to-month,Electronic check,93.55,1,4,1,0,1123.0,297.0,Proactive support call + contract upgrade offer
+1731-TVIUK,High,0.7,Month-to-month,Electronic check,93.5,4,5,0,0,1122.0,297.0,Proactive support call + contract upgrade offer
+7402-EYFXX,High,0.6371,Month-to-month,Electronic check,93.6,26,4,1,0,1123.0,297.0,Proactive support call + contract upgrade offer
+8290-YWKHZ,High,0.6272,Month-to-month,Electronic check,93.2,32,4,1,0,1118.0,296.0,Proactive support call + contract upgrade offer
+6521-YYTYI,High,1.0,Month-to-month,Electronic check,93.3,1,4,1,0,1120.0,296.0,Proactive support call + contract upgrade offer
+0236-HFWSV,High,0.6725,Month-to-month,Electronic check,93.35,15,4,1,0,1120.0,296.0,Proactive support call + contract upgrade offer
+2840-XANRC,High,0.6017,Month-to-month,Electronic check,93.15,24,4,1,0,1118.0,295.0,Proactive support call + contract upgrade offer
+2371-JQHZZ,High,0.6052,Month-to-month,Electronic check,93.0,24,4,1,0,1116.0,295.0,Proactive support call + contract upgrade offer
+6986-IXNDM,High,0.6017,Month-to-month,Electronic check,92.9,14,3,1,0,1115.0,294.0,Proactive support call + contract upgrade offer
+7668-XCFYV,High,0.6859,Month-to-month,Electronic check,92.55,17,4,1,0,1111.0,293.0,Proactive support call + contract upgrade offer
+6198-RTPMF,High,0.6052,Month-to-month,Electronic check,92.6,17,4,1,0,1111.0,293.0,Proactive support call + contract upgrade offer
+2462-XIIJB,High,0.8285,Month-to-month,Electronic check,92.5,5,4,1,0,1110.0,293.0,Proactive support call + contract upgrade offer
+3990-QYKBE,High,0.6052,Month-to-month,Electronic check,92.5,37,4,1,0,1110.0,293.0,Proactive support call + contract upgrade offer
+6100-QQHEB,High,0.6272,Month-to-month,Electronic check,92.55,17,4,1,0,1111.0,293.0,Proactive support call + contract upgrade offer
+4145-UQXUQ,High,0.839,Month-to-month,Electronic check,92.1,8,4,1,0,1105.0,292.0,Proactive support call + contract upgrade offer
+3318-NMQXL,High,0.8729,Month-to-month,Electronic check,92.0,3,3,1,0,1104.0,291.0,Proactive support call + contract upgrade offer
+5442-UTCVD,High,0.7177,Month-to-month,Electronic check,91.85,3,4,1,0,1102.0,291.0,Proactive support call + contract upgrade offer
+6892-EZDTG,High,0.8076,Month-to-month,Electronic check,91.65,4,4,1,0,1100.0,290.0,Proactive support call + contract upgrade offer
+3186-BAXNB,High,0.6725,Month-to-month,Electronic check,91.7,1,4,0,0,1100.0,290.0,Proactive support call + contract upgrade offer
+5095-AESKG,High,0.7279,Month-to-month,Credit card (automatic),91.5,3,4,1,0,1098.0,289.0,Proactive support call + tech-support bundle
+9402-ORRAH,High,0.6272,Month-to-month,Electronic check,91.5,15,3,1,0,1098.0,289.0,Proactive support call + contract upgrade offer
+4927-WWOOZ,High,0.8729,Month-to-month,Electronic check,91.45,2,4,1,0,1097.0,289.0,Proactive support call + contract upgrade offer
+8414-MYSHR,High,0.8729,Month-to-month,Electronic check,91.4,5,3,1,0,1097.0,289.0,Proactive support call + contract upgrade offer
+9546-CQJSU,High,0.8729,Month-to-month,Electronic check,91.4,2,4,1,0,1097.0,289.0,Proactive support call + contract upgrade offer
+3398-FSHON,High,0.6371,Month-to-month,Electronic check,91.3,12,4,1,0,1096.0,289.0,Proactive support call + contract upgrade offer
+3988-RQIXO,High,0.9672,Month-to-month,Electronic check,91.3,1,3,1,0,1096.0,289.0,Proactive support call + contract upgrade offer
+1195-OIYEJ,High,0.6052,Month-to-month,Electronic check,91.1,13,3,1,0,1093.0,288.0,Proactive support call + contract upgrade offer
+2472-OVKUP,High,0.6272,Month-to-month,Electronic check,91.0,6,4,1,0,1092.0,288.0,Proactive support call + contract upgrade offer
+1389-CXMLU,High,0.8729,Month-to-month,Electronic check,91.05,3,4,1,0,1093.0,288.0,Proactive support call + contract upgrade offer
+5091-HFAZW,High,0.6725,Month-to-month,Electronic check,91.15,2,4,1,0,1094.0,288.0,Proactive support call + contract upgrade offer
+2672-HUYVI,High,0.6283,Month-to-month,Electronic check,91.1,6,3,1,1,1093.0,288.0,Proactive support call + contract upgrade offer
+8622-ZLFKO,High,0.7,Month-to-month,Electronic check,90.75,6,4,1,0,1089.0,287.0,Proactive support call + contract upgrade offer
+9725-SCPZG,High,0.9046,Month-to-month,Electronic check,90.85,1,3,1,0,1090.0,287.0,Proactive support call + contract upgrade offer
+4137-BTIKL,High,0.6505,Month-to-month,Mailed check,90.75,2,4,1,0,1089.0,287.0,Proactive support call + tech-support bundle
+7330-WZLNC,High,0.7,Month-to-month,Electronic check,90.8,5,4,1,0,1090.0,287.0,Proactive support call + contract upgrade offer
+2725-KXXWT,High,0.9762,Month-to-month,Electronic check,90.75,1,3,1,0,1089.0,287.0,Proactive support call + contract upgrade offer
+5167-ZFFMM,High,0.8729,Month-to-month,Credit card (automatic),90.85,1,4,1,0,1090.0,287.0,Proactive support call + tech-support bundle
+9846-GKXAS,High,0.61,Month-to-month,Bank transfer (automatic),90.8,9,3,1,0,1090.0,287.0,Proactive support call + tech-support bundle
+0432-CAJZV,High,0.6505,Month-to-month,Mailed check,90.7,3,3,1,0,1088.0,287.0,Proactive support call + tech-support bundle
+8775-LHDJH,High,0.9672,Month-to-month,Electronic check,90.6,1,4,1,0,1087.0,286.0,Proactive support call + contract upgrade offer
+5339-PXDVH,High,0.6052,Month-to-month,Electronic check,90.65,4,4,1,0,1088.0,286.0,Proactive support call + contract upgrade offer
+6507-ZJSUR,High,0.6017,Month-to-month,Electronic check,90.45,23,3,1,0,1085.0,286.0,Proactive support call + contract upgrade offer
+5797-APWZC,High,0.8729,Month-to-month,Electronic check,90.6,1,3,1,0,1087.0,286.0,Proactive support call + contract upgrade offer
+7294-TMAOP,High,0.8729,Month-to-month,Electronic check,90.55,1,3,1,0,1087.0,286.0,Proactive support call + contract upgrade offer
+1579-KLYDT,High,0.7177,Month-to-month,Electronic check,90.45,7,4,1,0,1085.0,286.0,Proactive support call + contract upgrade offer
+7274-RTAPZ,High,0.9434,Month-to-month,Electronic check,90.55,1,3,1,0,1087.0,286.0,Proactive support call + contract upgrade offer
+7156-MHUGY,High,0.6371,Month-to-month,Electronic check,90.5,13,3,1,0,1086.0,286.0,Proactive support call + contract upgrade offer
+0139-IVFJG,High,0.6052,Month-to-month,Electronic check,90.35,2,4,1,0,1084.0,285.0,Proactive support call + contract upgrade offer
+2034-GDRCN,High,0.9046,Month-to-month,Electronic check,90.4,2,3,1,0,1085.0,285.0,Proactive support call + contract upgrade offer
+0258-NOKBL,High,0.6052,Month-to-month,Electronic check,90.4,3,4,1,0,1085.0,285.0,Proactive support call + contract upgrade offer
+8266-VBFQL,High,0.6478,Month-to-month,Electronic check,90.4,4,4,0,0,1085.0,285.0,Proactive support call + contract upgrade offer
+4813-HQMGZ,High,0.6272,Month-to-month,Electronic check,90.25,8,4,0,0,1083.0,285.0,Proactive support call + contract upgrade offer
+3703-VAVCL,High,0.6017,Month-to-month,Credit card (automatic),90.0,2,4,0,0,1080.0,284.0,Product education + onboarding check-in
+3027-ZTDHO,High,0.9434,Month-to-month,Electronic check,89.9,1,3,1,0,1079.0,284.0,Proactive support call + contract upgrade offer
+4228-ZGYUW,High,0.8729,Month-to-month,Electronic check,90.05,4,4,1,0,1081.0,284.0,Proactive support call + contract upgrade offer
+6969-MVBAI,High,0.7526,Month-to-month,Electronic check,90.1,9,4,1,0,1081.0,284.0,Proactive support call + contract upgrade offer
+1941-HOSAM,High,0.9046,Month-to-month,Electronic check,90.1,1,3,1,0,1081.0,284.0,Proactive support call + contract upgrade offer
+8780-IXSTS,High,0.6859,Month-to-month,Electronic check,90.1,6,4,1,0,1081.0,284.0,Proactive support call + contract upgrade offer
+1624-NALOJ,High,0.8729,Month-to-month,Electronic check,89.8,5,4,1,0,1078.0,283.0,Proactive support call + contract upgrade offer
+3462-BJQQA,High,0.6859,Month-to-month,Electronic check,89.75,6,4,1,0,1077.0,283.0,Proactive support call + contract upgrade offer
+8337-UPOAQ,High,0.8308,Month-to-month,Electronic check,89.8,10,4,1,0,1078.0,283.0,Proactive support call + contract upgrade offer
+7952-OBOYL,High,0.6052,Month-to-month,Mailed check,89.85,3,4,0,0,1078.0,283.0,Product education + onboarding check-in
+2074-GKOWZ,High,0.8729,Month-to-month,Bank transfer (automatic),89.55,2,3,1,0,1075.0,282.0,Proactive support call + tech-support bundle
+5644-PDMZC,High,0.8729,Month-to-month,Electronic check,89.5,2,4,1,0,1074.0,282.0,Proactive support call + contract upgrade offer
+9611-CTWIH,High,0.8729,Month-to-month,Electronic check,89.45,3,3,1,0,1073.0,282.0,Proactive support call + contract upgrade offer
+7479-NITWS,High,0.6272,Month-to-month,Credit card (automatic),89.35,7,4,1,0,1072.0,282.0,Proactive support call + tech-support bundle
+2990-HWIML,High,0.7797,Month-to-month,Electronic check,89.5,6,3,1,0,1074.0,282.0,Proactive support call + contract upgrade offer
+1724-BQUHA,High,0.8729,Month-to-month,Electronic check,89.5,5,3,1,0,1074.0,282.0,Proactive support call + contract upgrade offer
+9134-CEQMF,High,0.845,Month-to-month,Electronic check,89.5,7,3,1,0,1074.0,282.0,Proactive support call + contract upgrade offer
+0970-ETWGE,High,0.9434,Month-to-month,Electronic check,89.55,1,3,1,0,1075.0,282.0,Proactive support call + contract upgrade offer
+4112-LUEIZ,High,0.6371,Month-to-month,Electronic check,89.5,10,3,1,0,1074.0,282.0,Proactive support call + contract upgrade offer
+5348-CAGXB,High,0.6272,Month-to-month,Electronic check,89.55,12,4,1,0,1075.0,282.0,Proactive support call + contract upgrade offer
+4847-TAJYI,High,0.839,Month-to-month,Electronic check,89.35,6,3,1,0,1072.0,282.0,Proactive support call + contract upgrade offer
+7394-FKDNK,High,0.6052,Month-to-month,Electronic check,89.45,9,3,1,0,1073.0,282.0,Proactive support call + contract upgrade offer
+8481-YYXWG,High,0.6052,Month-to-month,Electronic check,89.35,5,4,0,0,1072.0,282.0,Proactive support call + contract upgrade offer
+4273-MBHYA,High,0.9046,Month-to-month,Electronic check,89.35,1,3,1,0,1072.0,282.0,Proactive support call + contract upgrade offer
+0345-HKJVM,High,0.6272,Month-to-month,Electronic check,89.3,6,3,1,0,1072.0,281.0,Proactive support call + contract upgrade offer
+1415-YFWLT,High,0.9672,Month-to-month,Electronic check,89.3,1,3,1,0,1072.0,281.0,Proactive support call + contract upgrade offer
+7577-SWIFR,High,0.9434,Month-to-month,Electronic check,89.25,1,3,1,0,1071.0,281.0,Proactive support call + contract upgrade offer
+3801-HMYNL,High,0.825,Month-to-month,Mailed check,89.15,1,3,1,0,1070.0,281.0,Proactive support call + tech-support bundle
+1455-ESIQH,High,0.9434,Month-to-month,Electronic check,89.1,1,3,1,0,1069.0,281.0,Proactive support call + contract upgrade offer
+5429-LWCMV,High,0.6272,Month-to-month,Electronic check,89.15,12,4,1,0,1070.0,281.0,Proactive support call + contract upgrade offer
+4853-OITSN,High,0.7392,Month-to-month,Electronic check,89.15,5,4,1,0,1070.0,281.0,Proactive support call + contract upgrade offer
+2865-TCHJW,High,0.8729,Month-to-month,Electronic check,89.2,4,4,1,0,1070.0,281.0,Proactive support call + contract upgrade offer
+4115-NZRKS,High,0.8076,Month-to-month,Electronic check,89.15,7,3,1,0,1070.0,281.0,Proactive support call + contract upgrade offer
+8035-PWSEV,High,0.6052,Month-to-month,Electronic check,89.25,6,4,0,0,1071.0,281.0,Proactive support call + contract upgrade offer
+1173-XZPYF,High,0.6272,Month-to-month,Electronic check,89.2,11,4,1,0,1070.0,281.0,Proactive support call + contract upgrade offer
+2657-VPXTA,High,0.6371,Month-to-month,Electronic check,88.85,10,3,1,0,1066.0,280.0,Proactive support call + contract upgrade offer
+5842-POCOP,High,0.6017,Month-to-month,Mailed check,88.9,5,4,1,0,1067.0,280.0,Proactive support call + tech-support bundle
+0187-QSXOE,High,0.845,Month-to-month,Electronic check,89.0,7,3,1,0,1068.0,280.0,Proactive support call + contract upgrade offer
+3068-OMWZA,High,1.0,Month-to-month,Electronic check,88.8,1,4,1,0,1066.0,280.0,Proactive support call + contract upgrade offer
+1273-MTETI,High,0.9046,Month-to-month,Electronic check,88.85,4,4,1,0,1066.0,280.0,Proactive support call + contract upgrade offer
+4951-UKAAQ,High,0.839,Month-to-month,Electronic check,88.95,4,4,1,0,1067.0,280.0,Proactive support call + contract upgrade offer
+5366-IJEQJ,High,0.6017,Month-to-month,Electronic check,88.7,20,4,1,0,1064.0,279.0,Proactive support call + contract upgrade offer
+4695-WJZUE,High,0.9503,Month-to-month,Electronic check,88.55,2,4,1,0,1063.0,279.0,Proactive support call + contract upgrade offer
+3722-WPXTK,High,0.9472,Month-to-month,Electronic check,88.35,1,3,1,0,1060.0,278.0,Proactive support call + contract upgrade offer
+4633-MKHYU,High,0.61,Month-to-month,Mailed check,88.4,9,3,1,0,1061.0,278.0,Proactive support call + tech-support bundle
+7228-OMTPN,High,0.8729,Month-to-month,Electronic check,88.45,4,3,1,0,1061.0,278.0,Proactive support call + contract upgrade offer
+3254-YRILK,High,0.6017,Month-to-month,Electronic check,88.2,19,4,1,0,1058.0,278.0,Proactive support call + contract upgrade offer
+0772-GYEQQ,High,0.6052,Month-to-month,Mailed check,88.35,3,4,0,0,1060.0,278.0,Product education + onboarding check-in
+6087-MVHJH,High,0.6052,Month-to-month,Electronic check,88.45,16,4,1,0,1061.0,278.0,Proactive support call + contract upgrade offer
+4123-DVHPH,High,0.6052,Month-to-month,Electronic check,88.05,9,4,1,0,1057.0,277.0,Proactive support call + contract upgrade offer
+9741-YLNTD,High,0.6159,Month-to-month,Bank transfer (automatic),87.95,6,4,0,0,1055.0,277.0,Product education + onboarding check-in
+5318-IXUZF,High,0.6824,Month-to-month,Bank transfer (automatic),87.15,2,3,1,0,1046.0,274.0,Proactive support call + tech-support bundle
+4884-ZTHVF,High,0.6371,Month-to-month,Electronic check,87.1,8,3,1,0,1045.0,274.0,Proactive support call + contract upgrade offer
+2845-HSJCY,High,0.6017,Month-to-month,Electronic check,87.25,14,4,1,0,1047.0,274.0,Proactive support call + contract upgrade offer
+6979-ZNSFF,High,0.6824,Month-to-month,Electronic check,87.05,8,3,1,0,1045.0,273.0,Proactive support call + contract upgrade offer
+4140-MUHUG,High,0.8729,Month-to-month,Electronic check,86.85,3,3,1,0,1042.0,273.0,Proactive support call + contract upgrade offer
+3097-NQYSN,High,0.8729,Month-to-month,Mailed check,86.85,2,3,1,0,1042.0,273.0,Proactive support call + tech-support bundle
+8603-IJWDN,High,0.9762,Month-to-month,Electronic check,86.6,1,3,1,0,1039.0,272.0,Proactive support call + contract upgrade offer
+7779-LGOVN,High,0.797,Month-to-month,Electronic check,86.65,10,3,1,0,1040.0,272.0,Proactive support call + contract upgrade offer
+9451-LPGOO,High,0.797,Month-to-month,Electronic check,86.8,7,3,1,0,1042.0,272.0,Proactive support call + contract upgrade offer
+5229-PRWKT,High,0.7212,Month-to-month,Electronic check,86.55,8,3,1,0,1039.0,272.0,Proactive support call + contract upgrade offer
+7858-GTZSP,High,0.6371,Month-to-month,Electronic check,86.55,12,3,1,0,1039.0,272.0,Proactive support call + contract upgrade offer
+3372-KWFBM,High,0.6272,Month-to-month,Electronic check,86.6,16,3,1,0,1039.0,272.0,Proactive support call + contract upgrade offer
+2057-ZBLPD,High,0.6017,Month-to-month,Electronic check,86.5,21,3,1,0,1038.0,271.0,Proactive support call + contract upgrade offer
+0133-BMFZO,High,0.6017,Month-to-month,Electronic check,86.25,2,4,0,0,1035.0,271.0,Proactive support call + contract upgrade offer
+4285-GYRQC,High,0.6272,Month-to-month,Electronic check,86.25,7,3,1,0,1035.0,271.0,Proactive support call + contract upgrade offer
+1925-TIBLE,High,0.7,Month-to-month,Electronic check,86.5,7,3,1,0,1038.0,271.0,Proactive support call + contract upgrade offer
+6474-FVJLC,High,0.9046,Month-to-month,Electronic check,86.0,2,3,1,0,1032.0,270.0,Proactive support call + contract upgrade offer
+7508-MYBOG,High,0.6052,Month-to-month,Electronic check,86.1,14,3,1,0,1033.0,270.0,Proactive support call + contract upgrade offer
+4826-XTSOH,High,1.0,Month-to-month,Electronic check,86.05,1,3,1,0,1033.0,270.0,Proactive support call + contract upgrade offer
+1342-JPNKI,High,0.6052,Month-to-month,Bank transfer (automatic),86.05,10,3,1,0,1033.0,270.0,Proactive support call + tech-support bundle
+2038-OEQZH,High,0.6052,Month-to-month,Electronic check,86.05,4,3,1,0,1033.0,270.0,Proactive support call + contract upgrade offer
+1212-GLHMD,High,0.6052,Month-to-month,Mailed check,86.05,3,3,1,0,1033.0,270.0,Proactive support call + tech-support bundle
+4844-JJWUY,High,0.9046,Month-to-month,Electronic check,86.0,1,3,1,0,1032.0,270.0,Proactive support call + contract upgrade offer
+6275-YDUVO,High,0.7911,Month-to-month,Mailed check,86.2,2,3,1,0,1034.0,270.0,Proactive support call + tech-support bundle
+0378-TOVMS,High,0.6052,Month-to-month,Electronic check,85.8,3,3,0,0,1030.0,269.0,Proactive support call + contract upgrade offer
+5192-EBGOV,High,0.9672,Month-to-month,Electronic check,85.7,1,3,1,0,1028.0,269.0,Proactive support call + contract upgrade offer
+3916-NRPAP,High,0.6052,Month-to-month,Credit card (automatic),85.7,3,3,1,0,1028.0,269.0,Proactive support call + tech-support bundle
+0220-EBGCE,High,0.8729,Month-to-month,Electronic check,85.85,2,3,1,0,1030.0,269.0,Proactive support call + contract upgrade offer
+1143-NMNQJ,High,0.9046,Month-to-month,Electronic check,85.7,2,3,1,0,1028.0,269.0,Proactive support call + contract upgrade offer
+4952-YSOGZ,High,0.8111,Month-to-month,Electronic check,85.95,4,3,1,0,1031.0,269.0,Proactive support call + contract upgrade offer
+2876-GZYZC,High,0.6272,Month-to-month,Electronic check,85.95,13,3,1,0,1031.0,269.0,Proactive support call + contract upgrade offer
+3049-NDXFL,High,0.8729,Month-to-month,Mailed check,85.8,1,3,1,0,1030.0,269.0,Proactive support call + tech-support bundle
+7994-UYIVZ,High,0.6272,Month-to-month,Bank transfer (automatic),85.65,8,3,1,0,1028.0,268.0,Proactive support call + tech-support bundle
+8519-IMDHU,High,0.6017,Month-to-month,Bank transfer (automatic),85.6,15,3,1,0,1027.0,268.0,Proactive support call + tech-support bundle
+2215-ZAFGX,High,0.6371,Month-to-month,Electronic check,85.5,9,3,1,0,1026.0,268.0,Proactive support call + contract upgrade offer
+5277-ZLOOR,High,0.9046,Month-to-month,Electronic check,85.55,2,3,1,0,1027.0,268.0,Proactive support call + contract upgrade offer
+3247-ZVOUO,High,0.6272,Month-to-month,Electronic check,85.55,10,3,1,0,1027.0,268.0,Proactive support call + contract upgrade offer
+0697-ZMSWS,High,0.8729,Month-to-month,Electronic check,85.65,4,3,1,0,1028.0,268.0,Proactive support call + contract upgrade offer
+0235-KGSLC,High,0.8729,Month-to-month,Credit card (automatic),85.55,1,3,1,0,1027.0,268.0,Proactive support call + tech-support bundle
+9124-LHCJQ,High,0.9117,Month-to-month,Mailed check,85.45,1,3,1,0,1025.0,268.0,Proactive support call + tech-support bundle
+5597-GLBUC,High,0.8729,Month-to-month,Electronic check,85.45,1,3,1,0,1025.0,268.0,Proactive support call + contract upgrade offer
+4395-PZMSN,High,0.7175,Month-to-month,Electronic check,85.55,5,3,1,0,1027.0,268.0,Proactive support call + contract upgrade offer
+7488-MXJIV,High,0.839,Month-to-month,Electronic check,85.65,4,3,1,0,1028.0,268.0,Proactive support call + contract upgrade offer
+7249-WBIYX,High,0.6272,Month-to-month,Electronic check,85.6,10,3,1,0,1027.0,268.0,Proactive support call + contract upgrade offer
+0259-GBZSH,High,0.8729,Month-to-month,Electronic check,85.65,2,3,1,0,1028.0,268.0,Proactive support call + contract upgrade offer
+4548-SDBKE,High,0.839,Month-to-month,Electronic check,85.2,5,3,1,0,1022.0,267.0,Proactive support call + contract upgrade offer
+3106-ULWFW,High,0.6725,Month-to-month,Credit card (automatic),85.2,8,3,1,0,1022.0,267.0,Proactive support call + tech-support bundle
+3834-XUIFC,High,0.6315,Month-to-month,Mailed check,85.2,7,3,1,0,1022.0,267.0,Proactive support call + tech-support bundle
+3138-BKYAV,High,0.6272,Month-to-month,Electronic check,85.35,6,3,1,0,1024.0,267.0,Proactive support call + contract upgrade offer
+2952-QAYZF,High,0.6272,Month-to-month,Electronic check,85.3,5,4,1,0,1024.0,267.0,Proactive support call + contract upgrade offer
+1268-ASBGA,High,0.6052,Month-to-month,Credit card (automatic),85.35,16,3,1,0,1024.0,267.0,Proactive support call + tech-support bundle
+9185-TQCVP,High,0.6052,Month-to-month,Electronic check,85.15,14,3,1,0,1022.0,267.0,Proactive support call + contract upgrade offer
+0195-IESCP,High,0.6976,Month-to-month,Electronic check,85.25,10,3,1,0,1023.0,267.0,Proactive support call + contract upgrade offer
+6432-TWQLB,High,0.6052,Month-to-month,Electronic check,85.4,5,4,0,0,1025.0,267.0,Proactive support call + contract upgrade offer
+6331-EWIEB,High,0.6017,Month-to-month,Electronic check,85.25,20,3,1,0,1023.0,267.0,Proactive support call + contract upgrade offer
+2691-NZETQ,High,0.6799,Month-to-month,Electronic check,85.35,9,3,1,0,1024.0,267.0,Proactive support call + contract upgrade offer
+1200-TUZHR,High,0.6371,Month-to-month,Electronic check,85.2,8,3,1,0,1022.0,267.0,Proactive support call + contract upgrade offer
+8593-WHYHV,High,0.8729,Month-to-month,Electronic check,85.3,3,3,1,0,1024.0,267.0,Proactive support call + contract upgrade offer
+9282-IZGQK,High,0.9672,Month-to-month,Electronic check,85.0,1,3,1,0,1020.0,266.0,Proactive support call + contract upgrade offer
+9208-OLGAQ,High,0.6017,Month-to-month,Electronic check,84.95,18,3,1,0,1019.0,266.0,Proactive support call + contract upgrade offer
+1069-XAIEM,High,1.0,Month-to-month,Electronic check,85.05,1,3,1,0,1021.0,266.0,Proactive support call + contract upgrade offer
+9606-PBKBQ,High,0.6017,Month-to-month,Electronic check,85.0,32,3,1,0,1020.0,266.0,Proactive support call + contract upgrade offer
+8382-SHQEH,High,0.7212,Month-to-month,Electronic check,84.9,8,3,1,0,1019.0,266.0,Proactive support call + contract upgrade offer
+9992-RRAMN,High,0.6017,Month-to-month,Electronic check,85.1,22,3,1,0,1021.0,266.0,Proactive support call + contract upgrade offer
+1628-BIZYP,High,0.8729,Month-to-month,Electronic check,85.0,1,3,1,0,1020.0,266.0,Proactive support call + contract upgrade offer
+9121-PHQSR,High,0.6017,Month-to-month,Credit card (automatic),85.05,16,3,1,0,1021.0,266.0,Proactive support call + tech-support bundle
+2642-DTVCO,High,0.797,Month-to-month,Electronic check,85.05,9,3,1,0,1021.0,266.0,Proactive support call + contract upgrade offer
+6127-ISGTU,High,0.6052,Month-to-month,Electronic check,84.95,16,3,1,0,1019.0,266.0,Proactive support call + contract upgrade offer
+6230-BSUXY,High,0.9046,Month-to-month,Electronic check,85.0,1,3,1,0,1020.0,266.0,Proactive support call + contract upgrade offer
+7503-ZGUZJ,High,0.8994,Month-to-month,Mailed check,84.65,1,3,1,0,1016.0,265.0,Proactive support call + tech-support bundle
+6877-TJMBR,High,0.8729,Month-to-month,Electronic check,84.8,1,3,0,0,1018.0,265.0,Proactive support call + contract upgrade offer
+8937-RDTHP,High,0.8151,Month-to-month,Mailed check,84.6,1,3,1,0,1015.0,265.0,Proactive support call + tech-support bundle
+4750-ZRXIU,High,0.9046,Month-to-month,Electronic check,84.6,4,3,1,0,1015.0,265.0,Proactive support call + contract upgrade offer
+4514-GFCFI,High,0.6272,Month-to-month,Electronic check,84.75,16,3,1,0,1017.0,265.0,Proactive support call + contract upgrade offer
+2205-YMZZJ,High,0.839,Month-to-month,Electronic check,84.8,7,3,1,0,1018.0,265.0,Proactive support call + contract upgrade offer
+2202-CUYXZ,High,0.8729,Month-to-month,Electronic check,84.85,1,3,1,0,1018.0,265.0,Proactive support call + contract upgrade offer
+2379-ENZGV,High,0.6272,Month-to-month,Electronic check,84.85,6,3,1,0,1018.0,265.0,Proactive support call + contract upgrade offer
+0219-YTZUE,High,0.6017,Month-to-month,Bank transfer (automatic),84.8,4,4,1,0,1018.0,265.0,Proactive support call + tech-support bundle
+5889-LFOLL,High,0.6272,Month-to-month,Electronic check,84.6,13,3,1,0,1015.0,265.0,Proactive support call + contract upgrade offer
+6060-DRTNL,High,0.6272,Month-to-month,Mailed check,84.85,5,3,1,0,1018.0,265.0,Proactive support call + tech-support bundle
+3198-VELRD,High,0.7303,Month-to-month,Bank transfer (automatic),84.75,3,3,1,0,1017.0,265.0,Proactive support call + tech-support bundle
+4912-PIGUY,High,0.9434,Month-to-month,Electronic check,84.6,1,3,1,0,1015.0,265.0,Proactive support call + contract upgrade offer
+8242-SOQUO,High,0.6578,Month-to-month,Electronic check,84.7,5,3,1,0,1016.0,265.0,Proactive support call + contract upgrade offer
+4706-AXVKM,High,0.6371,Month-to-month,Credit card (automatic),84.8,11,3,1,0,1018.0,265.0,Proactive support call + tech-support bundle
+2123-AGEEN,High,0.6405,Month-to-month,Electronic check,84.35,7,3,1,0,1012.0,264.0,Proactive support call + contract upgrade offer
+8875-AKBYH,High,0.6017,Month-to-month,Electronic check,84.35,20,3,1,0,1012.0,264.0,Proactive support call + contract upgrade offer
+8972-HJWNV,High,0.8729,Month-to-month,Electronic check,84.55,7,3,1,0,1015.0,264.0,Proactive support call + contract upgrade offer
+7005-CCBKV,High,0.6272,Month-to-month,Electronic check,84.4,6,3,1,0,1013.0,264.0,Proactive support call + contract upgrade offer
+7120-RFMVS,High,0.8729,Month-to-month,Electronic check,84.5,1,3,1,0,1014.0,264.0,Proactive support call + contract upgrade offer
+8058-JMEQO,High,0.7597,Month-to-month,Electronic check,84.45,9,3,1,0,1013.0,264.0,Proactive support call + contract upgrade offer
+7613-LLQFO,High,0.6272,Month-to-month,Electronic check,84.45,12,3,1,0,1013.0,264.0,Proactive support call + contract upgrade offer
+5357-TZHPP,High,0.6371,Month-to-month,Credit card (automatic),84.4,9,3,1,0,1013.0,264.0,Proactive support call + tech-support bundle
+0196-VULGZ,High,0.8729,Month-to-month,Electronic check,84.35,6,3,1,0,1012.0,264.0,Proactive support call + contract upgrade offer
+4919-IKATY,High,0.6017,Month-to-month,Electronic check,84.5,5,4,1,0,1014.0,264.0,Proactive support call + contract upgrade offer
+2545-EBUPK,High,0.9285,Month-to-month,Electronic check,84.05,2,3,1,0,1009.0,263.0,Proactive support call + contract upgrade offer
+5117-IFGPS,High,0.6017,Month-to-month,Electronic check,84.3,29,3,1,0,1012.0,263.0,Proactive support call + contract upgrade offer
+5868-YWPDW,High,0.6758,Month-to-month,Electronic check,84.2,6,3,1,0,1010.0,263.0,Proactive support call + contract upgrade offer
+5628-FCGYG,High,0.6017,Month-to-month,Electronic check,84.1,21,3,1,0,1009.0,263.0,Proactive support call + contract upgrade offer
+3489-HHPFY,High,0.7245,Month-to-month,Electronic check,84.05,2,3,1,1,1009.0,263.0,Proactive support call + contract upgrade offer
+2013-SGDXK,High,0.7946,Month-to-month,Electronic check,84.3,1,3,1,0,1012.0,263.0,Proactive support call + contract upgrade offer
+0225-ZORZP,High,0.6052,Month-to-month,Electronic check,84.3,3,3,1,0,1012.0,263.0,Proactive support call + contract upgrade offer
+8800-JOOCF,High,0.61,Month-to-month,Electronic check,84.05,12,3,1,0,1009.0,263.0,Proactive support call + contract upgrade offer
+0923-PNFUB,High,0.6052,Month-to-month,Electronic check,83.75,3,3,1,0,1005.0,262.0,Proactive support call + contract upgrade offer
+9965-YOKZB,High,0.797,Month-to-month,Electronic check,83.85,9,3,1,0,1006.0,262.0,Proactive support call + contract upgrade offer
+5383-MMTWC,High,0.839,Month-to-month,Electronic check,84.0,8,3,1,0,1008.0,262.0,Proactive support call + contract upgrade offer
+3908-BLSYF,High,0.6017,Month-to-month,Electronic check,83.9,6,3,1,0,1007.0,262.0,Proactive support call + contract upgrade offer
+0013-EXCHZ,High,0.6272,Month-to-month,Mailed check,83.9,3,3,0,0,1007.0,262.0,Product education + onboarding check-in
+6407-UTSLV,High,0.7444,Month-to-month,Bank transfer (automatic),83.8,2,3,1,0,1006.0,262.0,Proactive support call + tech-support bundle
+8739-XNIKG,High,0.8076,Month-to-month,Electronic check,84.0,5,3,1,0,1008.0,262.0,Proactive support call + contract upgrade offer
+5685-IIXLY,High,0.6272,Month-to-month,Electronic check,83.6,5,3,1,0,1003.0,261.0,Proactive support call + contract upgrade offer
+5940-NFXKV,High,0.6017,Month-to-month,Electronic check,83.65,19,3,1,0,1004.0,261.0,Proactive support call + contract upgrade offer
+8931-GJJIQ,High,0.6859,Month-to-month,Electronic check,83.3,9,3,1,0,1000.0,260.0,Proactive support call + contract upgrade offer
+6630-UJZMY,High,0.8729,Month-to-month,Electronic check,83.25,4,3,1,0,999.0,260.0,Proactive support call + contract upgrade offer
+6015-VVHHE,High,0.7724,Month-to-month,Credit card (automatic),83.15,5,3,1,0,998.0,259.0,Proactive support call + tech-support bundle
+8714-CTZJW,High,0.67,Month-to-month,Credit card (automatic),82.85,4,3,1,0,994.0,258.0,Proactive support call + tech-support bundle
+3727-RJMEO,High,0.7946,Month-to-month,Electronic check,82.85,6,3,1,0,994.0,258.0,Proactive support call + contract upgrade offer
+6435-SRWBJ,High,0.6052,Month-to-month,Electronic check,82.75,5,4,0,0,993.0,258.0,Proactive support call + contract upgrade offer
+0742-NXBGR,High,0.8729,Month-to-month,Electronic check,82.3,1,3,1,0,988.0,256.0,Proactive support call + contract upgrade offer
+2004-OCQXK,High,0.9046,Month-to-month,Electronic check,81.95,1,2,1,0,983.0,255.0,Proactive support call + contract upgrade offer
+7314-OXENN,High,0.8729,Month-to-month,Electronic check,82.0,2,3,1,0,984.0,255.0,Proactive support call + contract upgrade offer
+1564-NTYXF,High,0.6371,Month-to-month,Electronic check,82.0,13,3,1,0,984.0,255.0,Proactive support call + contract upgrade offer
+6772-KSATR,High,0.8285,Month-to-month,Electronic check,81.7,1,3,1,0,980.0,254.0,Proactive support call + contract upgrade offer
+0334-GDDSO,High,0.845,Month-to-month,Electronic check,81.35,3,3,1,0,976.0,253.0,Proactive support call + contract upgrade offer
+4143-OOBWZ,High,0.6272,Month-to-month,Electronic check,81.3,5,3,1,0,976.0,253.0,Proactive support call + contract upgrade offer
+8808-ELEHO,High,0.6371,Month-to-month,Electronic check,81.25,8,3,1,0,975.0,253.0,Proactive support call + contract upgrade offer
+9050-IKDZA,High,0.6725,Month-to-month,Mailed check,81.5,2,2,1,0,978.0,253.0,Proactive support call + tech-support bundle
+2612-RRIDN,High,0.7152,Month-to-month,Electronic check,81.0,4,2,1,0,972.0,252.0,Proactive support call + contract upgrade offer
+4795-KTRTH,High,0.6859,Month-to-month,Electronic check,81.0,5,3,1,0,972.0,252.0,Proactive support call + contract upgrade offer
+5445-UTODQ,High,0.6272,Month-to-month,Electronic check,81.1,7,2,1,0,973.0,252.0,Proactive support call + contract upgrade offer
+4614-NUVZD,High,0.9046,Month-to-month,Electronic check,81.1,1,2,1,0,973.0,252.0,Proactive support call + contract upgrade offer
+2018-QKYGT,High,0.8729,Month-to-month,Electronic check,81.05,1,2,1,0,973.0,252.0,Proactive support call + contract upgrade offer
+5729-KLZAR,High,0.6017,Month-to-month,Electronic check,80.85,4,2,1,0,970.0,251.0,Proactive support call + contract upgrade offer
+1704-NRWYE,High,0.6371,Month-to-month,Electronic check,80.85,9,2,1,0,970.0,251.0,Proactive support call + contract upgrade offer
+3191-CSNMG,High,0.6833,Month-to-month,Electronic check,80.7,3,2,1,0,968.0,251.0,Proactive support call + contract upgrade offer
+5228-EXCET,High,0.6017,Month-to-month,Electronic check,80.85,13,2,1,0,970.0,251.0,Proactive support call + contract upgrade offer
+8183-ONMXC,High,0.7188,Month-to-month,Electronic check,80.75,2,2,1,0,969.0,251.0,Proactive support call + contract upgrade offer
+9957-YODKZ,High,0.7466,Month-to-month,Electronic check,80.8,6,3,1,0,970.0,251.0,Proactive support call + contract upgrade offer
+5275-SQEIZ,High,0.8729,Month-to-month,Mailed check,80.85,1,2,1,0,970.0,251.0,Proactive support call + tech-support bundle
+6000-APYLU,High,0.6237,Month-to-month,Electronic check,80.8,9,2,1,0,970.0,251.0,Proactive support call + contract upgrade offer
+6786-OBWQR,High,0.6272,Month-to-month,Electronic check,80.85,5,2,1,0,970.0,251.0,Proactive support call + contract upgrade offer
+6457-USBER,High,0.9046,Month-to-month,Electronic check,80.8,1,2,1,0,970.0,251.0,Proactive support call + contract upgrade offer
+9878-TNQGW,High,0.8729,Month-to-month,Electronic check,80.95,2,2,1,0,971.0,251.0,Proactive support call + contract upgrade offer
+7563-BIUPC,High,0.6371,Month-to-month,Electronic check,80.6,5,2,1,0,967.0,250.0,Proactive support call + contract upgrade offer
+7760-OYPDY,High,0.8729,Month-to-month,Electronic check,80.65,2,2,1,0,968.0,250.0,Proactive support call + contract upgrade offer
+2868-SNELZ,High,0.6505,Month-to-month,Mailed check,80.6,2,3,1,0,967.0,250.0,Proactive support call + tech-support bundle
+2737-YNGYW,High,0.7177,Month-to-month,Electronic check,80.55,2,2,1,0,967.0,250.0,Proactive support call + contract upgrade offer
+0318-QUUOB,High,0.8729,Month-to-month,Electronic check,80.55,1,2,1,0,967.0,250.0,Proactive support call + contract upgrade offer
+9840-DVNDC,High,0.6052,Month-to-month,Credit card (automatic),80.5,6,2,1,0,966.0,250.0,Proactive support call + tech-support bundle
+2867-UIMSS,High,0.8729,Month-to-month,Electronic check,80.5,1,2,1,0,966.0,250.0,Proactive support call + contract upgrade offer
+6923-JHPMP,High,0.6052,Month-to-month,Electronic check,80.45,2,3,1,0,965.0,250.0,Proactive support call + contract upgrade offer
+7439-DKZTW,High,0.8729,Month-to-month,Electronic check,80.55,1,2,1,0,967.0,250.0,Proactive support call + contract upgrade offer
+9391-EOYLI,High,0.6336,Month-to-month,Electronic check,80.45,12,2,1,0,965.0,250.0,Proactive support call + contract upgrade offer
+6357-JJPQT,High,0.7797,Month-to-month,Electronic check,80.5,3,2,1,0,966.0,250.0,Proactive support call + contract upgrade offer
+2959-MJHIC,High,0.7177,Month-to-month,Electronic check,80.35,4,2,1,0,964.0,249.0,Proactive support call + contract upgrade offer
+9689-PTNPG,High,0.8729,Month-to-month,Electronic check,80.25,2,2,1,0,963.0,249.0,Proactive support call + contract upgrade offer
+6086-ESGRL,High,0.7598,Month-to-month,Credit card (automatic),80.15,1,2,1,0,962.0,249.0,Proactive support call + tech-support bundle
+0793-TWELN,High,0.6052,Month-to-month,Electronic check,80.15,4,3,1,0,962.0,249.0,Proactive support call + contract upgrade offer
+2674-MIAHT,High,0.6052,Month-to-month,Mailed check,80.3,4,3,1,0,964.0,249.0,Proactive support call + tech-support bundle
+4086-YQSNZ,High,0.8729,Month-to-month,Electronic check,80.4,3,2,1,0,965.0,249.0,Proactive support call + contract upgrade offer
+8086-OVPWV,High,0.8729,Month-to-month,Electronic check,80.2,2,2,1,0,962.0,249.0,Proactive support call + contract upgrade offer
+4529-CKBCL,High,0.8729,Month-to-month,Electronic check,80.2,2,2,1,0,962.0,249.0,Proactive support call + contract upgrade offer
+2789-HQBOU,High,0.845,Month-to-month,Electronic check,80.35,3,2,1,0,964.0,249.0,Proactive support call + contract upgrade offer
+0137-OCGAB,High,0.7946,Month-to-month,Mailed check,80.2,1,3,1,0,962.0,249.0,Proactive support call + tech-support bundle
+7903-CMPEY,High,0.8729,Month-to-month,Electronic check,80.3,1,3,1,0,964.0,249.0,Proactive support call + contract upgrade offer
+7693-LCKZL,High,0.6227,Month-to-month,Electronic check,80.15,5,3,1,0,962.0,249.0,Proactive support call + contract upgrade offer
+5494-HECPR,High,0.8729,Month-to-month,Electronic check,80.25,1,2,1,0,963.0,249.0,Proactive support call + contract upgrade offer
+9897-KXHCM,High,0.7525,Month-to-month,Electronic check,80.3,3,2,1,0,964.0,249.0,Proactive support call + contract upgrade offer
+1251-STYSZ,High,0.6272,Month-to-month,Electronic check,80.25,4,3,1,0,963.0,249.0,Proactive support call + contract upgrade offer
+4741-WWJQZ,High,0.6017,Month-to-month,Electronic check,80.15,2,3,0,0,962.0,249.0,Proactive support call + contract upgrade offer
+9300-RENDD,High,0.8729,Month-to-month,Electronic check,79.95,1,2,1,0,959.0,248.0,Proactive support call + contract upgrade offer
+4234-XTNEA,High,0.8729,Month-to-month,Electronic check,79.95,2,2,1,0,959.0,248.0,Proactive support call + contract upgrade offer
+4806-KEXQR,High,0.797,Month-to-month,Electronic check,79.9,4,2,1,0,959.0,248.0,Proactive support call + contract upgrade offer
+6161-UUUTA,High,0.845,Month-to-month,Electronic check,79.9,3,2,1,0,959.0,248.0,Proactive support call + contract upgrade offer
+1285-OKIPP,High,0.8729,Month-to-month,Electronic check,79.9,1,2,1,0,959.0,248.0,Proactive support call + contract upgrade offer
+1448-PWKYE,High,0.8285,Month-to-month,Electronic check,80.0,1,2,1,0,960.0,248.0,Proactive support call + contract upgrade offer
+9696-RMYBA,High,0.6052,Month-to-month,Mailed check,80.1,5,2,1,0,961.0,248.0,Proactive support call + tech-support bundle
+3904-UKFRE,High,0.6052,Month-to-month,Electronic check,80.1,4,3,1,0,961.0,248.0,Proactive support call + contract upgrade offer
+8821-XNHVZ,High,0.7946,Month-to-month,Mailed check,80.05,1,2,1,0,961.0,248.0,Proactive support call + tech-support bundle
+0495-ZBNGW,High,0.6272,Month-to-month,Bank transfer (automatic),79.9,5,3,1,0,959.0,248.0,Proactive support call + tech-support bundle
+1184-PJVDB,High,0.6017,Month-to-month,Electronic check,79.95,10,2,1,0,959.0,248.0,Proactive support call + contract upgrade offer
+6941-PMGEP,High,0.6833,Month-to-month,Electronic check,80.0,5,2,1,0,960.0,248.0,Proactive support call + contract upgrade offer
+4290-BSXUX,High,0.6052,Month-to-month,Bank transfer (automatic),79.65,3,3,0,0,956.0,247.0,Product education + onboarding check-in
+5712-PTIWW,High,0.6625,Month-to-month,Electronic check,79.85,2,3,0,0,958.0,247.0,Proactive support call + contract upgrade offer
+4713-LZDRV,High,0.9046,Month-to-month,Electronic check,79.6,2,2,1,0,955.0,247.0,Proactive support call + contract upgrade offer
+8943-URTMR,High,0.7245,Month-to-month,Mailed check,79.65,2,2,1,0,956.0,247.0,Proactive support call + tech-support bundle
+8058-INTPH,High,0.8729,Month-to-month,Electronic check,79.65,1,2,1,0,956.0,247.0,Proactive support call + contract upgrade offer
+9317-WZPGV,High,0.839,Month-to-month,Bank transfer (automatic),79.75,2,2,1,0,957.0,247.0,Proactive support call + tech-support bundle
+6229-LSCKB,High,0.6427,Month-to-month,Electronic check,79.7,6,2,1,0,956.0,247.0,Proactive support call + contract upgrade offer
+7363-QTBIW,High,0.6272,Month-to-month,Electronic check,79.75,9,2,1,0,957.0,247.0,Proactive support call + contract upgrade offer
+1981-INRFU,High,0.8729,Month-to-month,Electronic check,79.75,2,2,1,0,957.0,247.0,Proactive support call + contract upgrade offer
+0495-RVCBF,High,0.9046,Month-to-month,Electronic check,79.7,1,2,1,0,956.0,247.0,Proactive support call + contract upgrade offer
+5393-RXQSZ,High,0.8729,Month-to-month,Electronic check,79.6,1,2,1,0,955.0,247.0,Proactive support call + contract upgrade offer
+7594-RQHXR,High,0.8729,Month-to-month,Electronic check,79.6,1,2,1,0,955.0,247.0,Proactive support call + contract upgrade offer
+6437-UKHMV,High,0.6272,Month-to-month,Electronic check,79.7,7,2,1,0,956.0,247.0,Proactive support call + contract upgrade offer
+0872-NXJYS,High,0.6272,Month-to-month,Electronic check,79.55,9,2,1,0,955.0,246.0,Proactive support call + contract upgrade offer
+2688-BHGOG,High,0.6405,Month-to-month,Electronic check,79.55,9,2,1,0,955.0,246.0,Proactive support call + contract upgrade offer
+3420-YJLQT,High,0.6725,Month-to-month,Electronic check,79.55,2,3,1,0,955.0,246.0,Proactive support call + contract upgrade offer
+2514-GINMM,High,0.8729,Month-to-month,Electronic check,79.5,1,2,1,0,954.0,246.0,Proactive support call + contract upgrade offer
+7074-IEVOJ,High,0.839,Month-to-month,Electronic check,79.4,3,3,1,0,953.0,246.0,Proactive support call + contract upgrade offer
+4631-OACRM,High,0.6017,Month-to-month,Electronic check,79.4,15,2,1,0,953.0,246.0,Proactive support call + contract upgrade offer
+6618-RYATB,High,0.8729,Month-to-month,Mailed check,79.55,1,3,1,0,955.0,246.0,Proactive support call + tech-support bundle
+3422-GALYP,High,0.8729,Month-to-month,Electronic check,79.45,2,3,1,0,953.0,246.0,Proactive support call + contract upgrade offer
+1761-AEZZR,High,0.8729,Month-to-month,Electronic check,79.55,1,2,1,0,955.0,246.0,Proactive support call + contract upgrade offer
+9507-EXLTT,High,0.8729,Month-to-month,Bank transfer (automatic),79.35,1,2,1,0,952.0,246.0,Proactive support call + tech-support bundle
+1678-FYZOW,High,0.7797,Month-to-month,Electronic check,79.4,3,2,1,0,953.0,246.0,Proactive support call + contract upgrade offer
+5919-TMRGD,High,0.8729,Month-to-month,Electronic check,79.35,1,2,1,0,952.0,246.0,Proactive support call + contract upgrade offer
+9019-QVLZD,High,0.8729,Month-to-month,Electronic check,79.55,1,2,1,0,955.0,246.0,Proactive support call + contract upgrade offer
+4587-NUKOX,High,0.6017,Month-to-month,Electronic check,79.1,3,3,1,0,949.0,245.0,Proactive support call + contract upgrade offer
+8580-AECUZ,High,0.9046,Month-to-month,Electronic check,79.1,1,2,1,0,949.0,245.0,Proactive support call + contract upgrade offer
+6400-BWQKW,High,0.6017,Month-to-month,Electronic check,79.05,6,3,1,0,949.0,245.0,Proactive support call + contract upgrade offer
+4210-QFJMF,High,0.7303,Month-to-month,Electronic check,79.15,4,2,1,0,950.0,245.0,Proactive support call + contract upgrade offer
+2026-TGDHM,High,0.6371,Month-to-month,Electronic check,79.3,7,2,1,0,952.0,245.0,Proactive support call + contract upgrade offer
+6567-HOOPW,High,0.9046,Month-to-month,Electronic check,79.2,1,2,1,0,950.0,245.0,Proactive support call + contract upgrade offer
+2868-MZAGQ,High,0.9046,Month-to-month,Electronic check,79.25,1,2,1,0,951.0,245.0,Proactive support call + contract upgrade offer
+2254-DLXRI,High,0.7946,Month-to-month,Mailed check,79.15,1,3,1,0,950.0,245.0,Proactive support call + tech-support bundle
+6110-OHIHY,High,0.6272,Month-to-month,Electronic check,79.25,3,2,1,0,951.0,245.0,Proactive support call + contract upgrade offer
+8225-BTJAU,High,0.6371,Month-to-month,Electronic check,79.25,10,2,1,0,951.0,245.0,Proactive support call + contract upgrade offer
+5960-WPXQM,High,0.8729,Month-to-month,Electronic check,79.05,1,2,1,0,949.0,245.0,Proactive support call + contract upgrade offer
+5561-NWEVX,High,0.8285,Month-to-month,Electronic check,79.2,2,3,1,0,950.0,245.0,Proactive support call + contract upgrade offer
+7493-TPUWZ,High,0.8729,Month-to-month,Electronic check,79.15,1,3,1,0,950.0,245.0,Proactive support call + contract upgrade offer
+8740-CRYFY,High,0.8729,Month-to-month,Electronic check,78.95,1,2,1,0,947.0,244.0,Proactive support call + contract upgrade offer
+1569-TTNYJ,High,0.6272,Month-to-month,Electronic check,78.75,5,3,1,0,945.0,244.0,Proactive support call + contract upgrade offer
+7198-GLXTC,High,0.7078,Month-to-month,Electronic check,79.0,2,2,1,0,948.0,244.0,Proactive support call + contract upgrade offer
+6689-TCZHQ,High,0.6371,Month-to-month,Electronic check,78.95,5,2,1,0,947.0,244.0,Proactive support call + contract upgrade offer
+1226-IENZN,High,0.6017,Month-to-month,Electronic check,78.75,16,2,1,0,945.0,244.0,Proactive support call + contract upgrade offer
+6372-RFVNS,High,0.8729,Month-to-month,Electronic check,78.8,1,2,1,0,946.0,244.0,Proactive support call + contract upgrade offer
+9231-ZJYAM,High,0.7797,Month-to-month,Electronic check,78.85,4,2,1,0,946.0,244.0,Proactive support call + contract upgrade offer
+7638-QVMVY,High,0.6272,Month-to-month,Electronic check,79.0,7,2,1,0,948.0,244.0,Proactive support call + contract upgrade offer
+8752-STIVR,High,0.6859,Month-to-month,Electronic check,79.0,4,2,1,0,948.0,244.0,Proactive support call + contract upgrade offer
+5288-AHOUP,High,0.6336,Month-to-month,Electronic check,78.5,11,2,1,0,942.0,243.0,Proactive support call + contract upgrade offer
+8945-GRKHX,High,0.839,Month-to-month,Electronic check,78.65,1,2,1,0,944.0,243.0,Proactive support call + contract upgrade offer
+9837-BMCLM,High,0.8111,Month-to-month,Electronic check,78.5,3,2,1,0,942.0,243.0,Proactive support call + contract upgrade offer
+1304-NECVQ,High,0.8729,Month-to-month,Electronic check,78.55,2,3,1,0,943.0,243.0,Proactive support call + contract upgrade offer
+3249-ZPQRG,High,0.6052,Month-to-month,Electronic check,78.45,4,3,1,0,941.0,242.0,Proactive support call + contract upgrade offer
+9885-CSMWE,High,0.8729,Month-to-month,Electronic check,78.45,1,2,1,0,941.0,242.0,Proactive support call + contract upgrade offer
+2777-PHDEI,High,0.8729,Month-to-month,Electronic check,78.05,1,2,1,0,937.0,241.0,Proactive support call + contract upgrade offer
+6376-GAHQE,High,0.6052,Month-to-month,Electronic check,77.85,4,2,1,0,934.0,240.0,Proactive support call + contract upgrade offer
+2609-IAICY,High,0.8729,Month-to-month,Electronic check,77.15,1,2,1,0,926.0,238.0,Proactive support call + contract upgrade offer
+8258-GSTJK,High,0.8729,Month-to-month,Electronic check,77.0,3,2,1,0,924.0,237.0,Proactive support call + contract upgrade offer
+5835-BEQEU,High,0.845,Month-to-month,Electronic check,76.95,3,2,1,0,923.0,237.0,Proactive support call + contract upgrade offer
+1219-NNDDO,High,0.6272,Month-to-month,Electronic check,76.85,9,2,1,0,922.0,237.0,Proactive support call + contract upgrade offer
+9248-OJYKK,High,0.9046,Month-to-month,Electronic check,76.45,1,2,1,0,917.0,235.0,Proactive support call + contract upgrade offer
+3296-SILRA,High,0.7946,Month-to-month,Mailed check,76.4,1,2,1,0,917.0,235.0,Proactive support call + tech-support bundle
+7598-UAASY,High,0.6274,Month-to-month,Electronic check,76.4,2,2,1,0,917.0,235.0,Proactive support call + contract upgrade offer
+5928-QLDHB,High,0.6108,Month-to-month,Electronic check,76.25,9,2,1,0,915.0,235.0,Proactive support call + contract upgrade offer
+6910-HADCM,High,0.7392,Month-to-month,Electronic check,76.35,1,2,1,0,916.0,235.0,Proactive support call + contract upgrade offer
+0637-KVDLV,High,0.8729,Month-to-month,Electronic check,76.5,2,2,1,0,918.0,235.0,Proactive support call + contract upgrade offer
+8443-ZRDBZ,High,0.7525,Month-to-month,Electronic check,76.05,4,2,1,0,913.0,234.0,Proactive support call + contract upgrade offer
+6960-HVYXR,High,0.8729,Month-to-month,Electronic check,76.0,1,2,1,0,912.0,234.0,Proactive support call + contract upgrade offer
+3370-HXOPH,High,0.6272,Month-to-month,Electronic check,76.1,3,2,1,0,913.0,234.0,Proactive support call + contract upgrade offer
+7576-OYWBN,High,0.8729,Month-to-month,Electronic check,76.05,3,2,1,0,913.0,234.0,Proactive support call + contract upgrade offer
+9444-JTXHZ,High,0.7731,Month-to-month,Electronic check,76.2,1,2,1,0,914.0,234.0,Proactive support call + contract upgrade offer
+4581-SSPWD,High,0.8111,Month-to-month,Electronic check,75.8,3,2,1,0,910.0,233.0,Proactive support call + contract upgrade offer
+5196-SGOAK,High,0.8729,Month-to-month,Electronic check,75.7,1,2,1,0,908.0,233.0,Proactive support call + contract upgrade offer
+3519-ZKXGG,High,0.8621,Month-to-month,Electronic check,75.85,3,2,1,0,910.0,233.0,Proactive support call + contract upgrade offer
+0231-LXVAP,High,0.783,Month-to-month,Electronic check,75.9,1,2,0,0,911.0,233.0,Proactive support call + contract upgrade offer
+6894-LFHLY,High,0.9046,Month-to-month,Electronic check,75.75,1,2,1,0,909.0,233.0,Proactive support call + contract upgrade offer
+1618-CFHME,High,0.8729,Month-to-month,Electronic check,75.9,2,2,1,0,911.0,233.0,Proactive support call + contract upgrade offer
+7595-EUIVN,High,0.6725,Month-to-month,Electronic check,75.8,1,2,1,0,910.0,233.0,Proactive support call + contract upgrade offer
+8433-WXGNA,High,0.637,Month-to-month,Electronic check,75.7,2,2,1,0,908.0,233.0,Proactive support call + contract upgrade offer
+7354-OIJLX,High,0.6237,Month-to-month,Electronic check,75.85,9,2,1,0,910.0,233.0,Proactive support call + contract upgrade offer
+7130-VTEWQ,High,0.6405,Month-to-month,Electronic check,75.75,8,2,1,0,909.0,233.0,Proactive support call + contract upgrade offer
+5159-YFPKQ,High,0.7491,Month-to-month,Electronic check,75.8,2,2,1,0,910.0,233.0,Proactive support call + contract upgrade offer
+3074-GQWYX,High,0.6052,Month-to-month,Bank transfer (automatic),75.9,5,2,1,0,911.0,233.0,Proactive support call + tech-support bundle
+9250-WYPLL,High,0.6052,Month-to-month,Electronic check,75.55,5,2,1,0,907.0,232.0,Proactive support call + contract upgrade offer
+8185-UPYBR,High,0.6272,Month-to-month,Electronic check,75.5,6,2,1,0,906.0,232.0,Proactive support call + contract upgrade offer
+1320-HTRDR,High,0.839,Month-to-month,Electronic check,75.5,3,2,1,0,906.0,232.0,Proactive support call + contract upgrade offer
+0817-HSUSE,High,0.7172,Month-to-month,Electronic check,75.5,1,5,0,0,906.0,232.0,Proactive support call + contract upgrade offer
+7817-BOQPW,High,0.8729,Month-to-month,Electronic check,75.55,2,2,1,0,907.0,232.0,Proactive support call + contract upgrade offer
+0506-LVNGN,High,0.6017,Month-to-month,Credit card (automatic),75.55,5,2,1,0,907.0,232.0,Proactive support call + tech-support bundle
+5834-ASPWA,High,0.8729,Month-to-month,Electronic check,75.45,1,2,1,0,905.0,232.0,Proactive support call + contract upgrade offer
+5043-TRZWM,High,0.7392,Month-to-month,Electronic check,75.55,1,2,1,0,907.0,232.0,Proactive support call + contract upgrade offer
+6198-ZFIOJ,High,0.6052,Month-to-month,Electronic check,75.6,5,2,1,0,907.0,232.0,Proactive support call + contract upgrade offer
+4749-OJKQU,High,0.6859,Month-to-month,Electronic check,75.65,4,2,1,0,908.0,232.0,Proactive support call + contract upgrade offer
+2516-VQRRV,High,0.839,Month-to-month,Mailed check,75.45,2,2,1,0,905.0,232.0,Proactive support call + tech-support bundle
+8325-QRPZR,High,0.6017,Month-to-month,Electronic check,75.15,7,2,1,0,902.0,231.0,Proactive support call + contract upgrade offer
+5570-PTWEH,High,0.6725,Month-to-month,Credit card (automatic),75.15,3,2,1,0,902.0,231.0,Proactive support call + tech-support bundle
+9940-RHLFB,High,0.7392,Month-to-month,Electronic check,75.3,1,2,1,0,904.0,231.0,Proactive support call + contract upgrade offer
+0925-VYDLG,High,0.6272,Month-to-month,Electronic check,75.25,3,2,1,0,903.0,231.0,Proactive support call + contract upgrade offer
+0840-DFEZH,High,0.6272,Month-to-month,Electronic check,75.35,7,2,1,0,904.0,231.0,Proactive support call + contract upgrade offer
+5564-NEMQO,High,0.8729,Month-to-month,Bank transfer (automatic),75.3,1,2,1,0,904.0,231.0,Proactive support call + tech-support bundle
+9787-XVQIU,High,0.8729,Month-to-month,Electronic check,75.3,1,2,1,0,904.0,231.0,Proactive support call + contract upgrade offer
+2077-MPJQO,High,0.6758,Month-to-month,Electronic check,75.4,7,2,1,0,905.0,231.0,Proactive support call + contract upgrade offer
+3199-XGZCY,High,0.6272,Month-to-month,Electronic check,75.25,8,2,1,0,903.0,231.0,Proactive support call + contract upgrade offer
+4988-IQIGL,High,0.9046,Month-to-month,Electronic check,75.35,1,2,1,0,904.0,231.0,Proactive support call + contract upgrade offer
+5054-IEXZT,High,0.7525,Month-to-month,Electronic check,75.35,1,2,1,0,904.0,231.0,Proactive support call + contract upgrade offer
+1746-TGTWV,High,0.6405,Month-to-month,Credit card (automatic),75.35,1,2,1,0,904.0,231.0,Proactive support call + tech-support bundle
+1602-IJQQE,High,0.6052,Month-to-month,Electronic check,75.35,4,2,1,0,904.0,231.0,Proactive support call + contract upgrade offer
+1157-BQCUW,High,0.8729,Month-to-month,Electronic check,74.95,1,2,1,0,899.0,230.0,Proactive support call + contract upgrade offer
+6996-KNSML,High,0.8729,Month-to-month,Electronic check,74.9,1,2,1,0,899.0,230.0,Proactive support call + contract upgrade offer
+6711-FLDFB,High,0.6272,Month-to-month,Electronic check,74.9,7,2,1,0,899.0,230.0,Proactive support call + contract upgrade offer
+1024-VRZHF,High,0.6017,Month-to-month,Electronic check,74.95,11,2,1,0,899.0,230.0,Proactive support call + contract upgrade offer
+3276-HDUEG,High,0.8729,Month-to-month,Mailed check,75.05,1,2,1,0,901.0,230.0,Proactive support call + tech-support bundle
+8107-KNCIM,High,0.6017,Month-to-month,Electronic check,75.1,14,2,1,0,901.0,230.0,Proactive support call + contract upgrade offer
+6856-RAURS,High,0.7245,Month-to-month,Mailed check,74.9,2,2,1,0,899.0,230.0,Proactive support call + tech-support bundle
+1980-KXVPM,High,0.7303,Month-to-month,Credit card (automatic),75.05,3,2,1,0,901.0,230.0,Proactive support call + tech-support bundle
+6358-LYNGM,High,0.8729,Month-to-month,Electronic check,74.9,1,2,1,0,899.0,230.0,Proactive support call + contract upgrade offer
+9685-WKZGT,High,0.6017,Month-to-month,Electronic check,74.95,14,2,1,0,899.0,230.0,Proactive support call + contract upgrade offer
+1452-VOQCH,High,0.8729,Month-to-month,Electronic check,75.1,1,2,1,0,901.0,230.0,Proactive support call + contract upgrade offer
+2080-GKCWQ,High,0.6017,Month-to-month,Electronic check,74.95,2,2,1,0,899.0,230.0,Proactive support call + contract upgrade offer
+4229-CZMLL,High,0.6314,Month-to-month,Electronic check,74.9,6,2,1,0,899.0,230.0,Proactive support call + contract upgrade offer
+8676-TRMJS,High,0.6052,Month-to-month,Mailed check,75.0,3,2,1,0,900.0,230.0,Proactive support call + tech-support bundle
+8816-VXNZD,High,0.8729,Month-to-month,Electronic check,75.1,1,2,1,0,901.0,230.0,Proactive support call + contract upgrade offer
+4090-KPJIP,High,0.839,Month-to-month,Electronic check,74.95,3,2,1,0,899.0,230.0,Proactive support call + contract upgrade offer
+1475-VWVDO,High,0.6017,Month-to-month,Electronic check,74.9,7,2,1,0,899.0,230.0,Proactive support call + contract upgrade offer
+9274-CNFMO,High,0.6625,Month-to-month,Electronic check,74.95,4,2,1,0,899.0,230.0,Proactive support call + contract upgrade offer
+2276-YDAVZ,High,0.6824,Month-to-month,Credit card (automatic),75.1,3,2,1,0,901.0,230.0,Proactive support call + tech-support bundle
+0722-TROQR,High,0.8111,Month-to-month,Electronic check,74.9,4,2,1,0,899.0,230.0,Proactive support call + contract upgrade offer
+7571-YXDAD,High,0.6505,Month-to-month,Credit card (automatic),74.9,2,2,1,0,899.0,230.0,Proactive support call + tech-support bundle
+5240-IJOQT,High,0.9046,Month-to-month,Electronic check,74.7,1,2,1,0,896.0,229.0,Proactive support call + contract upgrade offer
+9334-GWGOW,High,0.6758,Month-to-month,Electronic check,74.85,7,2,1,0,898.0,229.0,Proactive support call + contract upgrade offer
+3030-YDNRM,High,0.6272,Month-to-month,Electronic check,74.85,8,2,1,0,898.0,229.0,Proactive support call + contract upgrade offer
+3746-EUBYR,High,0.8729,Month-to-month,Bank transfer (automatic),74.6,1,2,1,0,895.0,229.0,Proactive support call + tech-support bundle
+6424-ELEYH,High,0.6725,Month-to-month,Credit card (automatic),74.75,3,2,1,0,897.0,229.0,Proactive support call + tech-support bundle
+8065-YKXKD,High,0.6237,Month-to-month,Electronic check,74.75,10,2,1,0,897.0,229.0,Proactive support call + contract upgrade offer
+2761-OCIAX,High,0.8283,Month-to-month,Electronic check,74.7,2,2,1,0,896.0,229.0,Proactive support call + contract upgrade offer
+5399-ZIMKF,High,0.6017,Month-to-month,Electronic check,74.65,5,2,1,0,896.0,229.0,Proactive support call + contract upgrade offer
+2984-MIIZL,High,0.6017,Month-to-month,Bank transfer (automatic),74.8,4,2,1,0,898.0,229.0,Proactive support call + tech-support bundle
+2024-BASKD,High,0.7911,Month-to-month,Mailed check,74.6,1,2,1,0,895.0,229.0,Proactive support call + tech-support bundle
+2800-VEQXM,High,0.6052,Month-to-month,Mailed check,74.75,3,2,1,0,897.0,229.0,Proactive support call + tech-support bundle
+1866-OBPNR,High,0.6017,Month-to-month,Credit card (automatic),74.6,1,2,1,0,895.0,229.0,Proactive support call + tech-support bundle
+7235-NXZCP,High,0.8729,Month-to-month,Mailed check,74.85,2,2,1,0,898.0,229.0,Proactive support call + tech-support bundle
+9399-APLBT,High,0.7212,Month-to-month,Electronic check,74.7,1,2,1,0,896.0,229.0,Proactive support call + contract upgrade offer
+3411-WLRSQ,High,0.6237,Month-to-month,Bank transfer (automatic),74.6,3,2,1,0,895.0,229.0,Proactive support call + tech-support bundle
+4282-YMKNA,High,0.6272,Month-to-month,Electronic check,74.75,9,2,1,0,897.0,229.0,Proactive support call + contract upgrade offer
+4770-UEZOX,High,0.6724,Month-to-month,Electronic check,74.75,2,2,1,0,897.0,229.0,Proactive support call + contract upgrade offer
+2424-WVHPL,High,0.6939,Month-to-month,Electronic check,74.7,1,2,0,0,896.0,229.0,Proactive support call + contract upgrade offer
+7341-LXCAF,High,0.7491,Month-to-month,Electronic check,74.65,4,2,1,0,896.0,229.0,Proactive support call + contract upgrade offer
+3765-JXVKY,High,0.8729,Month-to-month,Electronic check,74.7,1,2,1,0,896.0,229.0,Proactive support call + contract upgrade offer
+8372-JUXUI,High,0.8729,Month-to-month,Electronic check,74.35,1,2,1,0,892.0,228.0,Proactive support call + contract upgrade offer
+4102-OQUPX,High,0.9046,Month-to-month,Electronic check,74.4,1,2,1,0,893.0,228.0,Proactive support call + contract upgrade offer
+7823-JSOAG,High,0.6272,Month-to-month,Electronic check,74.5,3,2,1,0,894.0,228.0,Proactive support call + contract upgrade offer
+3551-HUAZH,High,0.9046,Month-to-month,Electronic check,74.4,1,2,1,0,893.0,228.0,Proactive support call + contract upgrade offer
+5956-VKDTT,High,0.7797,Month-to-month,Electronic check,74.35,5,2,1,0,892.0,228.0,Proactive support call + contract upgrade offer
+2982-IHMFT,High,0.8729,Month-to-month,Mailed check,74.45,1,2,1,0,893.0,228.0,Proactive support call + tech-support bundle
+8699-ASUFO,High,0.6052,Month-to-month,Mailed check,74.4,7,2,1,0,893.0,228.0,Proactive support call + tech-support bundle
+0388-EOPEX,High,0.6052,Month-to-month,Electronic check,74.4,2,2,1,0,893.0,228.0,Proactive support call + contract upgrade offer
+0709-TVGUR,High,0.6371,Month-to-month,Electronic check,74.55,9,2,1,0,895.0,228.0,Proactive support call + contract upgrade offer
+8361-LTMKD,High,0.7171,Month-to-month,Mailed check,74.4,4,2,1,0,893.0,228.0,Proactive support call + tech-support bundle
+2325-NBPZG,High,0.6017,Month-to-month,Electronic check,74.55,3,2,1,0,895.0,228.0,Proactive support call + contract upgrade offer
+4274-OWWYO,High,0.8729,Month-to-month,Electronic check,74.35,1,2,1,0,892.0,228.0,Proactive support call + contract upgrade offer
+0723-DRCLG,High,0.9434,Month-to-month,Electronic check,74.45,1,2,1,0,893.0,228.0,Proactive support call + contract upgrade offer
+8083-YTZES,High,0.7525,Month-to-month,Electronic check,74.35,4,2,1,0,892.0,228.0,Proactive support call + contract upgrade offer
+7180-PISOG,High,0.8729,Month-to-month,Electronic check,74.5,1,2,1,0,894.0,228.0,Proactive support call + contract upgrade offer
+4415-IJZTP,High,0.8729,Month-to-month,Electronic check,74.5,1,2,1,0,894.0,228.0,Proactive support call + contract upgrade offer
+9840-EFJQB,High,0.6725,Month-to-month,Electronic check,74.35,1,2,1,0,892.0,228.0,Proactive support call + contract upgrade offer
+1197-BVMVG,High,0.8111,Month-to-month,Electronic check,74.45,4,2,1,0,893.0,228.0,Proactive support call + contract upgrade offer
+0404-SWRVG,High,0.845,Month-to-month,Electronic check,74.4,3,2,1,0,893.0,228.0,Proactive support call + contract upgrade offer
+2272-QAGFO,High,0.6017,Month-to-month,Electronic check,74.3,14,2,1,0,892.0,227.0,Proactive support call + contract upgrade offer
+2880-FPNAE,High,0.845,Month-to-month,Electronic check,74.2,2,2,1,0,890.0,227.0,Proactive support call + contract upgrade offer
+3707-GNWHM,High,0.8729,Month-to-month,Mailed check,74.25,1,2,1,0,891.0,227.0,Proactive support call + tech-support bundle
+9850-OWRHQ,High,0.6725,Month-to-month,Credit card (automatic),74.1,3,2,1,0,889.0,227.0,Proactive support call + tech-support bundle
+2468-SJFLM,High,0.6496,Month-to-month,Mailed check,74.3,1,2,0,0,892.0,227.0,Product education + onboarding check-in
+1833-VGRUM,High,0.917,Month-to-month,Electronic check,74.2,1,2,1,0,890.0,227.0,Proactive support call + contract upgrade offer
+9306-CPCBC,High,0.839,Month-to-month,Electronic check,74.25,3,2,1,0,891.0,227.0,Proactive support call + contract upgrade offer
+6860-YRJZP,High,0.6371,Month-to-month,Electronic check,74.05,9,2,1,0,889.0,227.0,Proactive support call + contract upgrade offer
+9894-EZEWG,High,0.6966,Month-to-month,Credit card (automatic),74.3,1,2,1,0,892.0,227.0,Proactive support call + tech-support bundle
+8775-ERLNB,High,0.8729,Month-to-month,Electronic check,74.3,1,2,1,0,892.0,227.0,Proactive support call + contract upgrade offer
+0122-OAHPZ,High,0.6272,Month-to-month,Electronic check,73.85,7,2,1,0,886.0,226.0,Proactive support call + contract upgrade offer
+0004-TLHLJ,High,0.6272,Month-to-month,Electronic check,73.9,4,2,1,0,887.0,226.0,Proactive support call + contract upgrade offer
+8687-BAFGU,High,0.6052,Month-to-month,Electronic check,74.0,1,2,0,0,888.0,226.0,Proactive support call + contract upgrade offer
+4854-CIDCF,High,0.6272,Month-to-month,Electronic check,73.85,3,2,1,0,886.0,226.0,Proactive support call + contract upgrade offer
+4585-HETAI,High,0.6017,Month-to-month,Electronic check,73.75,4,2,1,0,885.0,226.0,Proactive support call + contract upgrade offer
+9747-DDZOS,High,0.6052,Month-to-month,Bank transfer (automatic),73.5,1,2,1,0,882.0,225.0,Proactive support call + tech-support bundle
+8473-VUVJN,High,0.9046,Month-to-month,Electronic check,73.65,1,2,1,0,884.0,225.0,Proactive support call + contract upgrade offer
+1196-AMORA,High,0.6017,Month-to-month,Electronic check,73.6,7,2,1,0,883.0,225.0,Proactive support call + contract upgrade offer
+6513-EECDB,High,0.9046,Month-to-month,Electronic check,73.55,1,2,1,0,883.0,225.0,Proactive support call + contract upgrade offer
+6390-DSAZX,High,0.6052,Month-to-month,Mailed check,73.6,1,2,1,0,883.0,225.0,Proactive support call + tech-support bundle
+8541-QVFKM,High,0.6272,Month-to-month,Electronic check,73.5,8,2,1,0,882.0,225.0,Proactive support call + contract upgrade offer
+8617-ENBDS,High,0.6052,Month-to-month,Credit card (automatic),73.6,3,2,1,0,883.0,225.0,Proactive support call + tech-support bundle
+6221-AVQYL,High,0.7911,Month-to-month,Credit card (automatic),73.25,2,2,1,0,879.0,224.0,Proactive support call + tech-support bundle
+1977-STDKI,High,0.8729,Month-to-month,Electronic check,73.0,1,2,1,0,876.0,223.0,Proactive support call + contract upgrade offer
+3295-YVUSR,High,0.8729,Month-to-month,Mailed check,72.6,2,2,1,0,871.0,221.0,Proactive support call + tech-support bundle
+0021-IKXGC,High,0.9434,Month-to-month,Electronic check,72.1,1,2,1,0,865.0,220.0,Proactive support call + contract upgrade offer
+8111-RKSPX,High,0.6272,Month-to-month,Bank transfer (automatic),72.2,4,2,1,0,866.0,220.0,Proactive support call + tech-support bundle
+8644-XLFBW,High,0.8729,Month-to-month,Electronic check,71.65,1,1,1,0,860.0,218.0,Proactive support call + contract upgrade offer
+6140-QNRQQ,High,0.825,Month-to-month,Mailed check,71.55,1,1,1,0,859.0,218.0,Proactive support call + tech-support bundle
+8380-PEFPE,High,0.845,Month-to-month,Electronic check,71.65,1,1,1,0,860.0,218.0,Proactive support call + contract upgrade offer
+0508-OOLTO,High,0.6371,Month-to-month,Electronic check,71.65,2,1,1,0,860.0,218.0,Proactive support call + contract upgrade offer
+3177-LASXD,High,0.7318,Month-to-month,Electronic check,71.35,1,1,1,0,856.0,217.0,Proactive support call + contract upgrade offer
+4450-DLLMH,High,0.6272,Month-to-month,Credit card (automatic),71.3,2,1,1,0,856.0,217.0,Proactive support call + tech-support bundle
+3420-ZDBMA,High,0.6017,Month-to-month,Mailed check,71.45,5,1,1,0,857.0,217.0,Proactive support call + tech-support bundle
+8042-JVNFH,High,0.825,Month-to-month,Mailed check,71.35,1,1,1,0,856.0,217.0,Proactive support call + tech-support bundle
+3878-AVSOQ,High,0.8729,Month-to-month,Electronic check,71.25,1,1,1,0,855.0,217.0,Proactive support call + contract upgrade offer
+7409-KIUTL,High,0.8729,Month-to-month,Electronic check,71.0,1,1,1,0,852.0,216.0,Proactive support call + contract upgrade offer
+0511-JTEOY,High,0.6505,Month-to-month,Mailed check,71.1,1,1,1,0,853.0,216.0,Proactive support call + tech-support bundle
+3422-LYEPQ,High,0.845,Month-to-month,Electronic check,71.0,1,1,1,0,852.0,216.0,Proactive support call + contract upgrade offer
+9488-HGMJH,High,0.8729,Month-to-month,Electronic check,71.15,1,1,1,0,854.0,216.0,Proactive support call + contract upgrade offer
+8040-MNRTF,High,0.6505,Month-to-month,Mailed check,71.1,1,1,1,0,853.0,216.0,Proactive support call + tech-support bundle
+0968-GSIKN,High,0.7598,Month-to-month,Mailed check,70.8,1,1,1,0,850.0,215.0,Proactive support call + tech-support bundle
+3866-MDTUB,High,0.6052,Month-to-month,Electronic check,70.75,2,4,1,0,849.0,215.0,Proactive support call + contract upgrade offer
+0812-WUPTB,High,0.7392,Month-to-month,Mailed check,70.85,1,1,1,0,850.0,215.0,Proactive support call + tech-support bundle
+3721-CNEYS,High,0.7212,Month-to-month,Electronic check,70.95,2,1,1,0,851.0,215.0,Proactive support call + contract upgrade offer
+0151-ONTOV,High,0.6505,Month-to-month,Mailed check,70.9,1,1,1,0,851.0,215.0,Proactive support call + tech-support bundle
+9237-HQITU,High,0.7212,Month-to-month,Electronic check,70.7,2,1,1,0,848.0,215.0,Proactive support call + contract upgrade offer
+1031-IIDEO,High,0.8729,Month-to-month,Electronic check,70.85,1,1,1,0,850.0,215.0,Proactive support call + contract upgrade offer
+3717-OEAUQ,High,0.6052,Month-to-month,Mailed check,70.7,2,1,1,0,848.0,215.0,Proactive support call + tech-support bundle
+8835-VSDSE,High,0.7525,Month-to-month,Electronic check,70.7,2,1,1,0,848.0,215.0,Proactive support call + contract upgrade offer
+0685-MLYYM,High,0.6371,Month-to-month,Electronic check,70.75,2,1,1,0,849.0,215.0,Proactive support call + contract upgrade offer
+5028-GZLDO,High,0.6017,Month-to-month,Credit card (automatic),70.7,2,1,1,0,848.0,215.0,Proactive support call + tech-support bundle
+5032-MIYKT,High,0.7598,Month-to-month,Mailed check,70.7,1,1,1,0,848.0,215.0,Proactive support call + tech-support bundle
+0519-XUZJU,High,0.6505,Month-to-month,Mailed check,70.75,1,1,1,0,849.0,215.0,Proactive support call + tech-support bundle
+8309-IEYJD,High,0.8729,Month-to-month,Mailed check,70.6,1,1,1,0,847.0,214.0,Proactive support call + tech-support bundle
+1122-JWTJW,High,0.7078,Month-to-month,Mailed check,70.65,1,1,1,0,848.0,214.0,Proactive support call + tech-support bundle
+8051-HJRLT,High,0.8729,Month-to-month,Electronic check,70.55,1,1,1,0,847.0,214.0,Proactive support call + contract upgrade offer
+1915-IOFGU,High,0.7318,Month-to-month,Electronic check,70.5,1,1,1,0,846.0,214.0,Proactive support call + contract upgrade offer
+3496-LFSZU,High,0.6017,Month-to-month,Electronic check,70.5,4,1,1,0,846.0,214.0,Proactive support call + contract upgrade offer
+0515-YPMCW,High,0.6947,Month-to-month,Mailed check,70.45,1,1,1,0,845.0,214.0,Proactive support call + tech-support bundle
+0390-DCFDQ,High,0.8729,Month-to-month,Mailed check,70.45,1,1,1,0,845.0,214.0,Proactive support call + tech-support bundle
+0644-OQMDK,High,0.6758,Month-to-month,Electronic check,70.65,4,1,1,0,848.0,214.0,Proactive support call + contract upgrade offer
+5376-DEQCP,High,0.8729,Month-to-month,Electronic check,70.6,1,1,1,0,847.0,214.0,Proactive support call + contract upgrade offer
+5940-AHUHD,High,0.648,Month-to-month,Mailed check,70.6,1,1,1,0,847.0,214.0,Proactive support call + tech-support bundle
+9617-INGJY,High,0.825,Month-to-month,Mailed check,70.6,1,1,1,0,847.0,214.0,Proactive support call + tech-support bundle
+4342-HENTK,High,0.845,Month-to-month,Electronic check,70.65,2,1,1,0,848.0,214.0,Proactive support call + contract upgrade offer
+7321-VGNKU,High,0.7911,Month-to-month,Electronic check,70.35,2,1,1,0,844.0,213.0,Proactive support call + contract upgrade offer
+9717-QEBGU,High,0.7525,Month-to-month,Electronic check,70.3,2,1,1,0,844.0,213.0,Proactive support call + contract upgrade offer
+7379-POKDZ,High,0.6625,Month-to-month,Electronic check,70.3,3,1,1,0,844.0,213.0,Proactive support call + contract upgrade offer
+6168-WFVVF,High,0.7631,Month-to-month,Electronic check,70.3,3,1,1,0,844.0,213.0,Proactive support call + contract upgrade offer
+2446-PLQVO,High,0.8729,Month-to-month,Electronic check,70.3,1,1,1,0,844.0,213.0,Proactive support call + contract upgrade offer
+3244-DCJWY,High,0.8729,Month-to-month,Electronic check,70.25,1,1,1,0,843.0,213.0,Proactive support call + contract upgrade offer
+2815-CPTUL,High,0.6017,Month-to-month,Mailed check,70.25,5,1,1,0,843.0,213.0,Proactive support call + tech-support bundle
+7465-ZZRVX,High,0.8729,Month-to-month,Electronic check,70.35,1,1,1,0,844.0,213.0,Proactive support call + contract upgrade offer
+9605-WGJVW,High,0.8729,Month-to-month,Electronic check,70.2,1,1,1,0,842.0,213.0,Proactive support call + contract upgrade offer
+5804-LEPIM,High,0.8729,Month-to-month,Electronic check,70.35,2,1,1,0,844.0,213.0,Proactive support call + contract upgrade offer
+1363-TXLSL,High,0.8729,Month-to-month,Electronic check,70.3,1,1,1,0,844.0,213.0,Proactive support call + contract upgrade offer
+2619-WFQWU,High,0.7598,Month-to-month,Mailed check,70.15,1,1,1,0,842.0,213.0,Proactive support call + tech-support bundle
+2055-PDADH,High,0.7656,Month-to-month,Electronic check,70.4,3,1,1,0,845.0,213.0,Proactive support call + contract upgrade offer
+9408-SSNVZ,High,0.6272,Month-to-month,Electronic check,70.15,4,1,1,0,842.0,213.0,Proactive support call + contract upgrade offer
+5442-BHQNG,High,0.6052,Month-to-month,Electronic check,70.35,2,1,1,0,844.0,213.0,Proactive support call + contract upgrade offer
+2568-BRGYX,High,0.6272,Month-to-month,Electronic check,70.2,4,1,1,0,842.0,213.0,Proactive support call + contract upgrade offer
+2905-KFQUV,High,0.6272,Month-to-month,Credit card (automatic),70.4,2,1,1,0,845.0,213.0,Proactive support call + tech-support bundle
+4629-NRXKX,High,0.6017,Month-to-month,Electronic check,70.4,2,1,1,0,845.0,213.0,Proactive support call + contract upgrade offer
+4029-HPFVY,High,0.6052,Month-to-month,Mailed check,70.3,3,1,1,0,844.0,213.0,Proactive support call + tech-support bundle
+1640-PLFMP,High,0.8729,Month-to-month,Electronic check,70.25,1,1,1,0,843.0,213.0,Proactive support call + contract upgrade offer
+9985-MWVIX,High,0.7598,Month-to-month,Mailed check,70.15,1,1,1,0,842.0,213.0,Proactive support call + tech-support bundle
+6653-CBBOM,High,0.8729,Month-to-month,Electronic check,70.3,1,1,1,0,844.0,213.0,Proactive support call + contract upgrade offer
+6077-BDPXA,High,0.6799,Month-to-month,Electronic check,70.15,3,1,1,0,842.0,213.0,Proactive support call + contract upgrade offer
+9633-XQABV,High,0.6371,Month-to-month,Electronic check,70.25,3,1,1,0,843.0,213.0,Proactive support call + contract upgrade offer
+7394-LWLYN,High,0.7353,Month-to-month,Electronic check,70.15,2,1,1,0,842.0,213.0,Proactive support call + contract upgrade offer
+4759-TRPLW,High,0.783,Month-to-month,Electronic check,70.4,1,1,1,0,845.0,213.0,Proactive support call + contract upgrade offer
+7044-YAACC,High,0.6724,Month-to-month,Electronic check,70.2,4,1,1,0,842.0,213.0,Proactive support call + contract upgrade offer
+1846-XWOQN,High,0.8755,Month-to-month,Electronic check,70.15,1,1,1,0,842.0,213.0,Proactive support call + contract upgrade offer
+6705-LXORM,High,0.6017,Month-to-month,Electronic check,70.05,5,1,1,0,841.0,212.0,Proactive support call + contract upgrade offer
+5931-FLJJF,High,0.6017,Month-to-month,Mailed check,70.1,7,1,1,0,841.0,212.0,Proactive support call + tech-support bundle
+1062-LHZOD,High,0.7078,Month-to-month,Mailed check,69.9,1,1,1,0,839.0,212.0,Proactive support call + tech-support bundle
+4702-IOQDC,High,0.8729,Month-to-month,Electronic check,70.1,1,1,1,0,841.0,212.0,Proactive support call + contract upgrade offer
+5875-YPQFJ,High,0.8729,Month-to-month,Electronic check,69.9,1,1,1,0,839.0,212.0,Proactive support call + contract upgrade offer
+2262-SLNVK,High,0.7318,Month-to-month,Electronic check,70.1,1,1,1,0,841.0,212.0,Proactive support call + contract upgrade offer
+3066-RRJIO,High,0.7598,Month-to-month,Mailed check,69.95,1,1,1,0,839.0,212.0,Proactive support call + tech-support bundle
+6715-OFDBP,High,0.6017,Month-to-month,Electronic check,70.05,5,4,1,0,841.0,212.0,Proactive support call + contract upgrade offer
+9804-ICWBG,High,0.8729,Month-to-month,Electronic check,69.9,1,1,1,0,839.0,212.0,Proactive support call + contract upgrade offer
+5583-SXDAG,High,0.7872,Month-to-month,Electronic check,70.0,1,1,1,0,840.0,212.0,Proactive support call + contract upgrade offer
+5542-TBBWB,High,0.8729,Month-to-month,Electronic check,69.9,1,1,1,0,839.0,212.0,Proactive support call + contract upgrade offer
+2920-RNCEZ,High,0.7177,Month-to-month,Credit card (automatic),69.95,1,1,1,0,839.0,212.0,Proactive support call + tech-support bundle
+0328-GRPMV,High,0.8729,Month-to-month,Electronic check,70.1,1,1,1,0,841.0,212.0,Proactive support call + contract upgrade offer
+9603-OAIHC,High,0.8729,Month-to-month,Electronic check,70.05,1,1,1,0,841.0,212.0,Proactive support call + contract upgrade offer
+1853-UDXBW,High,0.845,Month-to-month,Electronic check,70.0,1,1,1,0,840.0,212.0,Proactive support call + contract upgrade offer
+8000-REIQB,High,0.8861,Month-to-month,Electronic check,69.95,1,1,1,0,839.0,212.0,Proactive support call + contract upgrade offer
+5119-NZPTV,High,0.6939,Month-to-month,Electronic check,70.1,2,1,1,0,841.0,212.0,Proactive support call + contract upgrade offer
+7153-OANIO,High,0.783,Month-to-month,Electronic check,69.95,1,1,1,0,839.0,212.0,Proactive support call + contract upgrade offer
+3494-JCHRQ,High,0.8729,Month-to-month,Electronic check,70.05,1,1,1,0,841.0,212.0,Proactive support call + contract upgrade offer
+6047-YHPVI,High,0.6052,Month-to-month,Electronic check,69.7,5,1,1,0,836.0,211.0,Proactive support call + contract upgrade offer
+8062-YBDOE,High,0.8729,Month-to-month,Electronic check,69.65,1,1,1,0,836.0,211.0,Proactive support call + contract upgrade offer
+4983-CCWMC,High,0.6052,Month-to-month,Mailed check,69.6,3,1,1,0,835.0,211.0,Proactive support call + tech-support bundle
+5134-IKDAY,High,0.8729,Month-to-month,Electronic check,69.8,1,1,1,0,838.0,211.0,Proactive support call + contract upgrade offer
+7538-GWHML,High,0.6052,Month-to-month,Electronic check,69.65,2,1,1,0,836.0,211.0,Proactive support call + contract upgrade offer
+4603-JANFB,High,0.8729,Month-to-month,Electronic check,69.85,1,1,1,0,838.0,211.0,Proactive support call + contract upgrade offer
+7254-IQWOZ,High,0.8729,Month-to-month,Electronic check,69.65,1,1,1,0,836.0,211.0,Proactive support call + contract upgrade offer
+1084-UQCHV,High,0.6052,Month-to-month,Bank transfer (automatic),69.75,1,1,1,0,837.0,211.0,Proactive support call + tech-support bundle
+4510-HIMLV,High,0.8729,Month-to-month,Electronic check,69.8,1,1,1,0,838.0,211.0,Proactive support call + contract upgrade offer
+7245-NIIWQ,High,0.6799,Month-to-month,Electronic check,69.85,3,1,1,0,838.0,211.0,Proactive support call + contract upgrade offer
+3999-QGRJH,High,0.6237,Month-to-month,Electronic check,69.7,8,1,1,0,836.0,211.0,Proactive support call + contract upgrade offer
+2058-DCJBE,High,0.6052,Month-to-month,Electronic check,69.75,5,1,1,0,837.0,211.0,Proactive support call + contract upgrade offer
+5550-VFRLC,High,0.8914,Month-to-month,Electronic check,69.85,1,1,1,0,838.0,211.0,Proactive support call + contract upgrade offer
+5832-XKAES,High,0.6272,Month-to-month,Credit card (automatic),69.8,2,1,1,0,838.0,211.0,Proactive support call + tech-support bundle
+4550-EVXNY,High,0.839,Month-to-month,Electronic check,69.65,1,1,1,0,836.0,211.0,Proactive support call + contract upgrade offer
+8375-DKEBR,High,0.9046,Month-to-month,Electronic check,69.6,1,1,1,0,835.0,211.0,Proactive support call + contract upgrade offer
+6502-MJQAE,High,0.8729,Month-to-month,Electronic check,69.6,1,1,1,0,835.0,211.0,Proactive support call + contract upgrade offer
+5539-TMZLF,High,0.8729,Month-to-month,Electronic check,69.75,1,1,1,0,837.0,211.0,Proactive support call + contract upgrade offer
+4871-JTKJF,High,0.902,Month-to-month,Electronic check,69.65,1,1,1,0,836.0,211.0,Proactive support call + contract upgrade offer
+2636-ALXXZ,High,0.9046,Month-to-month,Electronic check,69.6,1,1,1,0,835.0,211.0,Proactive support call + contract upgrade offer
+7665-TOALD,High,0.8729,Month-to-month,Electronic check,69.6,1,1,1,0,835.0,211.0,Proactive support call + contract upgrade offer
+4482-EWFMI,High,0.7212,Month-to-month,Electronic check,69.7,2,1,1,0,836.0,211.0,Proactive support call + contract upgrade offer
+4501-EQDRN,High,0.648,Month-to-month,Bank transfer (automatic),69.7,1,1,1,0,836.0,211.0,Proactive support call + tech-support bundle
+1016-DJTSV,High,0.6237,Month-to-month,Electronic check,69.7,8,1,1,0,836.0,211.0,Proactive support call + contract upgrade offer
+5276-KQWHG,High,0.8729,Month-to-month,Electronic check,69.6,2,1,1,0,835.0,211.0,Proactive support call + contract upgrade offer
+2897-DOVND,High,0.7525,Month-to-month,Electronic check,69.8,2,1,1,0,838.0,211.0,Proactive support call + contract upgrade offer
+1820-TQVEV,High,0.8729,Month-to-month,Electronic check,69.55,1,1,1,0,835.0,210.0,Proactive support call + contract upgrade offer
+9576-ANLXO,High,0.6052,Month-to-month,Bank transfer (automatic),69.55,3,1,1,0,835.0,210.0,Proactive support call + tech-support bundle
+2506-TNFCO,High,0.8729,Month-to-month,Electronic check,69.55,1,1,1,0,835.0,210.0,Proactive support call + contract upgrade offer
+5884-GCYMI,High,0.6494,Month-to-month,Mailed check,69.4,1,1,1,0,833.0,210.0,Proactive support call + tech-support bundle
+2799-ARNLO,High,0.6371,Month-to-month,Electronic check,69.35,5,1,1,0,832.0,210.0,Proactive support call + contract upgrade offer
+3428-XZMAZ,High,0.8729,Month-to-month,Electronic check,69.35,1,1,1,0,832.0,210.0,Proactive support call + contract upgrade offer
+0455-XFASS,High,0.6272,Month-to-month,Electronic check,69.55,3,1,1,0,835.0,210.0,Proactive support call + contract upgrade offer
+9048-JVYVF,High,0.6017,Month-to-month,Electronic check,69.35,3,4,0,0,832.0,210.0,Proactive support call + contract upgrade offer
+7908-QCBCA,High,0.7911,Month-to-month,Mailed check,69.4,1,1,1,0,833.0,210.0,Proactive support call + tech-support bundle
+3223-DWFIO,High,0.6017,Month-to-month,Electronic check,69.35,4,1,1,0,832.0,210.0,Proactive support call + contract upgrade offer
+0488-GSLFR,High,0.8729,Month-to-month,Electronic check,69.5,1,1,1,0,834.0,210.0,Proactive support call + contract upgrade offer
+5027-QPKTE,High,0.6017,Month-to-month,Electronic check,69.35,7,1,1,0,832.0,210.0,Proactive support call + contract upgrade offer
+4110-PFEUZ,High,0.6505,Month-to-month,Mailed check,69.55,1,1,1,0,835.0,210.0,Proactive support call + tech-support bundle
+6457-GIRWB,High,0.8729,Month-to-month,Electronic check,69.35,1,1,1,0,832.0,210.0,Proactive support call + contract upgrade offer
+4291-SHSBH,High,0.6017,Month-to-month,Electronic check,69.55,7,1,1,0,835.0,210.0,Proactive support call + contract upgrade offer
+5186-SAMNZ,High,0.8729,Month-to-month,Bank transfer (automatic),69.5,1,1,1,0,834.0,210.0,Proactive support call + tech-support bundle
+9728-FTTVZ,High,0.8729,Month-to-month,Electronic check,69.2,1,1,1,0,830.0,209.0,Proactive support call + contract upgrade offer
+8485-GJCDN,High,0.6052,Month-to-month,Mailed check,69.05,5,1,1,0,829.0,209.0,Proactive support call + tech-support bundle
+1447-GIQMR,High,0.8729,Month-to-month,Electronic check,69.15,1,1,1,0,830.0,209.0,Proactive support call + contract upgrade offer
+9799-CAYJJ,High,0.845,Month-to-month,Electronic check,69.3,2,1,1,0,832.0,209.0,Proactive support call + contract upgrade offer
+7206-GZCDC,High,0.9046,Month-to-month,Electronic check,69.25,1,1,1,0,831.0,209.0,Proactive support call + contract upgrade offer
+3453-RTHJQ,High,0.6017,Month-to-month,Electronic check,69.1,6,1,1,0,829.0,209.0,Proactive support call + contract upgrade offer
+3871-IKPYH,High,0.8729,Month-to-month,Electronic check,69.1,1,1,1,0,829.0,209.0,Proactive support call + contract upgrade offer
+1086-LXKFY,High,0.6725,Month-to-month,Mailed check,69.1,1,1,1,0,829.0,209.0,Proactive support call + tech-support bundle
+7660-HDPJV,High,0.8729,Month-to-month,Electronic check,69.2,1,1,1,0,830.0,209.0,Proactive support call + contract upgrade offer
+3716-BDVDB,High,0.8729,Month-to-month,Electronic check,69.1,1,1,1,0,829.0,209.0,Proactive support call + contract upgrade offer
+0679-IDSTG,High,0.8729,Month-to-month,Electronic check,69.25,1,1,1,0,831.0,209.0,Proactive support call + contract upgrade offer
+6993-OHLXR,High,0.6052,Month-to-month,Electronic check,68.95,2,1,1,0,827.0,208.0,Proactive support call + contract upgrade offer
+0018-NYROU,High,0.6272,Month-to-month,Electronic check,68.95,5,1,1,0,827.0,208.0,Proactive support call + contract upgrade offer
+4806-HIPDW,High,0.8729,Month-to-month,Electronic check,68.95,1,1,1,0,827.0,208.0,Proactive support call + contract upgrade offer
+2856-HYAPG,High,0.7318,Month-to-month,Electronic check,68.65,1,1,1,0,824.0,207.0,Proactive support call + contract upgrade offer
+6416-TVAIH,High,0.8729,Month-to-month,Electronic check,68.5,1,1,1,0,822.0,207.0,Proactive support call + contract upgrade offer
+3750-CKVKH,High,0.8005,Month-to-month,Electronic check,67.75,2,1,1,0,813.0,204.0,Proactive support call + contract upgrade offer
+6260-ONULR,High,0.6646,Month-to-month,Mailed check,62.8,1,3,1,0,754.0,186.0,Proactive support call + tech-support bundle
+0411-EZJZE,High,0.6052,Month-to-month,Electronic check,60.25,3,3,1,0,723.0,177.0,Proactive support call + contract upgrade offer
+5673-FSSMF,High,0.7946,Month-to-month,Electronic check,60.15,1,3,1,0,722.0,177.0,Proactive support call + contract upgrade offer
+3877-JRJIP,High,0.7911,Month-to-month,Electronic check,59.85,1,3,1,0,718.0,175.0,Proactive support call + contract upgrade offer
+5909-ECHUI,High,0.6725,Month-to-month,Electronic check,56.25,1,2,1,0,675.0,163.0,Proactive support call + contract upgrade offer
+6629-CZTTH,High,0.6052,Month-to-month,Mailed check,55.7,1,2,1,0,668.0,161.0,Proactive support call + tech-support bundle
+4201-JMNGR,High,0.6017,Month-to-month,Electronic check,55.8,1,3,1,0,670.0,161.0,Proactive support call + contract upgrade offer
+9822-OAOVB,High,0.6725,Month-to-month,Electronic check,55.45,1,2,1,0,665.0,160.0,Proactive support call + contract upgrade offer
+3518-PZXZQ,High,0.6052,Month-to-month,Mailed check,55.3,1,2,1,0,664.0,159.0,Proactive support call + tech-support bundle
+8903-XEBGX,High,0.6017,Month-to-month,Electronic check,55.3,2,2,1,0,664.0,159.0,Proactive support call + contract upgrade offer
+5501-TVMGM,High,0.7078,Month-to-month,Electronic check,55.25,1,2,1,0,663.0,159.0,Proactive support call + contract upgrade offer
+3063-QFSZL,High,0.6725,Month-to-month,Electronic check,55.4,1,2,1,0,665.0,159.0,Proactive support call + contract upgrade offer
+3583-EKAPL,High,0.7078,Month-to-month,Electronic check,55.0,1,2,1,0,660.0,158.0,Proactive support call + contract upgrade offer
+0674-EYYZV,High,0.6725,Month-to-month,Electronic check,54.65,1,2,1,0,656.0,157.0,Proactive support call + contract upgrade offer
+4074-SJFFA,High,0.6052,Month-to-month,Mailed check,54.75,1,2,1,0,657.0,157.0,Proactive support call + tech-support bundle
+4349-GFQHK,High,0.6052,Month-to-month,Electronic check,54.35,1,3,1,0,652.0,156.0,Proactive support call + contract upgrade offer
+6907-FLBER,High,0.6052,Month-to-month,Electronic check,54.3,1,3,1,0,652.0,155.0,Proactive support call + contract upgrade offer
+4929-BSTRX,High,0.6052,Month-to-month,Mailed check,53.55,1,2,1,0,643.0,153.0,Proactive support call + tech-support bundle
+2386-LAHRK,High,0.6052,Month-to-month,Mailed check,53.5,1,2,1,0,642.0,153.0,Proactive support call + tech-support bundle
+2969-QWUBZ,High,0.6052,Month-to-month,Electronic check,51.4,2,3,1,0,617.0,145.0,Proactive support call + contract upgrade offer
+4317-VTEOA,High,0.6017,Month-to-month,Electronic check,50.75,1,2,1,0,609.0,143.0,Proactive support call + contract upgrade offer
+7767-UXAGJ,High,0.6947,Month-to-month,Electronic check,50.45,1,2,1,0,605.0,142.0,Proactive support call + contract upgrade offer
+3329-WDIOK,High,0.6371,Month-to-month,Electronic check,50.6,3,3,1,0,607.0,142.0,Proactive support call + contract upgrade offer
+6608-QQLVK,High,0.6052,Month-to-month,Electronic check,50.5,1,2,1,0,606.0,142.0,Proactive support call + contract upgrade offer
+8992-JQYUN,High,0.8729,Month-to-month,Electronic check,50.35,1,3,1,0,604.0,141.0,Proactive support call + contract upgrade offer
+2740-TVLFN,High,0.6947,Month-to-month,Electronic check,50.15,1,2,1,0,602.0,141.0,Proactive support call + contract upgrade offer
+3334-CTHOL,High,0.6052,Month-to-month,Bank transfer (automatic),49.95,1,2,1,0,599.0,140.0,Proactive support call + tech-support bundle
+0248-IPDFW,High,0.6725,Month-to-month,Electronic check,50.1,1,2,1,0,601.0,140.0,Proactive support call + contract upgrade offer
+4749-VFKVB,High,0.6052,Month-to-month,Mailed check,50.1,1,2,1,0,601.0,140.0,Proactive support call + tech-support bundle
+8445-DNBAE,High,0.6052,Month-to-month,Electronic check,50.05,1,2,1,0,601.0,140.0,Proactive support call + contract upgrade offer
+8064-RAVOH,High,0.6017,Month-to-month,Electronic check,49.85,1,2,1,0,598.0,139.0,Proactive support call + contract upgrade offer
+7442-YGZFK,High,0.6052,Month-to-month,Credit card (automatic),49.8,1,2,1,0,598.0,139.0,Proactive support call + tech-support bundle
+9734-UYXQI,High,0.6052,Month-to-month,Electronic check,49.4,2,2,1,0,593.0,138.0,Proactive support call + contract upgrade offer
+2722-JMONI,High,0.6017,Month-to-month,Electronic check,49.55,1,2,1,0,595.0,138.0,Proactive support call + contract upgrade offer
+8348-HFYIV,High,0.8285,Month-to-month,Electronic check,49.25,2,3,1,0,591.0,137.0,Proactive support call + contract upgrade offer
+3716-UVSPD,High,0.6017,Month-to-month,Electronic check,49.3,1,2,0,0,592.0,137.0,Proactive support call + contract upgrade offer
+9752-ZNQUT,High,0.6052,Month-to-month,Electronic check,48.6,1,2,1,0,583.0,135.0,Proactive support call + contract upgrade offer
+2636-OHFMN,High,0.6272,Month-to-month,Electronic check,48.55,4,3,1,0,583.0,135.0,Proactive support call + contract upgrade offer
+9239-ZBZZV,High,0.6272,Month-to-month,Electronic check,47.95,6,3,1,0,575.0,133.0,Proactive support call + contract upgrade offer
+6185-TASNN,High,0.6017,Month-to-month,Electronic check,46.3,1,1,1,0,556.0,127.0,Proactive support call + contract upgrade offer
+1976-CFOCS,High,0.6017,Month-to-month,Electronic check,46.0,1,1,1,0,552.0,126.0,Proactive support call + contract upgrade offer
+6127-IYJOZ,High,0.6017,Month-to-month,Mailed check,45.85,1,1,1,0,550.0,125.0,Proactive support call + tech-support bundle
+9828-AOQLM,High,0.6017,Month-to-month,Electronic check,45.7,1,1,1,0,548.0,125.0,Proactive support call + contract upgrade offer
+2082-CEFLT,High,0.6052,Month-to-month,Electronic check,45.6,1,1,1,0,547.0,124.0,Proactive support call + contract upgrade offer
+6128-CZOMY,High,0.6052,Month-to-month,Electronic check,45.65,1,1,1,0,548.0,124.0,Proactive support call + contract upgrade offer
+2135-RXIHG,High,0.6052,Month-to-month,Electronic check,45.65,1,1,1,0,548.0,124.0,Proactive support call + contract upgrade offer
+4706-DGAHW,High,0.6017,Month-to-month,Electronic check,45.2,1,1,1,0,542.0,123.0,Proactive support call + contract upgrade offer
+5077-DXTCG,High,0.6052,Month-to-month,Electronic check,45.3,1,1,1,0,544.0,123.0,Proactive support call + contract upgrade offer
+7568-PODML,High,0.7598,Month-to-month,Mailed check,45.3,1,2,1,0,544.0,123.0,Proactive support call + tech-support bundle
+2737-WFVYW,High,0.7724,Month-to-month,Electronic check,45.25,2,2,1,0,543.0,123.0,Proactive support call + contract upgrade offer
+8080-DDEMJ,High,0.6017,Month-to-month,Electronic check,45.1,1,1,1,0,541.0,122.0,Proactive support call + contract upgrade offer
+8356-WUAOJ,High,0.6052,Month-to-month,Electronic check,45.0,1,1,1,0,540.0,122.0,Proactive support call + contract upgrade offer
+8705-WZCYL,High,0.6052,Month-to-month,Electronic check,44.8,1,1,1,0,538.0,121.0,Proactive support call + contract upgrade offer
+4373-VVHQL,High,0.6052,Month-to-month,Electronic check,44.75,1,1,1,0,537.0,121.0,Proactive support call + contract upgrade offer
+7851-FLGGQ,High,0.6052,Month-to-month,Mailed check,44.65,1,3,0,0,536.0,121.0,Product education + onboarding check-in
+4816-JBHOV,High,0.6017,Month-to-month,Electronic check,44.7,2,1,1,0,536.0,121.0,Proactive support call + contract upgrade offer
+7615-ESMYF,High,0.6725,Month-to-month,Electronic check,44.6,2,2,1,0,535.0,121.0,Proactive support call + contract upgrade offer
+2495-INZWQ,High,0.6272,Month-to-month,Electronic check,44.55,4,2,1,0,535.0,120.0,Proactive support call + contract upgrade offer
+4361-JEIVL,High,0.6017,Month-to-month,Electronic check,44.4,1,1,1,0,533.0,120.0,Proactive support call + contract upgrade offer
+2235-DWLJU,High,0.6371,Month-to-month,Electronic check,44.4,6,2,1,0,533.0,120.0,Proactive support call + contract upgrade offer
+4855-SNKMY,High,0.6052,Month-to-month,Electronic check,44.1,1,1,1,0,529.0,119.0,Proactive support call + contract upgrade offer
+3754-DXMRT,High,0.6017,Month-to-month,Electronic check,44.15,2,1,1,0,530.0,119.0,Proactive support call + contract upgrade offer
+8720-RQSBJ,High,0.6017,Month-to-month,Electronic check,44.0,1,1,1,0,528.0,118.0,Proactive support call + contract upgrade offer
+6702-OHFWR,High,0.8729,Month-to-month,Electronic check,43.3,1,3,1,0,520.0,116.0,Proactive support call + contract upgrade offer
+6959-UWKHF,High,0.6052,Month-to-month,Electronic check,42.9,1,1,1,0,515.0,114.0,Proactive support call + contract upgrade offer
+7881-EVUAD,High,0.6052,Month-to-month,Electronic check,42.6,2,3,1,0,511.0,113.0,Proactive support call + contract upgrade offer
+7273-TEFQD,High,0.6371,Month-to-month,Electronic check,41.15,3,2,1,0,494.0,108.0,Proactive support call + contract upgrade offer
+9514-JDSKI,High,0.6272,Month-to-month,Electronic check,40.2,1,2,1,0,482.0,105.0,Proactive support call + contract upgrade offer
+8779-QRDMV,High,0.8729,Month-to-month,Electronic check,39.65,1,2,1,0,476.0,103.0,Proactive support call + contract upgrade offer
+3776-EKTKM,High,0.839,Month-to-month,Electronic check,36.45,1,1,1,0,437.0,91.0,Proactive support call + contract upgrade offer
+7890-VYYWG,High,0.6052,Month-to-month,Mailed check,36.45,3,1,1,0,437.0,91.0,Proactive support call + tech-support bundle
+7854-FOKSF,High,0.6725,Month-to-month,Electronic check,35.9,1,1,1,0,431.0,89.0,Proactive support call + contract upgrade offer
+5378-IKEEG,High,0.8076,Month-to-month,Electronic check,35.75,1,1,1,0,429.0,89.0,Proactive support call + contract upgrade offer
+0841-NULXI,High,0.8729,Month-to-month,Electronic check,35.55,1,1,1,0,427.0,88.0,Proactive support call + contract upgrade offer
+3091-FYHKI,High,0.8729,Month-to-month,Electronic check,35.45,1,1,1,0,425.0,88.0,Proactive support call + contract upgrade offer
+7384-GHBPI,High,0.6272,Month-to-month,Electronic check,35.15,3,1,1,0,422.0,87.0,Proactive support call + contract upgrade offer
+1740-CSDJP,High,0.6824,Month-to-month,Bank transfer (automatic),35.25,1,1,1,0,423.0,87.0,Proactive support call + tech-support bundle
+3751-KTZEL,High,0.6052,Month-to-month,Mailed check,35.05,1,1,1,0,421.0,86.0,Proactive support call + tech-support bundle
+3841-CONLJ,High,0.6725,Month-to-month,Electronic check,35.0,1,1,1,0,420.0,86.0,Proactive support call + contract upgrade offer
+2485-ITVKB,High,0.6824,Month-to-month,Electronic check,35.1,2,1,1,0,421.0,86.0,Proactive support call + contract upgrade offer
+0375-HVGXO,High,0.8076,Month-to-month,Electronic check,34.7,1,1,1,0,416.0,85.0,Proactive support call + contract upgrade offer
+0822-GAVAP,High,0.6824,Month-to-month,Electronic check,34.7,2,1,1,0,416.0,85.0,Proactive support call + contract upgrade offer
+1078-TDCRN,High,0.6017,Month-to-month,Electronic check,30.75,3,1,1,0,369.0,71.0,Proactive support call + contract upgrade offer
+3677-IYRBF,High,0.6371,Month-to-month,Electronic check,30.4,2,1,1,0,365.0,69.0,Proactive support call + contract upgrade offer
+0928-JMXNP,High,0.6017,Month-to-month,Electronic check,29.9,4,1,1,0,359.0,68.0,Proactive support call + contract upgrade offer
+7590-VHVEG,High,0.67,Month-to-month,Electronic check,29.85,1,1,1,0,358.0,67.0,Proactive support call + contract upgrade offer
+0661-XEYAN,High,0.6725,Month-to-month,Mailed check,25.8,1,0,1,0,310.0,53.0,Proactive support call + tech-support bundle
+1496-GGSUK,High,0.6725,Month-to-month,Mailed check,25.7,1,0,1,0,308.0,53.0,Proactive support call + tech-support bundle
+1768-ZAIFU,High,0.7797,Month-to-month,Electronic check,25.2,1,0,1,0,302.0,51.0,Proactive support call + contract upgrade offer
+2672-DZUOY,High,0.7177,Month-to-month,Electronic check,25.15,1,0,1,0,302.0,51.0,Proactive support call + contract upgrade offer
+0612-RTZZA,High,0.6272,Month-to-month,Electronic check,25.25,1,0,1,0,303.0,51.0,Proactive support call + contract upgrade offer
+4195-NZGTA,High,0.6052,Month-to-month,Electronic check,25.25,1,0,1,0,303.0,51.0,Proactive support call + contract upgrade offer
+7242-QZLXF,High,0.6272,Month-to-month,Electronic check,25.3,1,0,1,0,304.0,51.0,Proactive support call + contract upgrade offer
+7537-RBWEA,High,0.6052,Month-to-month,Mailed check,25.15,1,0,1,0,302.0,51.0,Proactive support call + tech-support bundle
+0616-ATFGB,High,0.6272,Month-to-month,Electronic check,25.05,1,0,1,0,301.0,50.0,Proactive support call + contract upgrade offer
+6032-IGALN,High,0.6052,Month-to-month,Mailed check,25.1,1,0,1,0,301.0,50.0,Proactive support call + tech-support bundle
+4367-NHWMM,High,0.6052,Month-to-month,Mailed check,24.9,1,0,1,0,299.0,50.0,Proactive support call + tech-support bundle
+0746-JTRFU,High,0.6237,Month-to-month,Electronic check,25.05,2,0,1,0,301.0,50.0,Proactive support call + contract upgrade offer
+0023-HGHWL,High,0.825,Month-to-month,Electronic check,25.1,1,0,1,0,301.0,50.0,Proactive support call + contract upgrade offer
+4729-XKASR,High,0.6017,Month-to-month,Electronic check,24.75,1,0,1,0,297.0,49.0,Proactive support call + contract upgrade offer
+7932-WPTDS,High,0.8111,Month-to-month,Electronic check,24.8,1,0,1,0,298.0,49.0,Proactive support call + contract upgrade offer
+9227-LUNBG,High,0.6052,Month-to-month,Electronic check,24.6,1,0,1,0,295.0,49.0,Proactive support call + contract upgrade offer
+1024-GUALD,High,0.6824,Month-to-month,Electronic check,24.8,1,0,1,0,298.0,49.0,Proactive support call + contract upgrade offer
+2862-PFNIK,High,0.6272,Month-to-month,Electronic check,24.7,1,0,1,0,296.0,49.0,Proactive support call + contract upgrade offer
+5482-PLVPE,High,0.6052,Month-to-month,Electronic check,24.35,2,0,1,0,292.0,48.0,Proactive support call + contract upgrade offer
+8263-JQAIK,High,0.6052,Month-to-month,Mailed check,24.45,2,0,1,0,293.0,48.0,Proactive support call + tech-support bundle
+7365-BVCJH,High,0.7177,Month-to-month,Electronic check,24.4,1,0,1,0,293.0,48.0,Proactive support call + contract upgrade offer
+9136-ALYBR,High,0.6052,Month-to-month,Mailed check,24.45,1,0,1,0,293.0,48.0,Proactive support call + tech-support bundle
+1334-FJSVR,High,0.7177,Month-to-month,Electronic check,24.25,1,0,1,0,291.0,47.0,Proactive support call + contract upgrade offer
+3797-VTIDR,High,0.7491,Month-to-month,Electronic check,23.45,1,0,1,0,281.0,44.0,Proactive support call + contract upgrade offer

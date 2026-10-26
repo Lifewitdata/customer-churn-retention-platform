@@ -1,0 +1,43 @@
+segment_type,segment,month,n_at_risk_start,survival_probability
+Contract,Month-to-month,12,1967,0.7031
+Contract,Month-to-month,24,1202,0.5859
+Contract,Month-to-month,36,680,0.4911
+Contract,Month-to-month,48,357,0.3973
+Contract,Month-to-month,60,127,0.2972
+Contract,Month-to-month,72,2,0.129
+Contract,One year,12,1371,0.9908
+Contract,One year,24,1172,0.9783
+Contract,One year,36,921,0.9593
+Contract,One year,48,662,0.9165
+Contract,One year,60,337,0.8318
+Contract,One year,72,17,0.5681
+Contract,Two year,12,1636,1.0
+Contract,Two year,24,1553,1.0
+Contract,Two year,36,1450,0.9987
+Contract,Two year,48,1284,0.9957
+Contract,Two year,60,1019,0.9862
+Contract,Two year,72,343,0.9357
+PaymentMethod,Bank transfer (automatic),12,1343,0.9311
+PaymentMethod,Bank transfer (automatic),24,1153,0.9022
+PaymentMethod,Bank transfer (automatic),36,967,0.8781
+PaymentMethod,Bank transfer (automatic),48,782,0.8474
+PaymentMethod,Bank transfer (automatic),60,547,0.8042
+PaymentMethod,Bank transfer (automatic),72,160,0.7452
+PaymentMethod,Credit card (automatic),12,1313,0.9448
+PaymentMethod,Credit card (automatic),24,1137,0.9128
+PaymentMethod,Credit card (automatic),36,945,0.8871
+PaymentMethod,Credit card (automatic),48,760,0.8554
+PaymentMethod,Credit card (automatic),60,528,0.8307
+PaymentMethod,Credit card (automatic),72,145,0.7577
+PaymentMethod,Electronic check,12,1431,0.727
+PaymentMethod,Electronic check,24,1041,0.6241
+PaymentMethod,Electronic check,36,735,0.5531
+PaymentMethod,Electronic check,48,497,0.4927
+PaymentMethod,Electronic check,60,268,0.413
+PaymentMethod,Electronic check,72,40,0.2945
+PaymentMethod,Mailed check,12,887,0.8281
+PaymentMethod,Mailed check,24,596,0.7965
+PaymentMethod,Mailed check,36,404,0.7688
+PaymentMethod,Mailed check,48,264,0.7395
+PaymentMethod,Mailed check,60,140,0.7318
+PaymentMethod,Mailed check,72,17,0.7262

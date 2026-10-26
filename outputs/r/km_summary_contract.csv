@@ -1,0 +1,19 @@
+"segment_type","segment","month","n_at_risk","n_event","survival_probability","std_err","ci_lower","ci_upper"
+"Contract","Month-to-month",12,1967,1024,0.7031,0.0079,0.6877,0.7188
+"Contract","Month-to-month",24,1202,278,0.5859,0.0092,0.5681,0.6043
+"Contract","Month-to-month",36,680,158,0.4911,0.0104,0.4711,0.512
+"Contract","Month-to-month",48,357,106,0.3973,0.0119,0.3747,0.4212
+"Contract","Month-to-month",60,127,65,0.2972,0.0143,0.2704,0.3266
+"Contract","Month-to-month",72,2,24,0.129,0.031,0.0805,0.2065
+"Contract","One year",12,1371,13,0.9908,0.0025,0.9858,0.9958
+"Contract","One year",24,1172,16,0.9783,0.004,0.9705,0.9861
+"Contract","One year",36,921,20,0.9593,0.0058,0.9481,0.9706
+"Contract","One year",48,662,35,0.9165,0.009,0.8991,0.9343
+"Contract","One year",60,337,44,0.8318,0.0148,0.8033,0.8614
+"Contract","One year",72,17,38,0.5681,0.0581,0.465,0.6941
+"Contract","Two year",12,1636,0,1,0,1,1
+"Contract","Two year",24,1553,0,1,0,1,1
+"Contract","Two year",36,1450,2,0.9987,9e-04,0.9968,1
+"Contract","Two year",48,1284,4,0.9957,0.0017,0.9923,0.9991
+"Contract","Two year",60,1019,11,0.9862,0.0033,0.9797,0.9928
+"Contract","Two year",72,343,31,0.9357,0.0099,0.9166,0.9553

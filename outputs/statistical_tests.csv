@@ -1,0 +1,14 @@
+feature,test,statistic,p_value,effect_size_cramers_v,significant_p_lt_0.05,effect_size_rank_biserial
+Contract,chi-square,1184.6,5.863038300673391e-258,0.41,True,
+tenure,Mann-Whitney U,2515538.0,2.419635517951866e-208,,True,0.48
+OnlineSecurity,chi-square,850.0,2.6611496351765517e-185,0.347,True,
+TechSupport,chi-square,828.2,1.4430840279998987e-180,0.343,True,
+InternetService,chi-square,732.31,9.571788222840544e-160,0.322,True,
+PaymentMethod,chi-square,648.14,3.6823546520097993e-140,0.303,True,
+TotalCharges,Mann-Whitney U,3381224.0,5.685033866207314e-83,,True,0.301
+PaperlessBilling,chi-square,258.28,4.073354668665985e-58,0.191,True,
+MonthlyCharges,Mann-Whitney U,6003125.5,3.311627651988584e-54,,True,-0.242
+Dependents,chi-square,189.13,4.9249216612154196e-43,0.164,True,
+Partner,chi-square,158.73,2.1399113440759935e-36,0.15,True,
+service_count,Mann-Whitney U,4561192.5,0.00022822929168422933,,True,0.057
+gender,chi-square,0.48,0.48657873605618596,0.008,False,

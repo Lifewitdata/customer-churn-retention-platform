@@ -1,0 +1,62 @@
+feature,mean_abs_shap_linear
+num__log_total_charges,0.64991
+num__MonthlyCharges,0.5761
+num__service_count,0.3654
+cat__InternetService_Fiber optic,0.35999
+num__contract_risk,0.35205
+cat__InternetService_DSL,0.3075
+num__contract_remaining_proxy,0.23265
+num__avg_monthly_spend,0.22126
+num__no_security_flag,0.21722
+num__no_support_flag,0.19143
+cat__PaperlessBilling_No,0.12477
+num__electronic_check_flag,0.1118
+num__TotalCharges,0.10673
+cat__StreamingMovies_Yes,0.10643
+cat__StreamingTV_Yes,0.08745
+cat__Contract_Two year,0.08451
+cat__MultipleLines_No,0.07833
+cat__OnlineBackup_No,0.07615
+cat__OnlineSecurity_No internet service,0.07607
+cat__StreamingMovies_No internet service,0.07607
+cat__DeviceProtection_No internet service,0.07607
+cat__InternetService_No,0.07607
+cat__OnlineBackup_No internet service,0.07607
+cat__StreamingTV_No internet service,0.07607
+cat__TechSupport_No internet service,0.07607
+cat__StreamingMovies_No,0.07338
+cat__Dependents_Yes,0.07304
+cat__PaperlessBilling_Yes,0.06037
+cat__StreamingTV_No,0.05378
+num__SeniorCitizen,0.05243
+cat__MultipleLines_Yes,0.04825
+cat__Partner_No,0.03827
+cat__gender_Female,0.03811
+cat__DeviceProtection_No,0.0356
+cat__OnlineBackup_Yes,0.03559
+num__tenure,0.03369
+cat__gender_Male,0.02933
+cat__Partner_Yes,0.02908
+num__is_new,0.02745
+cat__Contract_Month-to-month,0.02547
+cat__OnlineSecurity_No,0.02094
+cat__PaymentMethod_Mailed check,0.01933
+cat__PaymentMethod_Bank transfer (automatic),0.01876
+cat__TechSupport_Yes,0.01808
+cat__tenure_band_25-48,0.01766
+cat__tenure_band_13-24,0.01684
+cat__Dependents_No,0.01507
+cat__TechSupport_No,0.01486
+cat__PhoneService_No,0.01345
+cat__MultipleLines_No phone service,0.01345
+cat__Contract_One year,0.01323
+cat__OnlineSecurity_Yes,0.01291
+cat__PaymentMethod_Credit card (automatic),0.01276
+num__charges_per_service,0.01269
+cat__tenure_band_0-12,0.01151
+cat__PhoneService_Yes,0.01042
+num__bill_shock_flag,0.00989
+num__bill_shock_pct,0.00897
+cat__PaymentMethod_Electronic check,0.00544
+cat__tenure_band_49-72,0.00365
+cat__DeviceProtection_Yes,0.00046

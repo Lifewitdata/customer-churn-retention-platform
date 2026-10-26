@@ -1,0 +1,19 @@
+Deployed model: Logistic Regression + isotonic calibration
+              precision    recall  f1-score   support
+
+           0     0.8417    0.9080    0.8736      1294
+           1     0.6740    0.5268    0.5913       467
+
+    accuracy                         0.8069      1761
+   macro avg     0.7578    0.7174    0.7325      1761
+weighted avg     0.7972    0.8069    0.7988      1761
+
+At the operational High-risk cutoff (>= 0.60):
+              precision    recall  f1-score   support
+
+           0     0.8042    0.9490    0.8706      1294
+           1     0.7179    0.3597    0.4793       467
+
+    accuracy                         0.7927      1761
+   macro avg     0.7611    0.6544    0.6750      1761
+weighted avg     0.7813    0.7927    0.7668      1761

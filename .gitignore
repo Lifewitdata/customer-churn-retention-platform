@@ -1,0 +1,14 @@
+__pycache__/
+venv/
+.venv/
+.churn-platform/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+
+# run transcripts captured while building this repo (pipeline runs, uvicorn, notebook log)
+outputs/logs/
+
+# 47 MB joblib blob. GitHub discourages files this size and nothing loads it: the scored
+# output, the SHAP/PDP figures and the model_comparison.csv row all come from run_pipeline.py.
+outputs/model_Random_Forest.pkl

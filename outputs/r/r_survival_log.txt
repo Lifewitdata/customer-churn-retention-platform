@@ -1,0 +1,179 @@
+R version: R version 4.6.0 (2026-04-24 ucrt) 
+survival: 3.8.6 | dplyr: 1.2.1 | ggplot2: 4.0.3 
+
+Rows: 7043  | churn rate: 0.2654  | duration range: 0 - 72 
+
+==== Kaplan-Meier by contract ====
+Call: survfit(formula = Surv(duration, event) ~ Contract, data = telco)
+
+                           n events median 0.95LCL 0.95UCL
+Contract=Month-to-month 3875   1655     35      32      38
+Contract=One year       1473    166     NA      72      NA
+Contract=Two year       1695     48     NA      NA      NA
+Call: survfit(formula = Surv(duration, event) ~ Contract, data = telco)
+
+                Contract=Month-to-month 
+ time n.risk n.event survival std.err lower 95% CI upper 95% CI
+   12   1967    1024    0.703 0.00792       0.6877        0.719
+   24   1202     278    0.586 0.00925       0.5681        0.604
+   36    680     158    0.491 0.01043       0.4711        0.512
+   48    357     106    0.397 0.01186       0.3747        0.421
+   60    127      65    0.297 0.01433       0.2704        0.327
+   72      2      24    0.129 0.03098       0.0805        0.207
+
+                Contract=One year 
+ time n.risk n.event survival std.err lower 95% CI upper 95% CI
+   12   1371      13    0.991 0.00254        0.986        0.996
+   24   1172      16    0.978 0.00400        0.970        0.986
+   36    921      20    0.959 0.00575        0.948        0.971
+   48    662      35    0.917 0.00898        0.899        0.934
+   60    337      44    0.832 0.01481        0.803        0.861
+   72     17      38    0.568 0.05806        0.465        0.694
+
+                Contract=Two year 
+ time n.risk n.event survival  std.err lower 95% CI upper 95% CI
+   12   1636       0    1.000 0.000000        1.000        1.000
+   24   1553       0    1.000 0.000000        1.000        1.000
+   36   1450       2    0.999 0.000936        0.997        1.000
+   48   1284       4    0.996 0.001747        0.992        0.999
+   60   1019      11    0.986 0.003344        0.980        0.993
+   72    343      31    0.936 0.009863        0.917        0.955
+
+
+Written: outputs/r/km_summary_contract.csv
+  segment_type        segment median_survival_months
+1     Contract Month-to-month                     35
+2     Contract       One year                     NA
+3     Contract       Two year                     NA
+
+==== Log-rank, survival by contract ====
+Call:
+survdiff(formula = Surv(duration, event) ~ Contract, data = telco)
+
+                           N Observed Expected (O-E)^2/E (O-E)^2/V
+Contract=Month-to-month 3875     1655      708      1265      2304
+Contract=One year       1473      166      471       197       270
+Contract=Two year       1695       48      690       597      1061
+
+ Chisq= 2353  on 2 degrees of freedom, p= <2e-16 
+      test segment_type    chisq df p_value
+1 log-rank     Contract 2352.873  2 < 1e-16
+
+==== Kaplan-Meier by payment method ====
+Call: survfit(formula = Surv(duration, event) ~ PaymentMethod, data = telco)
+
+                PaymentMethod=Bank transfer (automatic) 
+ time n.risk n.event survival std.err lower 95% CI upper 95% CI
+   12   1343     103    0.931 0.00655        0.918        0.944
+   24   1153      39    0.902 0.00782        0.887        0.918
+   36    967      29    0.878 0.00880        0.861        0.896
+   48    782      31    0.847 0.01008        0.828        0.867
+   60    547      34    0.804 0.01200        0.781        0.828
+   72    160      22    0.745 0.01692        0.713        0.779
+
+                PaymentMethod=Credit card (automatic) 
+ time n.risk n.event survival std.err lower 95% CI upper 95% CI
+   12   1313      81    0.945 0.00597        0.933        0.957
+   24   1137      42    0.913 0.00754        0.898        0.928
+   36    945      29    0.887 0.00871        0.870        0.904
+   48    760      31    0.855 0.01010        0.836        0.875
+   60    528      19    0.831 0.01130        0.809        0.853
+   72    145      30    0.758 0.01691        0.725        0.792
+
+                PaymentMethod=Electronic check 
+ time n.risk n.event survival std.err lower 95% CI upper 95% CI
+   12   1431     606    0.727 0.00953        0.709        0.746
+   24   1041     184    0.624 0.01080        0.603        0.646
+   36    735     105    0.553 0.01160        0.531        0.576
+   48    497      71    0.493 0.01237        0.469        0.518
+   60    268      65    0.413 0.01387        0.387        0.441
+   72     40      40    0.295 0.02133        0.256        0.339
+
+                PaymentMethod=Mailed check 
+ time n.risk n.event survival std.err lower 95% CI upper 95% CI
+   12    887     247    0.828  0.0101        0.809        0.848
+   24    596      29    0.797  0.0113        0.775        0.819
+   36    404      17    0.769  0.0128        0.744        0.794
+   48    264      12    0.740  0.0149        0.711        0.769
+   60    140       2    0.732  0.0157        0.702        0.763
+   72     17       1    0.726  0.0166        0.694        0.759
+
+      test  segment_type   chisq df p_value
+1 log-rank PaymentMethod 865.239  3 < 1e-16
+
+Written: outputs/figures/km_by_contract_R.png
+Written: outputs/figures/km_by_payment_R.png
+
+==== Cox proportional hazards ====
+Call:
+coxph(formula = Surv(duration, event) ~ MonthlyCharges + SeniorCitizen + 
+    service_count + contract_risk + electronic_check_flag + no_support_flag + 
+    bill_shock_flag, data = telco)
+
+  n= 7043, number of events= 1869 
+
+                           coef exp(coef)  se(coef)       z Pr(>|z|)    
+MonthlyCharges         0.024864  1.025175  0.001825  13.625  < 2e-16 ***
+SeniorCitizen         -0.105391  0.899973  0.054926  -1.919  0.05501 .  
+service_count         -0.516359  0.596689  0.026565 -19.438  < 2e-16 ***
+contract_risk          1.714238  5.552445  0.064833  26.441  < 2e-16 ***
+electronic_check_flag  0.495433  1.641209  0.049383  10.032  < 2e-16 ***
+no_support_flag        0.040913  1.041762  0.066934   0.611  0.54103    
+bill_shock_flag        0.829990  2.293296  0.293088   2.832  0.00463 ** 
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+                      exp(coef) exp(-coef) lower .95 upper .95
+MonthlyCharges           1.0252     0.9754    1.0215    1.0288
+SeniorCitizen            0.9000     1.1111    0.8081    1.0023
+service_count            0.5967     1.6759    0.5664    0.6286
+contract_risk            5.5524     0.1801    4.8899    6.3048
+electronic_check_flag    1.6412     0.6093    1.4898    1.8080
+no_support_flag          1.0418     0.9599    0.9137    1.1878
+bill_shock_flag          2.2933     0.4361    1.2912    4.0732
+
+Concordance= 0.85  (se = 0.004 )
+Likelihood ratio test= 3242  on 7 df,   p=<2e-16
+Wald test            = 1851  on 7 df,   p=<2e-16
+Score (logrank) test = 2740  on 7 df,   p=<2e-16
+
+
+Hazard ratios:
+                                  covariate      coef hazard_ratio  std_err
+MonthlyCharges               MonthlyCharges  0.024864     1.025175 0.001825
+SeniorCitizen                 SeniorCitizen -0.105391     0.899973 0.054926
+service_count                 service_count -0.516359     0.596689 0.026565
+contract_risk                 contract_risk  1.714238     5.552445 0.064833
+electronic_check_flag electronic_check_flag  0.495433     1.641209 0.049383
+no_support_flag             no_support_flag  0.040913     1.041762 0.066934
+bill_shock_flag             bill_shock_flag  0.829990     2.293296 0.293088
+                      hr_lower95 hr_upper95          z    p_value
+MonthlyCharges          1.021515   1.028849  13.624852  2.850e-42
+SeniorCitizen           0.808121   1.002264  -1.918791  5.501e-02
+service_count           0.566416   0.628579 -19.437549  3.715e-84
+contract_risk           4.889880   6.304785  26.440803 4.655e-154
+electronic_check_flag   1.489802   1.808003  10.032387  1.098e-23
+no_support_flag         0.913681   1.187798   0.611253  5.410e-01
+bill_shock_flag         1.291169   4.073214   2.831878  4.628e-03
+Written: outputs/r/cox_hazard_ratios.csv
+
+Model fit:
+     n events log_likelihood concordance concordance_se      global_test
+C 7043   1869      -14032.14        0.85         0.0036 Likelihood ratio
+  global_chisq global_df global_p
+C     2740.462         7  < 1e-16
+
+==== Schoenfeld proportional-hazards test ====
+                                       term     chisq df       p   p_value
+MonthlyCharges               MonthlyCharges  94.41102  1 0.00000   < 1e-16
+SeniorCitizen                 SeniorCitizen   0.40342  1 0.52533    0.5253
+service_count                 service_count 163.32632  1 0.00000   < 1e-16
+contract_risk                 contract_risk  76.21974  1 0.00000   < 1e-16
+electronic_check_flag electronic_check_flag   0.70164  1 0.40223    0.4022
+no_support_flag             no_support_flag  10.95170  1 0.00094 0.0009352
+bill_shock_flag             bill_shock_flag   1.78637  1 0.18137    0.1814
+GLOBAL                               GLOBAL 248.56304  7 0.00000   < 1e-16
+Written: outputs/r/cox_zph_test.csv
+Written: outputs/figures/cox_schoenfeld_R.png
+
+Done. Interpretation: hazard_ratio > 1 = higher churn hazard, < 1 = lower.

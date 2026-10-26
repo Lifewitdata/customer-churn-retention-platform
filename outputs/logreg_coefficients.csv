@@ -1,0 +1,62 @@
+feature,coefficient,mean_abs_coefficient
+num__log_total_charges,-0.81631,0.81631
+cat__InternetService_Fiber optic,0.74359,0.74359
+cat__InternetService_DSL,-0.66945,0.66945
+num__MonthlyCharges,-0.6619,0.6619
+num__service_count,0.4365,0.4365
+num__contract_risk,0.38525,0.38525
+num__contract_remaining_proxy,-0.2932,0.2932
+cat__PaperlessBilling_No,-0.26082,0.26082
+num__avg_monthly_spend,0.25463,0.25463
+cat__StreamingMovies_Yes,0.22813,0.22813
+cat__Contract_Two year,-0.22765,0.22765
+num__no_security_flag,0.21722,0.21722
+cat__OnlineBackup_No internet service,-0.20877,0.20877
+cat__DeviceProtection_No internet service,-0.20877,0.20877
+cat__TechSupport_No internet service,-0.20877,0.20877
+cat__StreamingTV_No internet service,-0.20877,0.20877
+cat__InternetService_No,-0.20877,0.20877
+cat__OnlineSecurity_No internet service,-0.20877,0.20877
+cat__StreamingMovies_No internet service,-0.20877,0.20877
+num__no_support_flag,0.19122,0.19122
+cat__StreamingTV_Yes,0.18696,0.18696
+cat__Dependents_Yes,-0.16962,0.16962
+cat__MultipleLines_No,-0.15685,0.15685
+cat__OnlineBackup_No,0.15491,0.15491
+cat__StreamingMovies_No,-0.15399,0.15399
+num__TotalCharges,-0.13281,0.13281
+cat__PaperlessBilling_Yes,0.12619,0.12619
+num__electronic_check_flag,0.12235,0.12235
+cat__StreamingTV_No,-0.11281,0.11281
+cat__MultipleLines_Yes,0.09809,0.09809
+cat__OnlineBackup_Yes,-0.08076,0.08076
+cat__Partner_No,-0.0765,0.0765
+cat__gender_Female,-0.07608,0.07608
+cat__MultipleLines_No phone service,-0.07587,0.07587
+cat__PhoneService_No,-0.07587,0.07587
+num__SeniorCitizen,0.07328,0.07328
+cat__DeviceProtection_No,0.07315,0.07315
+cat__tenure_band_13-24,-0.06355,0.06355
+cat__PaymentMethod_Mailed check,-0.06214,0.06214
+cat__PhoneService_Yes,-0.05876,0.05876
+cat__gender_Male,-0.05855,0.05855
+cat__Partner_Yes,-0.05812,0.05812
+cat__PaymentMethod_Bank transfer (automatic),-0.05272,0.05272
+cat__Contract_Month-to-month,0.05155,0.05155
+cat__tenure_band_25-48,-0.05149,0.05149
+num__bill_shock_flag,-0.05012,0.05012
+cat__TechSupport_Yes,0.04444,0.04444
+cat__OnlineSecurity_No,0.04188,0.04188
+cat__Contract_One year,0.04148,0.04148
+num__tenure,0.03801,0.03801
+cat__Dependents_No,0.03499,0.03499
+cat__PaymentMethod_Credit card (automatic),-0.03237,0.03237
+cat__OnlineSecurity_Yes,0.03226,0.03226
+num__is_new,0.03079,0.03079
+cat__TechSupport_No,0.0297,0.0297
+cat__tenure_band_0-12,-0.02783,0.02783
+num__charges_per_service,0.02064,0.02064
+num__bill_shock_pct,0.01362,0.01362
+cat__PaymentMethod_Electronic check,0.01261,0.01261
+cat__tenure_band_49-72,0.00824,0.00824
+cat__DeviceProtection_Yes,0.001,0.001

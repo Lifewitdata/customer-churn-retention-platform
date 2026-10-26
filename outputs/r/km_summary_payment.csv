@@ -1,0 +1,25 @@
+"segment_type","segment","month","n_at_risk","n_event","survival_probability","std_err","ci_lower","ci_upper"
+"PaymentMethod","Bank transfer (automatic)",12,1343,103,0.9311,0.0066,0.9184,0.9441
+"PaymentMethod","Bank transfer (automatic)",24,1153,39,0.9022,0.0078,0.887,0.9177
+"PaymentMethod","Bank transfer (automatic)",36,967,29,0.8781,0.0088,0.861,0.8955
+"PaymentMethod","Bank transfer (automatic)",48,782,31,0.8474,0.0101,0.8279,0.8674
+"PaymentMethod","Bank transfer (automatic)",60,547,34,0.8042,0.012,0.781,0.8281
+"PaymentMethod","Bank transfer (automatic)",72,160,22,0.7452,0.0169,0.7127,0.7791
+"PaymentMethod","Credit card (automatic)",12,1313,81,0.9448,0.006,0.9332,0.9566
+"PaymentMethod","Credit card (automatic)",24,1137,42,0.9128,0.0075,0.8981,0.9277
+"PaymentMethod","Credit card (automatic)",36,945,29,0.8871,0.0087,0.8702,0.9043
+"PaymentMethod","Credit card (automatic)",48,760,31,0.8554,0.0101,0.8358,0.8754
+"PaymentMethod","Credit card (automatic)",60,528,19,0.8307,0.0113,0.8088,0.8531
+"PaymentMethod","Credit card (automatic)",72,145,30,0.7577,0.0169,0.7253,0.7916
+"PaymentMethod","Electronic check",12,1431,606,0.727,0.0095,0.7086,0.7459
+"PaymentMethod","Electronic check",24,1041,184,0.6241,0.0108,0.6033,0.6456
+"PaymentMethod","Electronic check",36,735,105,0.5531,0.0116,0.5309,0.5763
+"PaymentMethod","Electronic check",48,497,71,0.4927,0.0124,0.4691,0.5176
+"PaymentMethod","Electronic check",60,268,65,0.413,0.0139,0.3867,0.4411
+"PaymentMethod","Electronic check",72,40,40,0.2945,0.0213,0.2556,0.3394
+"PaymentMethod","Mailed check",12,887,247,0.8281,0.0101,0.8085,0.8482
+"PaymentMethod","Mailed check",24,596,29,0.7965,0.0113,0.7746,0.819
+"PaymentMethod","Mailed check",36,404,17,0.7688,0.0128,0.7442,0.7943
+"PaymentMethod","Mailed check",48,264,12,0.7395,0.0149,0.7109,0.7693
+"PaymentMethod","Mailed check",60,140,2,0.7318,0.0157,0.7016,0.7633
+"PaymentMethod","Mailed check",72,17,1,0.7262,0.0166,0.6945,0.7595

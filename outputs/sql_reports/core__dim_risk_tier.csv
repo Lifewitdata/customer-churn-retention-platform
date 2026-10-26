@@ -1,0 +1,4 @@
+risk_tier,prob_low,prob_high,action_guidance
+High,0.6,1.0,Save now: cost of contact is well below retained CLV
+Medium,0.35,0.6,"Watchlist: cheap touches only (content, usage nudges)"
+Low,0.0,0.35,No intervention - contacting these customers is pure cost

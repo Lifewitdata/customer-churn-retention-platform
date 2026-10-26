@@ -1,0 +1,11 @@
+feature,contribution,customerID,churn_probability
+num__log_total_charges,1.22593,0295-PPHDO,1.0
+cat__InternetService_Fiber optic,0.74359,0295-PPHDO,1.0
+num__MonthlyCharges,-0.67121,0295-PPHDO,1.0
+num__contract_risk,0.31892,0295-PPHDO,1.0
+num__avg_monthly_spend,0.25727,0295-PPHDO,1.0
+cat__StreamingMovies_Yes,0.22813,0295-PPHDO,1.0
+num__no_security_flag,0.21912,0295-PPHDO,1.0
+num__no_support_flag,0.19532,0295-PPHDO,1.0
+cat__StreamingTV_Yes,0.18696,0295-PPHDO,1.0
+num__contract_remaining_proxy,0.18366,0295-PPHDO,1.0

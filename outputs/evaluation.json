@@ -1,0 +1,33 @@
+{
+  "model_uncalibrated": "Logistic Regression",
+  "model_deployed": "Logistic Regression + isotonic calibration",
+  "test_rows": 1761,
+  "base_churn_rate": 0.2654,
+  "roc_auc_uncalibrated": 0.8493,
+  "roc_auc_calibrated": 0.8495,
+  "pr_auc_uncalibrated": 0.6625,
+  "pr_auc_calibrated": 0.6637,
+  "brier_uncalibrated": 0.1621,
+  "brier_calibrated": 0.13363,
+  "brier_baseline_base_rate": 0.19486,
+  "f1_at_0.5_calibrated": 0.5913,
+  "confusion_at_0.5_calibrated": {
+    "tn": 1175,
+    "fp": 119,
+    "fn": 221,
+    "tp": 246
+  },
+  "high_risk_cutoff": 0.6,
+  "medium_risk_cutoff": 0.35,
+  "high_risk_share_test": 0.1329,
+  "profit_max_threshold": 0.15000000000000002,
+  "profit_at_threshold_scenario": 74571.24,
+  "best_contact_fraction_by_profit": 0.5,
+  "best_scenario_profit": 74611.34,
+  "scenario_assumptions": {
+    "save_rate": 0.3,
+    "cost_per_contacted": 40.0,
+    "clv_months": 12,
+    "note": "scenario only - true uplift needs A/B test data"
+  }
+}

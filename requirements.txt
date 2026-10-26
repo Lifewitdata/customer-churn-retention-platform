@@ -1,0 +1,39 @@
+# modelling
+pandas
+numpy
+scipy
+scikit-learn
+matplotlib
+seaborn
+xgboost
+lightgbm
+optuna
+shap
+lifelines
+torch
+
+# data contract, warehouse and API
+pandera
+duckdb
+pydantic
+fastapi
+uvicorn
+joblib
+
+# dashboard
+streamlit
+altair
+
+# notebook generation and execution
+nbformat
+nbconvert
+ipykernel
+
+# executive deck (src/make_deck.py writes the pptx; the pdf uses matplotlib)
+python-pptx
+
+# tests and the dashboard screenshot script
+pytest
+httpx
+requests
+websockets

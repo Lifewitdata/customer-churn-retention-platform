@@ -1,0 +1,14 @@
+{
+  "rows": 1761,
+  "scope": "held-out test split only (see note)",
+  "ibm_churn_score_range": [
+    7.0,
+    96.0
+  ],
+  "ibm_churn_score_roc_auc": 0.945,
+  "ibm_churn_score_pr_auc": 0.8783,
+  "our_calibrated_roc_auc": 0.8495,
+  "our_calibrated_pr_auc": 0.6637,
+  "spearman_between_scores": 0.3624,
+  "note": "Churn Score is excluded from every model (it encodes the label). Compared here as an external yardstick on out-of-sample rows for both scorers."
+}

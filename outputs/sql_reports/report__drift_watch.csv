@@ -1,0 +1,11 @@
+batch,measurement,value,verdict,review_flag,detail
+held_out_test_split,score_psi,0.0038,STABLE,ok,"Stratified test split, never used for training or calibration. Same period as the reference by construction, so a near-zero PSI here is a control, not evidence of stability over time."
+held_out_test_split,realised_roc_auc,0.8495,,ok,labels observed on batch
+held_out_test_split,realised_pr_auc,0.6637,,ok,labels observed on batch
+held_out_test_split,realised_f1_at_0.60,0.4793,,ok,labels observed on batch
+ibm_q3_rerelease,score_psi,0.0201,STABLE,ok,"IBM 11.1.3 Q3 re-release mapped to the 21-column schema. Same 7,043 customers and same labels as the reference; categories re-coded (Electronic check removed, DSL split into DSL/Cable, 265 contracts moved to term). Measures upstream re-coding drift, NOT temporal drift."
+ibm_q3_rerelease,category_change:PaymentMethod,0.0,SCHEMA CHANGE,action required,unseen=- dropped=Electronic check coverage=1.0
+ibm_q3_rerelease,feature_psi_categorical:PaymentMethod,3.3899,RETRAIN / INVESTIGATE,action required,"{'worst_category': 'Bank transfer (automatic)', 'ref_share': 0.2192, 'batch_share': 0.555}"
+ibm_q3_rerelease,realised_roc_auc,0.8645,,ok,labels observed on batch
+ibm_q3_rerelease,realised_pr_auc,0.7022,,ok,labels observed on batch
+ibm_q3_rerelease,realised_f1_at_0.60,0.4318,,ok,labels observed on batch

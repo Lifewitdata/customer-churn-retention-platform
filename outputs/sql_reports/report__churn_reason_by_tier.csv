@@ -1,0 +1,16 @@
+risk_tier,Churn Category,customers,mean_predicted,mean_cltv
+High,Competitor,350,0.7485,3986.0
+High,Attitude,115,0.7411,4018.0
+High,Dissatisfaction,112,0.7388,4163.0
+High,Other,73,0.7915,3987.0
+High,Price,69,0.7519,3863.0
+Low,Competitor,217,0.2189,4470.0
+Low,Attitude,102,0.2081,4221.0
+Low,Dissatisfaction,84,0.2049,4382.0
+Low,Price,83,0.1892,4415.0
+Low,Other,56,0.1762,4114.0
+Medium,Competitor,274,0.4864,4191.0
+Medium,Dissatisfaction,107,0.4902,3965.0
+Medium,Attitude,97,0.4756,4268.0
+Medium,Other,71,0.4662,3893.0
+Medium,Price,59,0.4766,4166.0

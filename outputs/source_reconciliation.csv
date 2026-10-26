@@ -1,0 +1,17 @@
+comparison,metric,value,detail
+customerID join coverage vs main,matched rows / primary rows,1.0,7043 of 7043
+customerID join coverage vs services,matched rows / primary rows,1.0,7043 of 7043
+tenure vs main Tenure Months,exact match rate,1.0,integer compare
+MonthlyCharges vs main Monthly Charges,exact match rate,1.0,2dp
+Churn vs main Churn Label,exact match rate,1.0,Yes/No
+Contract vs main Contract,exact match rate,1.0,main module is the same snapshot
+TotalCharges vs main Total Charges,exact match rate,0.9984,both feeds leave TotalCharges blank for the 11 tenure-0 rows
+SeniorCitizen vs demographics Senior Citizen,exact match rate,1.0,0/1 vs Yes/No; also equals Age >= 65 exactly
+gender vs demographics Gender,exact match rate,1.0,
+Partner vs demographics Married,exact match rate,1.0,"field renamed, values identical"
+Dependents vs demographics Dependents,exact match rate,0.9218,551 rows disagree — genuine cross-source conflict
+tenure vs services Tenure in Months,exact match rate,0.9984,the 11 mismatches are exactly the blank-TotalCharges tenure-0 rows; Q3 carries them at tenure 10
+tenure vs services Tenure in Months,pearson r,0.99987,near-identical
+Contract vs services Contract,match rate after documented map,0.9624,"265 rows disagree, all Month-to-month -> One Year/Two Year; churn rate among them 0.0% vs 26.5% overall"
+PaymentMethod vs services Payment Method,match rate after documented map,0.49,"Q3 has no 'Electronic check' category: all 2,365 map to Bank Withdrawal"
+InternetService vs services Internet Type,match rate after documented map,0.9913,Q3 splits DSL into DSL + Cable (769 rows); Cable mapped to DSL

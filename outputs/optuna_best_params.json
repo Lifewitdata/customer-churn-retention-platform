@@ -1,0 +1,13 @@
+{
+  "best_params": {
+    "n_estimators": 123,
+    "learning_rate": 0.025350397213363823,
+    "num_leaves": 19,
+    "min_child_samples": 26,
+    "subsample": 0.8193734887300548,
+    "colsample_bytree": 0.8401998981304427
+  },
+  "best_train_pr_auc_cv": 0.6539565067694652,
+  "n_trials": 15,
+  "objective": "stratified 3-fold CV PR-AUC on the training split only"
+}
