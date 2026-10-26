@@ -144,3 +144,11 @@ uvicorn src.api:app --port 8000             # POST /score, docs at /docs
   `docs/data_dictionary.md`.
 - Second file: the same study's 11.1.3 Q3 re-release, used for the drift and cross-source reconciliation
   checks in `outputs/drift_report.csv` and `outputs/source_reconciliation.csv`.
+
+## License
+
+MIT for the code, `docs/` and the generated artefacts in this repository (see `LICENSE`). The data is
+not mine to license: both feeds are copies of IBM's published Telco Customer Churn sample, and
+`data/raw/ibm_telco_11_1_3/PROVENANCE.md` records where each file was fetched from and pins every one
+of them by SHA-256, the classic 21-column CSV included. Reuse the data from IBM's original publication,
+not from this repo.
